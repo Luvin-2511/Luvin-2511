@@ -1,6 +1,7 @@
+
 <h1 align="center">Hi 👋, I'm Luvin</h1>
 <h3 align="center">1st Year Software Engineering Student</h3>
-<img align="right" alt="Coding" width="400" src="https://d11a6trkgmumsb.cloudfront.net/original/3X/6/2/62ddc37a5edbefc3abb90c7c71122a83915157aa.gif">
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/5e/a0/5e/5ea05e1da9ff3d8bbc6cfd5651d0330a.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luvin-2511&label=Profile%20views&color=0e75b6&style=flat" alt="luvin-2511" /> </p>
@@ -9,7 +10,7 @@
 
 - 💬 Ask me about **C++**
 
-- ⚡ Fun fact **I am korean And i love BTS**
+- ⚡ Fun fact **I Think Coding is Fun**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
