@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Luvin</h1>
-<h3 align="center">1st Year Software Engineering Student</h3>
+<h3 align="center">3rd Year Software Engineering Student</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/5e/a0/5e/5ea05e1da9ff3d8bbc6cfd5651d0330a.gif">
 
 
