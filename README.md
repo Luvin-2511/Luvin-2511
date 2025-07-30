@@ -2,13 +2,7 @@
 <h3 align="center">🚀 3rd Year Software Engineering Student | 👨‍💻 C++ & MERN Stack Dev</h3>
 
 <!-- 📊 Quick Stats Instead of Image -->
-<p align="right">
-  <b>🔥 Weekly Stats:</b><br>
-  ⏳ Learning: MERN Stack, Java<br>
-  📈 Coding Hours/Week: 30+<br>
-  📚 Focus: DSA + Full Stack Projects<br>
-  ☕ Fun Fact: I debug better after chai 😄
-</p>
+
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=luvin-2511&label=Profile%20views&color=0e75b6&style=flat" alt="luvin-2511" />
@@ -63,9 +57,9 @@
 
 ## 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=luvin-2511&layout=compact&theme=tokyonight" alt="Top Languages" />
-  <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=luvin-2511&theme=tokyonight" alt="Streak Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=luvin-2511&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
@@ -77,7 +71,7 @@
 
 ---
 
-## 🏆 GitHub Trophies (Top 4 Only):
+## 🏆 GitHub Trophies :
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=luvin-2511&theme=tokyonight&no-frame=true&title=Stars,Commits,Repositories,Followers" />
 </p>
