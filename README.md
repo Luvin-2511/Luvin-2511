@@ -49,14 +49,6 @@
 
 ---
 
-## 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=luvin-2511&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=luvin-2511&theme=tokyonight" alt="Streak Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=luvin-2511&layout=compact&theme=tokyonight" alt="Top Langs" />
-</p>
 
 ---
 
