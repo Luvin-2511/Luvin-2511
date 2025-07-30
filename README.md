@@ -71,7 +71,26 @@
 
 ---
 
+## 🚀 Featured Projects
+
+### 🧠 Portfolio
+A clean and modern personal portfolio website built with HTML, CSS, JavaScript to showcase my skills, projects, and resume
+
+[🔗 View Repository](https://github.com/Luvin-2511/Updated_Portfolio)
+
+---
+
+### 💡 Leetcode Questions
+A curated collection of my solutions to LeetCode problems, organized by topic and difficulty. Solved in C++
+
+[🔗 View Repository](https://github.com/Luvin-2511/LeetCodeQuestions)
+
+
+---
+
 ## 🏆 GitHub Trophies :
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=luvin-2511&theme=tokyonight&no-frame=true&title=Stars,Commits,Repositories,Followers" />
 </p>
+
+
