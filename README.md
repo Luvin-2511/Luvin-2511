@@ -1,9 +1,12 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I'm Luvin</h1>
 <h3 align="center">🚀 3rd Year Software Engineering Student | 👨‍💻 Passionate C++ & Full Stack Developer</h3>
 
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/5e/a0/5e/5ea05e1da9ff3d8bbc6cfd5651d0330a.gif">
+<!-- Clean Developer Vector Image -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/harshibar/images/main/coding.svg" alt="developer vector" width="500"/>
+</p>
 
-<p align="left">
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=luvin-2511&label=Profile%20views&color=0e75b6&style=flat" alt="luvin-2511" />
 </p>
 
@@ -15,10 +18,23 @@
 ---
 
 ## 🌐 Connect with me:
+
 <p align="left">
-  <a href="https://linkedin.com/in/your-link" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:yourmail@example.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/your-link" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:yourmail@example.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
 </p>
+
+<!-- Hover button style (optional, works only visually via some HTML emulation) -->
+<style>
+  a img:hover {
+    transform: scale(1.1);
+    transition: 0.3s ease;
+  }
+</style>
 
 ---
 
