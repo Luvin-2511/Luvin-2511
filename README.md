@@ -28,27 +28,21 @@
 ## 🛠️ Tech Stack & Tools
 
 <p align="left">
-  <!-- Languages -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-
-  <!-- Web & Frameworks -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="TailwindCSS" width="40" height="40"/>
-
-  <!-- Backend & DB -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/mongoose.svg" alt="Mongoose" width="40" height="40"/>
-
-  <!-- Tools -->
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
+  <!-- Language & Tools Icons -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/mongoose.svg" alt="Mongoose" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40"/>
 </p>
 
 ---
@@ -56,9 +50,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=luvin-2511&theme=tokyonight" alt="Streak Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=luvin-2511&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=luvin-2511&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luvin-2511&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=luvin-2511&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---
@@ -66,26 +63,21 @@
 ## 📈 Contribution Graph (Since June 2025)
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=luvin-2511&theme=tokyo-night&start_date=2025-06-01" alt="Activity Graph from June"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=luvin-2511&theme=tokyo-night&start_date=2025-06-01" alt="Activity Graph"/>
 </p>
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🧠 Portfolio Website
-A modern, responsive developer portfolio built using **HTML, CSS, and JavaScript**.  
-Includes resume download, project showcase, and contact form with clean animations.
-
-[🔗 View Repository](https://github.com/Luvin-2511/Updated_Portfolio)
-
----
-
-### 💡 LeetCode DSA Tracker
-A curated set of **LeetCode solutions in C++**, organized by topic and difficulty.  
-Includes both brute-force and optimized approaches with clean code.
-
-[🔗 View Repository](https://github.com/Luvin-2511/LeetCodeQuestions)
+<p align="center">
+  <a href="https://github.com/Luvin-2511/Updated_Portfolio">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Luvin-2511&repo=Updated_Portfolio&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/Luvin-2511/LeetCodeQuestions">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Luvin-2511&repo=LeetCodeQuestions&theme=tokyonight" />
+  </a>
+</p>
 
 ---
 
