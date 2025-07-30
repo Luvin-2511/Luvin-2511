@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I'm Luvin</h1>
-<h3 align="center">🚀 3rd Year Software Engineering Student | 👨‍💻 C++ & MERN Stack Dev</h3>
+<h3 align="center">🚀 3rd Year Software Engineering Student | 👨‍💻 MERN Stack Dev & Competitive Programmer</h3>
 
 <!-- 📊 Quick Stats Instead of Image -->
 
