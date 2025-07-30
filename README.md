@@ -1,9 +1,6 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I'm Luvin</h1>
 <h3 align="center">🚀 3rd Year Software Engineering Student | 👨‍💻 MERN Stack Dev & Competitive Programmer</h3>
 
-<!-- 📊 Quick Stats Instead of Image -->
-
-
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=luvin-2511&label=Profile%20views&color=0e75b6&style=flat" alt="luvin-2511" />
 </p>
@@ -15,7 +12,7 @@
 
 ---
 
-## 🌐 Connect with me:
+## 🌐 Connect with Me
 
 <p align="left">
   <a href="https://linkedin.com/in/your-link" target="_blank">
@@ -28,7 +25,8 @@
 
 ---
 
-## 🛠️ Tech Stack & Tools:
+## 🛠️ Tech Stack & Tools
+
 <p align="left">
   <!-- Languages -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
@@ -55,7 +53,8 @@
 
 ---
 
-## 📊 GitHub Stats:
+## 📊 GitHub Stats
+
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=luvin-2511&theme=tokyonight" alt="Streak Stats" />
   <br/>
@@ -64,7 +63,8 @@
 
 ---
 
-## 📈 Contributions Since June 2025:
+## 📈 Contribution Graph (Since June 2025)
+
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=luvin-2511&theme=tokyo-night&start_date=2025-06-01" alt="Activity Graph from June"/>
 </p>
@@ -73,24 +73,24 @@
 
 ## 🚀 Featured Projects
 
-### 🧠 Portfolio
-A clean and modern personal portfolio website built with HTML, CSS, JavaScript to showcase my skills, projects, and resume
+### 🧠 Portfolio Website
+A modern, responsive developer portfolio built using **HTML, CSS, and JavaScript**.  
+Includes resume download, project showcase, and contact form with clean animations.
 
 [🔗 View Repository](https://github.com/Luvin-2511/Updated_Portfolio)
 
 ---
 
-### 💡 Leetcode Questions
-A curated collection of my solutions to LeetCode problems, organized by topic and difficulty. Solved in C++
+### 💡 LeetCode DSA Tracker
+A curated set of **LeetCode solutions in C++**, organized by topic and difficulty.  
+Includes both brute-force and optimized approaches with clean code.
 
 [🔗 View Repository](https://github.com/Luvin-2511/LeetCodeQuestions)
 
-
 ---
 
-## 🏆 GitHub Trophies :
+## 🏆 GitHub Achievements
+
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=luvin-2511&theme=tokyonight&no-frame=true&title=Stars,Commits,Repositories,Followers" />
 </p>
-
-
