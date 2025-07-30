@@ -1,19 +1,23 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I'm Luvin</h1>
-<h3 align="center">🚀 3rd Year Software Engineering Student | 👨‍💻 Passionate C++ & Full Stack Developer</h3>
+<h3 align="center">🚀 3rd Year Software Engineering Student | 👨‍💻 C++ & MERN Stack Dev</h3>
 
-<!-- Clean Developer Vector Image -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/harshibar/images/main/coding.svg" alt="developer vector" width="500"/>
+<!-- 📊 Quick Stats Instead of Image -->
+<p align="right">
+  <b>🔥 Weekly Stats:</b><br>
+  ⏳ Learning: MERN Stack, Java<br>
+  📈 Coding Hours/Week: 30+<br>
+  📚 Focus: DSA + Full Stack Projects<br>
+  ☕ Fun Fact: I debug better after chai 😄
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=luvin-2511&label=Profile%20views&color=0e75b6&style=flat" alt="luvin-2511" />
 </p>
 
-- 🌱 I’m currently learning **DSA, MERN stack & Java Backend**
-- 💬 Ask me about **C++, Web Development, and Java**
-- 🧠 Fun Fact: **I think debugging is like solving a murder mystery — where you're the killer**
-- 🎯 Goal for 2025: **Build kickass projects, contribute to open source, and crack internships**
+- 🌱 Currently learning **DSA, Java Backend & MongoDB**
+- 💬 Ask me about **C++, React, or Express**
+- 🎯 Goal: Land internships & build open-source tools
+- ⚡ Fun Fact: I name all my projects before I even start them
 
 ---
 
@@ -27,14 +31,6 @@
     <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
-
-<!-- Hover button style (optional, works only visually via some HTML emulation) -->
-<style>
-  a img:hover {
-    transform: scale(1.1);
-    transition: 0.3s ease;
-  }
-</style>
 
 ---
 
@@ -81,7 +77,7 @@
 
 ---
 
-## 🏆 GitHub Trophies:
+## 🏆 GitHub Trophies (Top 4 Only):
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=luvin-2511&theme=tokyonight&no-frame=true&column=7&margin-w=10" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=luvin-2511&theme=tokyonight&no-frame=true&title=Stars,Commits,Repositories,Followers" />
 </p>
