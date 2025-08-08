@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=luvin-2511&label=Profile%20views&color=0e75b6&style=flat" alt="luvin-2511" />
 </p>
 
-- 🌱 Currently learning **DSA, Java Backend & MongoDB**
+- 🌱 Currently learning **DSA, MERN Stack & Backend **
 - 💬 Ask me about **C++, React, or Express**
 - 🎯 Goal: Land internships & build open-source tools
 - ⚡ Fun Fact: I name all my projects before I even start them
