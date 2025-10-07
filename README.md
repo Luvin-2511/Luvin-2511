@@ -68,6 +68,10 @@
 
 ---
 
+![snake gif](https://github.com/Luvin-2511/Luvin-2511/blob/output/snake.svg)
+
+---
+
 ## 🚀 Featured Projects
 
 <p align="center">
