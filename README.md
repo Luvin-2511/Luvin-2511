@@ -99,26 +99,6 @@
 
 ---
 
-## 🎧 Spotify Vibes While Coding
-<p align="center">
-  <a href="https://open.spotify.com/user/">
-    <img src="https://novatorem.vercel.app/api/spotify" alt="Spotify Now Playing" width="400"/>
-  </a>
-</p>
-
----
-
-## 🧩 Weekly Development Breakdown
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=luvin2511&theme=tokyonight&layout=compact" alt="Wakatime Stats"/>
-</p>
-
----
-
-## 🪄 Fun Developer Quote
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote"/>
-</p>
 
 ---
 
