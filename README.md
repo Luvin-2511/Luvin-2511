@@ -28,7 +28,6 @@
 ## 🛠️ Tech Stack & Tools
 
 <p align="left">
-  <!-- Language & Tools Icons -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40"/>
@@ -89,4 +88,59 @@
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=luvin-2511&theme=tokyonight&no-frame=true&title=Stars,Commits,Repositories,Followers" />
+</p>
+
+---
+
+## 🧠 Coding Activity (Real-Time)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=luvin-2511&custom_title=🔥%20Luvin's%20Coding%20Activity&theme=react-dark&hide_border=true" alt="Coding Activity Graph"/>
+</p>
+
+---
+
+## 🎧 Spotify Vibes While Coding
+<p align="center">
+  <a href="https://open.spotify.com/user/">
+    <img src="https://novatorem.vercel.app/api/spotify" alt="Spotify Now Playing" width="400"/>
+  </a>
+</p>
+
+---
+
+## 🧩 Weekly Development Breakdown
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=luvin2511&theme=tokyonight&layout=compact" alt="Wakatime Stats"/>
+</p>
+
+---
+
+## 🪄 Fun Developer Quote
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote"/>
+</p>
+
+---
+
+## 🌍 Profile Summary & Language Insights
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=luvin-2511&theme=tokyonight" alt="Profile Summary Card"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=luvin-2511&theme=tokyonight" alt="Repos per language"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=luvin-2511&theme=tokyonight" alt="Most Commit Language"/>
+</p>
+
+---
+
+## 🧑‍🚀 “Beyond the Code”
+<p align="center">
+💻 I code until my chai gets cold ☕ <br/>
+🎬 Love cinematic web designs & smooth UI animations <br/>
+🚴‍♂️ Gym, Music, Code, Repeat — that’s the vibe 😎
+</p>
+
+---
+
+## ⚡ Power Level (GitHub Metrics)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=luvin-2511&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&custom_title=Luvin's%20Power%20Level" alt="Power Level"/>
 </p>
