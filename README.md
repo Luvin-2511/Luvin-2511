@@ -138,9 +138,3 @@
 🚴‍♂️ Gym, Music, Code, Repeat — that’s the vibe 😎
 </p>
 
----
-
-## ⚡ Power Level (GitHub Metrics)
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=luvin-2511&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&custom_title=Luvin's%20Power%20Level" alt="Power Level"/>
-</p>
