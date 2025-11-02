@@ -29,7 +29,7 @@
 <h3 align="left">🧠 Languages</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,python,java,js,html,css" />
+    <img src="https://skillicons.dev/icons?i=cpp,python,java,js,html,css,scss" />
   </a>
 </p>
 
@@ -46,6 +46,7 @@
     <img src="https://skillicons.dev/icons?i=figma,vscode,github" />
   </a>
 </p>
+
 
 
 
