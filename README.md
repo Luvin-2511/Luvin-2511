@@ -28,21 +28,50 @@
 ## 🛠️ Tech Stack & Tools
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/mongoose.svg" alt="Mongoose" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40"/>
+  <span style="display: inline-block; background: rgba(255,255,255,0.1); border-radius: 12px; padding: 10px; margin: 6px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40"/>
+  </span>
+  <span style="display: inline-block; background: rgba(255,255,255,0.1); border-radius: 12px; padding: 10px; margin: 6px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40"/>
+  </span>
+  <span style="display: inline-block; background: rgba(255,255,255,0.1); border-radius: 12px; padding: 10px; margin: 6px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40"/>
+  </span>
+  <span style="display: inline-block; background: rgba(255,255,255,0.1); border-radius: 12px; padding: 10px; margin: 6px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40"/>
+  </span>
+  <span style="display: inline-block; background: rgba(255,255,255,0.1); border-radius: 12px; padding: 10px; margin: 6px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="40"/>
+  </span>
+  <span style="display: inline-block; background: rgba(255,255,255,0.1); border-radius: 12px; padding: 10px; margin: 6px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40"/>
+  </span>
+  <span style="display: inline-block; background: rgba(255,255,255,0.1); border-radius: 12px; padding: 10px; margin: 6px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40"/>
+  </span>
+  <span style="display: inline-block; background: rgba(255,255,255,0.1); border-radius: 12px; padding: 10px; margin: 6px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40"/>
+  </span>
+  <span style="display: inline-block; background: rgba(255,255,255,0.1); border-radius: 12px; padding: 10px; margin: 6px;">
+    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind" width="40"/>
+  </span>
+  <span style="display: inline-block; background: rgba(255,255,255,0.1); border-radius: 12px; padding: 10px; margin: 6px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40"/>
+  </span>
+  <span style="display: inline-block; background: rgba(255,255,255,0.1); border-radius: 12px; padding: 10px; margin: 6px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express" width="40"/>
+  </span>
+  <span style="display: inline-block; background: rgba(255,255,255,0.1); border-radius: 12px; padding: 10px; margin: 6px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40"/>
+  </span>
+  <span style="display: inline-block; background: rgba(255,255,255,0.1); border-radius: 12px; padding: 10px; margin: 6px;">
+    <img src="https://cdn.worldvectorlogo.com/logos/mongoose.svg" alt="Mongoose" width="40"/>
+  </span>
+  <span style="display: inline-block; background: rgba(255,255,255,0.1); border-radius: 12px; padding: 10px; margin: 6px;">
+    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40"/>
+  </span>
 </p>
+
 
 ---
 
