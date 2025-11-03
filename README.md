@@ -24,7 +24,6 @@
 </p>
 
 ---
-
 ## 🛠️ Tech Stack & Tools
 <h3 align="left">🧠 Languages</h3>
 <p align="left">
@@ -43,9 +42,10 @@
 <h3 align="left">🎨 Tools</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=figma,vscode,github" />
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
   </a>
 </p>
+
 
 
 
