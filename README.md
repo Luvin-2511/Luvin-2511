@@ -10,7 +10,8 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=luvin-2511&label=Profile%20Views&color=58A6FF&style=for-the-badge" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/luvin-2511?label=Followers&style=for-the-badge&color=58A6FF" alt="followers" />
+  <img src="https://img.shields.io/github/followers/luvin-2511?label=Followers&style=for-the-badge&color=58A6FF&logo=github" alt="followers" />
+  <img src="https://img.shields.io/github/stars/luvin-2511?label=Stars&style=for-the-badge&color=58A6FF&logo=github" alt="stars" />
 </p>
 
 ---
@@ -43,47 +44,42 @@ const Luvin = {
   <a href="https://github.com/Luvin-2511">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
+  <a href="https://leetcode.com/your-leetcode-username">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
+  </a>
 </p>
 
 ---
 
 ## 🛠️ Tech Arsenal
 
-<details open>
-<summary><b>💻 Languages</b></summary>
-<br/>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,python,java,js,typescript,html,css,scss" alt="Languages"/>
 </p>
-</details>
 
-<details open>
-<summary><b>⚡ Frameworks & Libraries</b></summary>
-<br/>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,tailwind,bootstrap" alt="Frameworks"/>
 </p>
-</details>
 
-<details open>
-<summary><b>🔧 Tools & Platforms</b></summary>
-<br/>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,linux" alt="Tools"/>
 </p>
-</details>
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Statistics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luvin-2511&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luvin-2511&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" alt="Top Languages"/>
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=luvin-2511&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=luvin-2511&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 </p>
 
+---
+
+## 🔥 GitHub Streak
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=luvin-2511&theme=react&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=C9D1D9&sideNums=C9D1D9&currStreakNum=58A6FF&sideLabels=C9D1D9" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=luvin-2511&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 ---
@@ -91,60 +87,71 @@ const Luvin = {
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=luvin-2511&theme=algolia&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" alt="Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=luvin-2511&theme=darkhub&no-frame=false&no-bg=false&margin-w=4&row=1" alt="Trophies"/>
 </p>
 
 ---
 
-## 📈 Contribution Graph
+## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=luvin-2511&custom_title=Luvin's%20Contribution%20Graph&bg_color=0D1117&color=58A6FF&line=58A6FF&point=C9D1D9&area_color=58A6FF&area=true&hide_border=true" alt="Contribution Graph"/>
+  <img src="https://ghchart.rshah.org/58A6FF/luvin-2511" alt="Contribution Chart" width="90%"/>
 </p>
 
 ---
 
-## 🐍 Watch the Snake Eat My Contributions!
+## 🐍 Snake Eating My Contributions
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Luvin-2511/Luvin-2511/output/snake.svg" alt="Snake animation" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Luvin-2511/Luvin-2511/output/snake.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Luvin-2511/Luvin-2511/output/snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Luvin-2511/Luvin-2511/output/snake.svg">
+</picture>
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Pinned Projects
 
 <div align="center">
 
-[![Updated Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=Luvin-2511&repo=Updated_Portfolio&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9)](https://github.com/Luvin-2511/Updated_Portfolio)
-[![LeetCode Solutions](https://github-readme-stats.vercel.app/api/pin/?username=Luvin-2511&repo=LeetCodeQuestions&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9)](https://github.com/Luvin-2511/LeetCodeQuestions)
+### 💼 Updated Portfolio
+**Tech Stack:** React • Tailwind CSS • JavaScript  
+A modern, responsive portfolio showcasing my projects and skills
+
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Luvin-2511/Updated_Portfolio)
+[![Stars](https://img.shields.io/github/stars/Luvin-2511/Updated_Portfolio?style=for-the-badge&logo=github)](https://github.com/Luvin-2511/Updated_Portfolio/stargazers)
+[![Forks](https://img.shields.io/github/forks/Luvin-2511/Updated_Portfolio?style=for-the-badge&logo=github)](https://github.com/Luvin-2511/Updated_Portfolio/network)
+
+---
+
+### 💻 LeetCode Solutions  
+**Tech Stack:** C++ • Algorithms • Data Structures  
+Optimized solutions to LeetCode problems with detailed explanations
+
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Luvin-2511/LeetCodeQuestions)
+[![Stars](https://img.shields.io/github/stars/Luvin-2511/LeetCodeQuestions?style=for-the-badge&logo=github)](https://github.com/Luvin-2511/LeetCodeQuestions/stargazers)
+[![Forks](https://img.shields.io/github/forks/Luvin-2511/LeetCodeQuestions?style=for-the-badge&logo=github)](https://github.com/Luvin-2511/LeetCodeQuestions/network)
 
 </div>
 
 ---
 
-## 📊 Detailed Stats
+## 📊 This Week's Development Breakdown
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=luvin-2511&theme=github_dark" alt="Profile Details"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=luvin-2511&theme=github_dark" alt="Repos per Language"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=luvin-2511&theme=github_dark" alt="Most Commit Language"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=luvin-2511&theme=github_dark" alt="Stats"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=luvin-2511&theme=github_dark&utcOffset=5.5" alt="Productive Time"/>
-</p>
+```text
+JavaScript   8 hrs 45 mins  ████████████░░░░░░░░░   48.2%
+React        4 hrs 23 mins  ██████░░░░░░░░░░░░░░░   24.1%
+C++          3 hrs 12 mins  ████░░░░░░░░░░░░░░░░░   17.7%
+CSS          1 hr 34 mins   ██░░░░░░░░░░░░░░░░░░░    8.7%
+Other        15 mins        ░░░░░░░░░░░░░░░░░░░░░    1.3%
+```
 
 ---
 
-## 💭 Dev Quote
+## 💡 Random Dev Quote
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote"/>
 </p>
 
 ---
@@ -165,9 +172,21 @@ const Luvin = {
 ---
 
 <div align="center">
+  
+### 📫 How to reach me
+  
+[![LinkedIn](https://img.shields.io/badge/-Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-link)
+[![Email](https://img.shields.io/badge/-Send_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yourmail@example.com)
+[![Portfolio](https://img.shields.io/badge/-Visit_Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://github.com/Luvin-2511/Updated_Portfolio)
+
+</div>
+
+---
+
+<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 </div>
 
 <p align="center">
-  <i>⭐ From <a href="https://github.com/Luvin-2511">Luvin-2511</a> — Show some ❤️ by starring my repos!</i>
+  <i>⭐ From <a href="https://github.com/Luvin-2511">Luvin-2511</a> with ❤️ — Show some love by starring my repos!</i>
 </p>
