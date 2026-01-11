@@ -114,14 +114,12 @@ const Luvin = {
 
 ## 🚀 Featured Projects
 
-<p align="center">
-  <a href="https://github.com/Luvin-2511/Updated_Portfolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Luvin-2511&repo=Updated_Portfolio&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="Updated Portfolio"/>
-  </a>
-  <a href="https://github.com/Luvin-2511/LeetCodeQuestions">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Luvin-2511&repo=LeetCodeQuestions&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="LeetCode Solutions"/>
-  </a>
-</p>
+<div align="center">
+
+[![Updated Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=Luvin-2511&repo=Updated_Portfolio&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9)](https://github.com/Luvin-2511/Updated_Portfolio)
+[![LeetCode Solutions](https://github-readme-stats.vercel.app/api/pin/?username=Luvin-2511&repo=LeetCodeQuestions&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9)](https://github.com/Luvin-2511/LeetCodeQuestions)
+
+</div>
 
 ---
 
