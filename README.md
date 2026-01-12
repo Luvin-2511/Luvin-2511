@@ -118,6 +118,7 @@ const Luvin = {
 **Tech Stack:** React • Tailwind CSS • JavaScript  
 A modern, responsive portfolio showcasing my projects and skills
 
+[![Live Demo](https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-kappa-three-9z04v2ln1e.vercel.app/)
 [![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Luvin-2511/Updated_Portfolio)
 [![Stars](https://img.shields.io/github/stars/Luvin-2511/Updated_Portfolio?style=for-the-badge&logo=github)](https://github.com/Luvin-2511/Updated_Portfolio/stargazers)
 [![Forks](https://img.shields.io/github/forks/Luvin-2511/Updated_Portfolio?style=for-the-badge&logo=github)](https://github.com/Luvin-2511/Updated_Portfolio/network)
@@ -148,14 +149,6 @@ Other        15 mins        ░░░░░░░░░░░░░░░░░�
 
 ---
 
-## 💡 Random Dev Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote"/>
-</p>
-
----
-
 ## 🧑‍🚀 Beyond The Code
 
 <p align="center">
@@ -177,7 +170,7 @@ Other        15 mins        ░░░░░░░░░░░░░░░░░�
   
 [![LinkedIn](https://img.shields.io/badge/-Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-link)
 [![Email](https://img.shields.io/badge/-Send_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yourmail@example.com)
-[![Portfolio](https://img.shields.io/badge/-Visit_Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://github.com/Luvin-2511/Updated_Portfolio)
+[![Portfolio](https://img.shields.io/badge/-Visit_Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://portfolio-kappa-three-9z04v2ln1e.vercel.app/)
 
 </div>
 
