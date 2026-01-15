@@ -70,8 +70,8 @@ const Luvin = {
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=luvin-2511&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=luvin-2511&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luvin-2511&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luvin-2511&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -107,33 +107,6 @@ const Luvin = {
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Luvin-2511/Luvin-2511/output/snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Luvin-2511/Luvin-2511/output/snake.svg">
 </picture>
-
----
-
-## 🚀 Pinned Projects
-
-<div align="center">
-
-### 💼 Updated Portfolio
-**Tech Stack:** React • Tailwind CSS • JavaScript  
-A modern, responsive portfolio showcasing my projects and skills
-
-[![Live Demo](https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-kappa-three-9z04v2ln1e.vercel.app/)
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Luvin-2511/Updated_Portfolio)
-[![Stars](https://img.shields.io/github/stars/Luvin-2511/Updated_Portfolio?style=for-the-badge&logo=github)](https://github.com/Luvin-2511/Updated_Portfolio/stargazers)
-[![Forks](https://img.shields.io/github/forks/Luvin-2511/Updated_Portfolio?style=for-the-badge&logo=github)](https://github.com/Luvin-2511/Updated_Portfolio/network)
-
----
-
-### 💻 LeetCode Solutions  
-**Tech Stack:** C++ • Algorithms • Data Structures  
-Optimized solutions to LeetCode problems with detailed explanations
-
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Luvin-2511/LeetCodeQuestions)
-[![Stars](https://img.shields.io/github/stars/Luvin-2511/LeetCodeQuestions?style=for-the-badge&logo=github)](https://github.com/Luvin-2511/LeetCodeQuestions/stargazers)
-[![Forks](https://img.shields.io/github/forks/Luvin-2511/LeetCodeQuestions?style=for-the-badge&logo=github)](https://github.com/Luvin-2511/LeetCodeQuestions/network)
-
-</div>
 
 ---
 
