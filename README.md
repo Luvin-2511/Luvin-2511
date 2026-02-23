@@ -18,17 +18,39 @@
 
 ## 🚀 About Me
 
+<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 ```typescript
 const Luvin = {
-    location: "India 🇮🇳",
-    education: "3rd Year Software Engineering",
-    currentFocus: ["DSA Mastery", "MERN Stack", "System Design"],
-    askMeAbout: ["C++", "React", "Node.js", "Express", "MongoDB"],
-    goal: "Land dream internships & contribute to impactful open-source",
-    funFact: "I name all my projects before writing a single line of code 😄",
-    lifePhilosophy: "Code until the chai gets cold ☕"
+  location        : "India 🇮🇳",
+  education       : "3rd Year · Software Engineering",
+
+  currently       : {
+    learning      : ["System Design", "DSA Patterns", "TypeScript"],
+    building      : "Full-Stack MERN Projects",
+    grinding      : "LeetCode — one problem at a time 🔥",
+  },
+
+  stack           : {
+    languages     : ["C++", "JavaScript", "TypeScript", "Python"],
+    frontend      : ["React", "Next.js", "TailwindCSS"],
+    backend       : ["Node.js", "Express.js", "REST APIs"],
+    database      : ["MongoDB", "Mongoose"],
+    tools         : ["Git", "GitHub", "Postman", "VS Code", "Figma"],
+  },
+
+  goals           : [
+    "🏆 Land a top-tier internship",
+    "🌍 Contribute to meaningful open-source",
+    "📈 Master System Design",
+  ],
+
+  softSkills      : ["Problem Solver", "Fast Learner", "Team Player"],
+  funFact         : "I name all my projects before writing a single line of code 😄",
+  lifePhilosophy  : "Code until the chai gets cold ☕",
 };
 ```
+
+> *"First, solve the problem. Then, write the code."* — John Johnson
 
 ---
 
