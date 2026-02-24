@@ -90,8 +90,8 @@ const Luvin = {
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Luvin-2511&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&border_radius=12&rank_icon=github"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luvin-2511&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&border_radius=12"/>
+  <img height="180em" src="https://github-readme-stats-salesp07.vercel.app/api?username=Luvin-2511&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&border_radius=12&rank_icon=github"/>
+  <img height="180em" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Luvin-2511&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&border_radius=12"/>
 </p>
 
 ---
