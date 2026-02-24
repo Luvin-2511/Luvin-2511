@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Luvin%20👨‍💻&fontSize=60&fontAlignY=35&desc=Software%20Engineer%20%7C%20MERN%20Stack%20%7C%20Competitive%20Programmer&descAlignY=55&descAlign=50&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi%20👋%20I'm%20Luvin&fontSize=52&fontAlignY=35&desc=Software%20Engineer%20%7C%20MERN%20Stack%20Developer%20%7C%20Competitive%20Programmer&descAlignY=55&descAlign=50&animation=fadeIn" width="100%"/>
 </div>
 
 <p align="center">
@@ -7,60 +7,35 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=luvin-2511&label=Profile%20Views&color=58A6FF&style=for-the-badge" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/luvin-2511?label=Followers&style=for-the-badge&color=58A6FF&logo=github" alt="followers" />
-  <img src="https://img.shields.io/github/stars/luvin-2511?label=Stars&style=for-the-badge&color=58A6FF&logo=github" alt="stars" />
+  <img src="https://komarev.com/ghpvc/?username=Luvin-2511&label=Profile%20Views&color=58A6FF&style=for-the-badge" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/Luvin-2511?label=Followers&style=for-the-badge&color=58A6FF&logo=github" alt="followers" />
+  <img src="https://img.shields.io/github/stars/Luvin-2511?label=Stars&style=for-the-badge&color=58A6FF&logo=github" alt="stars" />
 </p>
 
 ---
 
-## 🧬 About Me
+## 🚀 About Me
 
-<img align="right" alt="Coding" width="280" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" style="border-radius: 12px;"/>
+<img align="right" alt="Coding" width="270" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
 ```typescript
-/**
- * @author   Luvin
- * @version  2025.build.1
- * @status   actively_shipping 🚀
- */
-
-class Developer {
-  readonly name    = "Luvin";
-  readonly base    = "India 🇮🇳";
-  readonly year    = "3rd Year — Software Engineering";
-
-  readonly now = {
-    grind    : "LeetCode DSA — daily no excuses 🔥",
-    craft    : "Full-Stack MERN applications",
-    explore  : ["System Design", "TypeScript", "Open Source"],
-  };
-
-  readonly stack = {
-    lang     : ["C++", "JavaScript", "TypeScript", "Python"],
-    frontend : ["React ⚛️", "Next.js", "Tailwind CSS"],
-    backend  : ["Node.js", "Express.js", "REST APIs"],
-    db       : ["MongoDB", "Mongoose"],
-    devtools : ["Git", "GitHub", "Postman", "Figma", "VS Code"],
-  };
-
-  readonly unlocked = [
-    "🏆  Top-tier internship",
-    "🌍  Impactful open-source contributions",
-    "📐  System Design mastery",
-    "🛠️  Ship products that matter",
-  ];
-
-  get philosophy(): string {
-    return "Code until the chai gets cold ☕";
-  }
-
-  get funFact(): string {
-    return "I name all my projects before writing line #1 😄";
-  }
-}
-
-export default new Developer();
+const Luvin = {
+  location  : "India 🇮🇳",
+  education : "3rd Year · Software Engineering",
+  currently : {
+    grind   : "LeetCode DSA — daily, no excuses 🔥",
+    craft   : "Full-Stack MERN applications",
+    explore : ["System Design", "TypeScript", "Open Source"],
+  },
+  stack     : {
+    lang    : ["C++", "JavaScript", "TypeScript", "Python"],
+    web     : ["React", "Next.js", "Node.js", "Express", "MongoDB"],
+    tools   : ["Git", "Postman", "Figma", "VS Code"],
+  },
+  goals     : ["🏆 Top-tier internship", "🌍 Open Source", "📐 System Design"],
+  funFact   : "I name projects before writing line #1 😄",
+  motto     : "Code until the chai gets cold ☕",
+};
 ```
 
 <br clear="right"/>
@@ -115,8 +90,8 @@ export default new Developer();
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luvin-2511&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&border_radius=12"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luvin-2511&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&border_radius=12"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Luvin-2511&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&border_radius=12&rank_icon=github"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luvin-2511&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&border_radius=12"/>
 </p>
 
 ---
@@ -124,7 +99,7 @@ export default new Developer();
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=luvin-2511&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=Luvin-2511&theme=tokyonight&hide_border=true&border_radius=12&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
 </p>
 
 ---
@@ -132,7 +107,7 @@ export default new Developer();
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=luvin-2511&theme=darkhub&no-frame=true&no-bg=false&margin-w=6&row=1&column=7" alt="Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Luvin-2511&theme=darkhub&no-frame=true&no-bg=false&margin-w=6&row=1&column=7" alt="Trophies"/>
 </p>
 
 ---
@@ -140,7 +115,7 @@ export default new Developer();
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/58A6FF/luvin-2511" alt="Contribution Chart" width="90%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Luvin-2511&theme=tokyo-night&hide_border=true&radius=12" alt="Contribution Graph" width="95%"/>
 </p>
 
 ---
