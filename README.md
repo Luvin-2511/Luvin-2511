@@ -104,14 +104,6 @@ const Luvin = {
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Luvin-2511&theme=darkhub&no-frame=true&no-bg=false&margin-w=6&row=1&column=7" alt="Trophies"/>
-</p>
-
----
-
 ## 📈 Contribution Activity
 
 <p align="center">
