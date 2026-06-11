@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi%20👋%20I'm%20Luvin&fontSize=52&fontAlignY=35&desc=Software%20Engineer%20%7C%20MERN%20Stack%20Developer%20%7C%20Competitive%20Programmer&descAlignY=55&descAlign=50&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hi%20👋%20I'm%20Luvin&fontSize=60&fontAlignY=38&desc=Software%20Engineer%20%7C%20MERN%20Stack%20Developer%20%7C%20Competitive%20Programmer&descAlignY=58&descAlign=50&animation=fadeIn&stroke=58A6FF&strokeWidth=1" width="100%"/>
 </div>
 
 <p align="center">
@@ -18,25 +18,14 @@
 
 <img align="right" alt="Coding" width="270" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
-```typescript
-const Luvin = {
-  location  : "India 🇮🇳",
-  education : "3rd Year · Software Engineering",
-  currently : {
-    grind   : "LeetCode DSA — daily, no excuses 🔥",
-    craft   : "Full-Stack MERN applications",
-    explore : ["System Design", "TypeScript", "Open Source"],
-  },
-  stack     : {
-    lang    : ["C++", "JavaScript", "TypeScript", "Python"],
-    web     : ["React", "Next.js", "Node.js", "Express", "MongoDB"],
-    tools   : ["Git", "Postman", "Figma", "VS Code"],
-  },
-  goals     : ["🏆 Top-tier internship", "🌍 Open Source", "📐 System Design"],
-  funFact   : "I name projects before writing line #1 😄",
-  motto     : "Code until the chai gets cold ☕",
-};
-```
+- 📍 **Location:** India 🇮🇳
+- 🎓 **Education:** 3rd Year · Software Engineering
+- 🔥 **Grinding:** LeetCode DSA — daily, no excuses
+- 🛠️ **Crafting:** Full-Stack MERN applications
+- 🌱 **Exploring:** System Design · TypeScript · Open Source
+- 🏆 **Goals:** Top-tier internship · Open Source · System Design
+- 😄 **Fun Fact:** I name projects before writing line #1
+- ☕ **Motto:** Code until the chai gets cold
 
 <br clear="right"/>
 
@@ -107,7 +96,15 @@ const Luvin = {
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Luvin-2511&theme=tokyo-night&hide_border=true&radius=12" alt="Contribution Graph" width="95%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Luvin-2511&theme=tokyo-night&hide_border=true&radius=12&area=true&area_color=58A6FF" alt="Contribution Graph" width="95%"/>
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Luvin-2511&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=10" alt="Trophies"/>
 </p>
 
 ---
@@ -124,6 +121,9 @@ const Luvin = {
 
 ## ⏱️ This Week's Dev Breakdown
 
+<div align="center">
+
+<!--START_SECTION:waka-->
 ```text
 JavaScript   8 hrs 45 mins  ████████████░░░░░░░░░   48.2%
 React        4 hrs 23 mins  ██████░░░░░░░░░░░░░░░   24.1%
@@ -131,6 +131,9 @@ C++          3 hrs 12 mins  ████░░░░░░░░░░░░░�
 CSS          1 hr  34 mins  ██░░░░░░░░░░░░░░░░░░░    8.7%
 Other           15 mins     ░░░░░░░░░░░░░░░░░░░░░    1.3%
 ```
+<!--END_SECTION:waka-->
+
+</div>
 
 ---
 
@@ -173,6 +176,19 @@ Other           15 mins     ░░░░░░░░░░░░░░░░░�
 <p align="center">
   <i>💡 I build things that are fast, beautiful, and purposeful.</i><br/>
   <i>🎯 Always chasing the next problem worth solving.</i>
+</p>
+
+---
+
+## 📬 Profile Summary
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Luvin-2511&theme=tokyonight" width="95%"/>
+</div>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Luvin-2511&theme=tokyonight"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Luvin-2511&theme=tokyonight"/>
 </p>
 
 ---
