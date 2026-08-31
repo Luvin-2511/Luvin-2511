@@ -59,6 +59,26 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&width=100%" width="100%"/>
 
+## 🤖 GenAI & Cloud Infrastructure
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Gemini_API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white"/>
+<img src="https://img.shields.io/badge/Mistral_AI-FA520F?style=for-the-badge&logo=mistralai&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangChain.js-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vector_%2F_Semantic_Search-4B8BBE?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AWS_EKS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jenkins_CI%2FCD-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
+<img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
+
+<br/><br/>
+
+<i>Wiring LLMs into production systems — coding agents that mutate live sandboxes, embedding-based retrieval, and the Kubernetes/CI plumbing that ships it all.</i>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&width=100%" width="100%"/>
+
 ## 🏗️ Featured Build
 
 <div align="center">
@@ -75,6 +95,28 @@
 
 *Microservices for AI orchestration, auth, notifications & sandboxing — with per-pod live previews routed through a custom subdomain router.*
 
+<br/>
+
+### 🚀 QuickLive — Mini-Vercel Deployment Platform
+*Clones a GitHub repo, builds it in an isolated Docker container, and ships a live URL — 🏆 1st place, Sheryians Cohort 2.0 Hackathon*
+
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socket.io&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+
+*340+ users onboarded · 40+ projects deployed*
+
+<br/>
+
+### 🧠 Memex — AI Knowledge Management System
+*Embedding-based semantic search over saved articles, videos & PDFs — with auto-tagging and a reminder engine to resurface forgotten content*
+
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Vector_Search-4B8BBE?style=flat-square"/>
+
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&width=100%" width="100%"/>
@@ -90,7 +132,13 @@
 <img src="https://skillicons.dev/icons?i=react,nextjs,threejs,tailwind,bootstrap&theme=dark" alt="Frontend"/>
 
 ### Backend & Infra
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,redis,docker,kubernetes&theme=dark" alt="Backend & Infra"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,redis,docker,kubernetes,aws,jenkins,nginx&theme=dark" alt="Backend & Infra"/>
+
+### GenAI & Search
+<img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white"/>
+<img src="https://img.shields.io/badge/Mistral_AI-FA520F?style=flat-square&logo=mistralai&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
+<img src="https://img.shields.io/badge/Embeddings-4B8BBE?style=flat-square"/>
 
 ### Tools & Platforms
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,linux&theme=dark" alt="Tools"/>
