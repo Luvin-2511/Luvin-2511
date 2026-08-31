@@ -23,7 +23,7 @@
 </p>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Luvin-2511/Luvin-2511/main/assets/hero-visual.svg" width="70%" alt="animated shader-inspired visual"/>
+  <img src="https://cdn.jsdelivr.net/gh/Luvin-2511/Luvin-2511@main/assets/hero-visual.svg" width="70%" alt="animated shader-inspired visual"/>
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,100:22D3EE&height=2&width=100%" width="100%"/>
