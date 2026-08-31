@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hi%20👋%20I'm%20Luvin&fontSize=60&fontAlignY=38&desc=Software%20Engineer%20%7C%20MERN%20Stack%20Developer%20%7C%20Competitive%20Programmer&descAlignY=58&descAlign=50&animation=fadeIn&stroke=58A6FF&strokeWidth=1" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=260&section=header&text=Hi%20👋%20I'm%20Luvin&fontSize=65&fontAlignY=35&desc=Creative%20Full-Stack%20Developer%20%7C%20WebGL%20%2F%20Three.js%20%7C%20MERN%20%2B%20DevOps&descAlignY=52&descAlign=50&animation=fadeIn&stroke=58A6FF&strokeWidth=1" width="100%"/>
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=1200&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=100&lines=Building+the+Web%2C+One+Component+at+a+Time;DSA+%7C+MERN+%7C+System+Design;Turning+Coffee+%26+Chai+into+Clean+Code" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&duration=2600&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=780&height=110&lines=Turning+Design+Into+Motion%2C+One+Shader+at+a+Time;React+Three+Fiber+%7C+GSAP+%7C+MERN+%7C+Kubernetes;Chasing+Awwwards-Level+Craft%2C+Line+by+Line" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -12,18 +12,19 @@
   <img src="https://img.shields.io/github/stars/Luvin-2511?label=Stars&style=for-the-badge&color=58A6FF&logo=github" alt="stars" />
 </p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&width=100%" width="100%"/>
 
 ## 🚀 About Me
 
 <img align="right" alt="Coding" width="270" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
 - 📍 **Location:** India 🇮🇳
-- 🎓 **Education:** 3rd Year · Software Engineering
+- 🎓 **Education:** B.Tech CSE Core, K.R. Mangalam University — Final Year
+- 🎨 **Obsessed with:** WebGL, GLSL shaders & building sites that feel alive
+- 🛠️ **Crafting:** Full-stack MERN apps + Kubernetes-backed microservice systems
 - 🔥 **Grinding:** LeetCode DSA — daily, no excuses
-- 🛠️ **Crafting:** Full-Stack MERN applications
-- 🌱 **Exploring:** System Design · TypeScript · Open Source
-- 🏆 **Goals:** Top-tier internship · Open Source · System Design
+- 🌱 **Exploring:** React Three Fiber · Rapier physics · Postprocessing · System Design
+- 🏆 **Goals:** Top-tier internship · Open Source · Awwwards-level portfolio
 - 😄 **Fun Fact:** I name projects before writing line #1
 - ☕ **Motto:** Code until the chai gets cold
 
@@ -35,29 +36,48 @@
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&width=100%" width="100%"/>
 
-## 🌐 Let's Connect
+## 🎨 Creative Dev Playground
 
-<p align="center">
-  <a href="https://linkedin.com/in/luvin-2511" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:luvin2511@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/Luvin-2511" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://leetcode.com/luvin-2511" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-  </a>
-  <a href="https://portfolio-kappa-three-9z04v2ln1e.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
-</p>
+<div align="center">
+<i>Where the frontend stops being "just UI" and starts being an experience.</i>
+<br/><br/>
 
----
+<img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/React_Three_Fiber-black?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white"/>
+<img src="https://img.shields.io/badge/GLSL_Shaders-5586A4?style=for-the-badge&logo=opengl&logoColor=white"/>
+<img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white"/>
+<img src="https://img.shields.io/badge/Lenis_%2B_ScrollTrigger-58A6FF?style=for-the-badge"/>
+
+<br/><br/>
+
+<i>Physics-based 3D scenes · custom shader materials · scroll-driven interactions · fighting-game architecture with Socket.IO — building the muscle to ship sites that actually turn heads.</i>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&width=100%" width="100%"/>
+
+## 🏗️ Featured Build
+
+<div align="center">
+
+### ⚡ Ember — AI-Assisted Coding Sandbox
+*A Lovable-style, Kubernetes-native platform where AI writes and runs code in live, isolated sandboxes*
+
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
+<img src="https://img.shields.io/badge/Skaffold-4285F4?style=flat-square&logo=google&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
+<img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white"/>
+<img src="https://img.shields.io/badge/xterm.js-000000?style=flat-square&logo=gnometerminal&logoColor=white"/>
+
+*Microservices for AI orchestration, auth, notifications & sandboxing — with per-pod live previews routed through a custom subdomain router.*
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&width=100%" width="100%"/>
 
 ## 🛠️ Tech Arsenal
 
@@ -66,15 +86,18 @@
 ### Languages
 <img src="https://skillicons.dev/icons?i=cpp,python,java,js,typescript,html,css,scss&theme=dark" alt="Languages"/>
 
-### Frameworks & Libraries
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,tailwind,bootstrap&theme=dark" alt="Frameworks"/>
+### Frontend & Motion
+<img src="https://skillicons.dev/icons?i=react,nextjs,threejs,tailwind,bootstrap&theme=dark" alt="Frontend"/>
+
+### Backend & Infra
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,redis,docker,kubernetes&theme=dark" alt="Backend & Infra"/>
 
 ### Tools & Platforms
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,linux&theme=dark" alt="Tools"/>
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&width=100%" width="100%"/>
 
 ## 📊 GitHub Statistics
 
@@ -83,15 +106,11 @@
   <img height="180em" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Luvin-2511&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&border_radius=12"/>
 </p>
 
----
-
 ## 🔥 GitHub Streak
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=Luvin-2511&theme=tokyonight&hide_border=true&border_radius=12&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
 </p>
-
----
 
 ## 📈 Contribution Activity
 
@@ -99,15 +118,11 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Luvin-2511&theme=tokyo-night&hide_border=true&radius=12&area=true&area_color=58A6FF" alt="Contribution Graph" width="95%"/>
 </p>
 
----
-
 ## 🏆 GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Luvin-2511&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=10" alt="Trophies"/>
 </p>
-
----
 
 ## 🐍 Snake Eating My Contributions
 
@@ -117,7 +132,7 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Luvin-2511/Luvin-2511/output/snake.svg">
 </picture>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&width=100%" width="100%"/>
 
 ## ⏱️ This Week's Dev Breakdown
 
@@ -135,7 +150,7 @@ Other           15 mins     ░░░░░░░░░░░░░░░░░�
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&width=100%" width="100%"/>
 
 ## 🖥️ Luvin.exe — System Status
 
@@ -148,22 +163,22 @@ Other           15 mins     ░░░░░░░░░░░░░░░░░�
 │  RAM       →  Infinite curiosity + 4GB Red Bull buffer         │
 │  Storage   →  500GB ideas · 2TB unfinished side projects        │
 │  Network   →  Always ON — ping me anytime                       │
-│  Uptime    →  3rd Year CS · 0 days idle                        │
+│  Uptime    →  Final Year CS · 0 days idle                       │
 ├─────────────────────────────────────────────────────────────────┤
 │  PROCESS          PID    CPU%    STATUS                         │
-│  LeetCode.exe     001    45%     [████████░░] GRINDING          │
-│  MERN_Stack.exe   002    30%     [██████████] BUILDING          │
-│  System_Design    003    15%     [████░░░░░░] LEARNING          │
+│  Shaders.glsl     001    40%     [████████░░] COMPILING         │
+│  Ember_k8s.exe     002    30%     [██████████] DEPLOYING         │
+│  LeetCode.exe     003    20%     [██████░░░░] GRINDING          │
 │  Social_Life.exe  404    0%      [NOT FOUND] 💀                 │
 ├─────────────────────────────────────────────────────────────────┤
 │  ✅  git push origin main    →  SUCCESS                         │
 │  ✅  chai.brew() init        →  HOT & READY                     │
 │  ⚠️   sleep schedule         →  DEPRECATED                      │
-│  🔁  while(!succeed) { try } →  RUNNING                         │
+│  🔁  while(!awwwards) { ship() } →  RUNNING                     │
 └─────────────────────────────────────────────────────────────────┘
 ```
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&width=100%" width="100%"/>
 
 ## 🧑‍🚀 Beyond The Code
 
@@ -178,8 +193,6 @@ Other           15 mins     ░░░░░░░░░░░░░░░░░�
   <i>🎯 Always chasing the next problem worth solving.</i>
 </p>
 
----
-
 ## 📬 Profile Summary
 
 <div align="center">
@@ -191,8 +204,6 @@ Other           15 mins     ░░░░░░░░░░░░░░░░░�
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Luvin-2511&theme=tokyonight"/>
 </p>
 
----
-
 <div align="center">
 
 ### 📬 Reach Me Anytime
@@ -200,14 +211,11 @@ Other           15 mins     ░░░░░░░░░░░░░░░░░�
 [![LinkedIn](https://img.shields.io/badge/-Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/luvin-2511)
 [![Email](https://img.shields.io/badge/-Send_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luvin2511@gmail.com)
 [![Portfolio](https://img.shields.io/badge/-Visit_My_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-kappa-three-9z04v2ln1e.vercel.app/)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/luvin-2511)
 
 </div>
 
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=140&section=footer" width="100%"/>
 
 <p align="center">
   <i>⭐ From <a href="https://github.com/Luvin-2511">Luvin-2511</a> with ❤️ — Drop a star if something caught your eye!</i>
