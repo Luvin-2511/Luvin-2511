@@ -139,11 +139,11 @@ Embedding-based semantic search over saved articles, videos & PDFs, with auto-ta
 
 **Frontend & Motion**
 <br/>
-<img src="https://skillicons.dev/icons?i=react,nextjs,threejs,tailwind,bootstrap&theme=dark" alt="Frontend"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,threejs,tailwind&theme=dark" alt="Frontend"/>
 
 **Backend & Infra**
 <br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,redis,docker,kubernetes,aws,jenkins,nginx&theme=dark" alt="Backend & Infra"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,redis,docker,kubernetes,aws,jenkins,nginx&theme=dark" alt="Backend & Infra"/>
 
 **GenAI & Search**
 <br/>
