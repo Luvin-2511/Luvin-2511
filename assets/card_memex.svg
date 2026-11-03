@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="250" viewBox="0 0 800 250" font-family="Courier New, Courier, DejaVu Sans Mono, monospace">
+<rect x="3" y="3" width="794" height="244" rx="12" fill="#07040f" stroke="#A78BFA" stroke-width="1.5" stroke-dasharray="10 6"><animate attributeName="stroke-dashoffset" from="0" to="-32" dur="1.2s" repeatCount="indefinite"/></rect>
+<rect x="3" y="3" width="794" height="244" rx="12" fill="none" stroke="#7C3AED" stroke-opacity="0.25" stroke-width="6"><animate attributeName="stroke-opacity" values="0.1;0.35;0.1" dur="2.6s" repeatCount="indefinite"/></rect>
+<text x="30" y="44" font-size="20" font-weight="bold" fill="#A78BFA">[03] Memex: AI Knowledge Management</text>
+<text x="30" y="68" font-size="13" fill="#8B7BC0">STACK: Node.js | Express | MongoDB | React | Embeddings</text>
+<line x1="30" y1="80" x2="770" y2="80" stroke="#A78BFA" stroke-opacity="0.35"/>
+<text x="30" y="108" font-size="14" opacity="0"><tspan fill="#22D3EE">&gt; </tspan><tspan fill="#C9C2E8">Embedding-based semantic search: retrieval by meaning, not keywords</tspan><animate attributeName="opacity" from="0" to="1" begin="0.30s" dur="0.4s" fill="freeze"/></text>
+<text x="30" y="134" font-size="14" opacity="0"><tspan fill="#22D3EE">&gt; </tspan><tspan fill="#C9C2E8">Keeps saved articles, videos and PDFs in one place</tspan><animate attributeName="opacity" from="0" to="1" begin="0.65s" dur="0.4s" fill="freeze"/></text>
+<text x="30" y="160" font-size="14" opacity="0"><tspan fill="#22D3EE">&gt; </tspan><tspan fill="#C9C2E8">AI pipeline auto-generates contextual tags for everything saved</tspan><animate attributeName="opacity" from="0" to="1" begin="1.00s" dur="0.4s" fill="freeze"/></text>
+<text x="30" y="186" font-size="14" opacity="0"><tspan fill="#22D3EE">&gt; </tspan><tspan fill="#C9C2E8">Reminder engine resurfaces content you never revisited</tspan><animate attributeName="opacity" from="0" to="1" begin="1.35s" dur="0.4s" fill="freeze"/></text>
+<circle cx="38" cy="224" r="5" fill="#22D3EE"><animate attributeName="r" values="4;7;4" dur="1.4s" repeatCount="indefinite"/><animate attributeName="opacity" values="1;0.3;1" dur="1.4s" repeatCount="indefinite"/></circle>
+<text x="54" y="229" font-size="14" font-weight="bold" fill="#22D3EE">SEMANTIC  <tspan font-weight="normal" fill="#C9C2E8">vector similarity search</tspan></text>
+<text x="776" y="228" font-size="12" text-anchor="end" fill="#8B7BC0">[ VIEW REPO ]<animate attributeName="opacity" values="1;0.25;1" dur="1.8s" repeatCount="indefinite"/></text>
+<rect x="4" y="4" width="792" height="2" fill="#A78BFA" opacity="0.14"><animate attributeName="y" from="4" to="244" dur="4s" repeatCount="indefinite"/></rect>
+</svg>
