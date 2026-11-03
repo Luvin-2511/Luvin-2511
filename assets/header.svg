@@ -1,622 +1,622 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="900" height="280" viewBox="0 0 900 280" font-family="Courier New, Courier, DejaVu Sans Mono, monospace">
-<defs><radialGradient id="vg" cx="50%" cy="50%" r="55%"><stop offset="0" stop-color="#04100c" stop-opacity="0.93"/><stop offset="0.6" stop-color="#04100c" stop-opacity="0.78"/><stop offset="1" stop-color="#04100c" stop-opacity="0"/></radialGradient><linearGradient id="nm" x1="0" x2="1" y1="0" y2="0"><stop offset="0" stop-color="#D1FAE5"/><stop offset="0.5" stop-color="#34D399"/><stop offset="1" stop-color="#FBBF24"/></linearGradient><filter id="glow" x="-20%" y="-60%" width="140%" height="220%"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
-<rect width="900" height="280" fill="#04100c"/>
+<defs><radialGradient id="vg" cx="50%" cy="50%" r="55%"><stop offset="0" stop-color="#040b14" stop-opacity="0.93"/><stop offset="0.6" stop-color="#040b14" stop-opacity="0.78"/><stop offset="1" stop-color="#040b14" stop-opacity="0"/></radialGradient><linearGradient id="nm" x1="0" x2="1" y1="0" y2="0"><stop offset="0" stop-color="#BAE6FD"/><stop offset="0.5" stop-color="#38BDF8"/><stop offset="1" stop-color="#7DD3FC"/></linearGradient><filter id="glow" x="-20%" y="-60%" width="140%" height="220%"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+<rect width="900" height="280" fill="#040b14"/>
 <g><animateTransform attributeName="transform" type="translate" from="0 -150" to="0 290" dur="7.42s" begin="-6.39s" repeatCount="indefinite"/>
-<text x="9" y="12" fill="#34D399" font-size="14" opacity="0.10" text-anchor="middle">#</text>
-<text x="9" y="27" fill="#34D399" font-size="14" opacity="0.19" text-anchor="middle">#</text>
-<text x="9" y="42" fill="#34D399" font-size="14" opacity="0.28" text-anchor="middle">!</text>
-<text x="9" y="57" fill="#34D399" font-size="14" opacity="0.37" text-anchor="middle">$</text>
-<text x="9" y="72" fill="#34D399" font-size="14" opacity="0.46" text-anchor="middle">&lt;</text>
-<text x="9" y="87" fill="#34D399" font-size="14" opacity="0.55" text-anchor="middle">)</text>
-<text x="9" y="102" fill="#34D399" font-size="14" opacity="0.64" text-anchor="middle">!</text>
-<text x="9" y="117" fill="#34D399" font-size="14" opacity="0.73" text-anchor="middle">%</text>
-<text x="9" y="132" fill="#34D399" font-size="14" opacity="0.82" text-anchor="middle">|</text>
-<text x="9" y="147" fill="#ECFDF5" font-size="14" opacity="0.91" text-anchor="middle">&amp;</text>
+<text x="9" y="12" fill="#38BDF8" font-size="14" opacity="0.10" text-anchor="middle">#</text>
+<text x="9" y="27" fill="#38BDF8" font-size="14" opacity="0.19" text-anchor="middle">#</text>
+<text x="9" y="42" fill="#38BDF8" font-size="14" opacity="0.28" text-anchor="middle">!</text>
+<text x="9" y="57" fill="#38BDF8" font-size="14" opacity="0.37" text-anchor="middle">$</text>
+<text x="9" y="72" fill="#38BDF8" font-size="14" opacity="0.46" text-anchor="middle">&lt;</text>
+<text x="9" y="87" fill="#38BDF8" font-size="14" opacity="0.55" text-anchor="middle">)</text>
+<text x="9" y="102" fill="#38BDF8" font-size="14" opacity="0.64" text-anchor="middle">!</text>
+<text x="9" y="117" fill="#38BDF8" font-size="14" opacity="0.73" text-anchor="middle">%</text>
+<text x="9" y="132" fill="#38BDF8" font-size="14" opacity="0.82" text-anchor="middle">|</text>
+<text x="9" y="147" fill="#E0F2FE" font-size="14" opacity="0.91" text-anchor="middle">&amp;</text>
 </g>
 <g><animateTransform attributeName="transform" type="translate" from="0 -120" to="0 290" dur="4.10s" begin="-1.38s" repeatCount="indefinite"/>
-<text x="27" y="12" fill="#34D399" font-size="14" opacity="0.10" text-anchor="middle">{</text>
-<text x="27" y="27" fill="#34D399" font-size="14" opacity="0.19" text-anchor="middle">?</text>
-<text x="27" y="42" fill="#34D399" font-size="14" opacity="0.28" text-anchor="middle">^</text>
-<text x="27" y="57" fill="#34D399" font-size="14" opacity="0.37" text-anchor="middle">|</text>
-<text x="27" y="72" fill="#34D399" font-size="14" opacity="0.46" text-anchor="middle">1</text>
-<text x="27" y="87" fill="#34D399" font-size="14" opacity="0.55" text-anchor="middle">&amp;</text>
-<text x="27" y="102" fill="#34D399" font-size="14" opacity="0.64" text-anchor="middle">;</text>
-<text x="27" y="117" fill="#34D399" font-size="14" opacity="0.73" text-anchor="middle">#</text>
-<text x="27" y="132" fill="#34D399" font-size="14" opacity="0.82" text-anchor="middle">|</text>
-<text x="27" y="147" fill="#ECFDF5" font-size="14" opacity="0.91" text-anchor="middle">&amp;</text>
+<text x="27" y="12" fill="#38BDF8" font-size="14" opacity="0.10" text-anchor="middle">{</text>
+<text x="27" y="27" fill="#38BDF8" font-size="14" opacity="0.19" text-anchor="middle">?</text>
+<text x="27" y="42" fill="#38BDF8" font-size="14" opacity="0.28" text-anchor="middle">^</text>
+<text x="27" y="57" fill="#38BDF8" font-size="14" opacity="0.37" text-anchor="middle">|</text>
+<text x="27" y="72" fill="#38BDF8" font-size="14" opacity="0.46" text-anchor="middle">1</text>
+<text x="27" y="87" fill="#38BDF8" font-size="14" opacity="0.55" text-anchor="middle">&amp;</text>
+<text x="27" y="102" fill="#38BDF8" font-size="14" opacity="0.64" text-anchor="middle">;</text>
+<text x="27" y="117" fill="#38BDF8" font-size="14" opacity="0.73" text-anchor="middle">#</text>
+<text x="27" y="132" fill="#38BDF8" font-size="14" opacity="0.82" text-anchor="middle">|</text>
+<text x="27" y="147" fill="#E0F2FE" font-size="14" opacity="0.91" text-anchor="middle">&amp;</text>
 </g>
 <g><animateTransform attributeName="transform" type="translate" from="0 -180" to="0 290" dur="4.38s" begin="-0.26s" repeatCount="indefinite"/>
-<text x="45" y="12" fill="#34D399" font-size="14" opacity="0.10" text-anchor="middle">!</text>
-<text x="45" y="27" fill="#34D399" font-size="14" opacity="0.19" text-anchor="middle">{</text>
-<text x="45" y="42" fill="#34D399" font-size="14" opacity="0.28" text-anchor="middle">1</text>
-<text x="45" y="57" fill="#34D399" font-size="14" opacity="0.37" text-anchor="middle">1</text>
-<text x="45" y="72" fill="#34D399" font-size="14" opacity="0.46" text-anchor="middle">&lt;</text>
-<text x="45" y="87" fill="#34D399" font-size="14" opacity="0.55" text-anchor="middle">&gt;</text>
-<text x="45" y="102" fill="#34D399" font-size="14" opacity="0.64" text-anchor="middle">&amp;</text>
-<text x="45" y="117" fill="#34D399" font-size="14" opacity="0.73" text-anchor="middle">0</text>
-<text x="45" y="132" fill="#34D399" font-size="14" opacity="0.82" text-anchor="middle">#</text>
-<text x="45" y="147" fill="#ECFDF5" font-size="14" opacity="0.91" text-anchor="middle">+</text>
+<text x="45" y="12" fill="#38BDF8" font-size="14" opacity="0.10" text-anchor="middle">!</text>
+<text x="45" y="27" fill="#38BDF8" font-size="14" opacity="0.19" text-anchor="middle">{</text>
+<text x="45" y="42" fill="#38BDF8" font-size="14" opacity="0.28" text-anchor="middle">1</text>
+<text x="45" y="57" fill="#38BDF8" font-size="14" opacity="0.37" text-anchor="middle">1</text>
+<text x="45" y="72" fill="#38BDF8" font-size="14" opacity="0.46" text-anchor="middle">&lt;</text>
+<text x="45" y="87" fill="#38BDF8" font-size="14" opacity="0.55" text-anchor="middle">&gt;</text>
+<text x="45" y="102" fill="#38BDF8" font-size="14" opacity="0.64" text-anchor="middle">&amp;</text>
+<text x="45" y="117" fill="#38BDF8" font-size="14" opacity="0.73" text-anchor="middle">0</text>
+<text x="45" y="132" fill="#38BDF8" font-size="14" opacity="0.82" text-anchor="middle">#</text>
+<text x="45" y="147" fill="#E0F2FE" font-size="14" opacity="0.91" text-anchor="middle">+</text>
 </g>
 <g><animateTransform attributeName="transform" type="translate" from="0 -150" to="0 290" dur="6.24s" begin="-1.38s" repeatCount="indefinite"/>
-<text x="63" y="12" fill="#FBBF24" font-size="14" opacity="0.10" text-anchor="middle">&gt;</text>
-<text x="63" y="27" fill="#FBBF24" font-size="14" opacity="0.19" text-anchor="middle">|</text>
-<text x="63" y="42" fill="#FBBF24" font-size="14" opacity="0.28" text-anchor="middle">=</text>
-<text x="63" y="57" fill="#FBBF24" font-size="14" opacity="0.37" text-anchor="middle">%</text>
-<text x="63" y="72" fill="#FBBF24" font-size="14" opacity="0.46" text-anchor="middle">0</text>
-<text x="63" y="87" fill="#FBBF24" font-size="14" opacity="0.55" text-anchor="middle">~</text>
-<text x="63" y="102" fill="#FBBF24" font-size="14" opacity="0.64" text-anchor="middle">{</text>
-<text x="63" y="117" fill="#FBBF24" font-size="14" opacity="0.73" text-anchor="middle">#</text>
-<text x="63" y="132" fill="#FBBF24" font-size="14" opacity="0.82" text-anchor="middle">|</text>
-<text x="63" y="147" fill="#ECFDF5" font-size="14" opacity="0.91" text-anchor="middle">/</text>
+<text x="63" y="12" fill="#7DD3FC" font-size="14" opacity="0.10" text-anchor="middle">&gt;</text>
+<text x="63" y="27" fill="#7DD3FC" font-size="14" opacity="0.19" text-anchor="middle">|</text>
+<text x="63" y="42" fill="#7DD3FC" font-size="14" opacity="0.28" text-anchor="middle">=</text>
+<text x="63" y="57" fill="#7DD3FC" font-size="14" opacity="0.37" text-anchor="middle">%</text>
+<text x="63" y="72" fill="#7DD3FC" font-size="14" opacity="0.46" text-anchor="middle">0</text>
+<text x="63" y="87" fill="#7DD3FC" font-size="14" opacity="0.55" text-anchor="middle">~</text>
+<text x="63" y="102" fill="#7DD3FC" font-size="14" opacity="0.64" text-anchor="middle">{</text>
+<text x="63" y="117" fill="#7DD3FC" font-size="14" opacity="0.73" text-anchor="middle">#</text>
+<text x="63" y="132" fill="#7DD3FC" font-size="14" opacity="0.82" text-anchor="middle">|</text>
+<text x="63" y="147" fill="#E0F2FE" font-size="14" opacity="0.91" text-anchor="middle">/</text>
 </g>
 <g><animateTransform attributeName="transform" type="translate" from="0 -150" to="0 290" dur="7.99s" begin="-7.96s" repeatCount="indefinite"/>
-<text x="81" y="12" fill="#34D399" font-size="14" opacity="0.10" text-anchor="middle">{</text>
-<text x="81" y="27" fill="#34D399" font-size="14" opacity="0.19" text-anchor="middle">^</text>
-<text x="81" y="42" fill="#34D399" font-size="14" opacity="0.28" text-anchor="middle">/</text>
-<text x="81" y="57" fill="#34D399" font-size="14" opacity="0.37" text-anchor="middle">+</text>
-<text x="81" y="72" fill="#34D399" font-size="14" opacity="0.46" text-anchor="middle">&gt;</text>
-<text x="81" y="87" fill="#34D399" font-size="14" opacity="0.55" text-anchor="middle">!</text>
-<text x="81" y="102" fill="#34D399" font-size="14" opacity="0.64" text-anchor="middle">=</text>
-<text x="81" y="117" fill="#34D399" font-size="14" opacity="0.73" text-anchor="middle">0</text>
-<text x="81" y="132" fill="#34D399" font-size="14" opacity="0.82" text-anchor="middle">{</text>
-<text x="81" y="147" fill="#ECFDF5" font-size="14" opacity="0.91" text-anchor="middle">$</text>
+<text x="81" y="12" fill="#38BDF8" font-size="14" opacity="0.10" text-anchor="middle">{</text>
+<text x="81" y="27" fill="#38BDF8" font-size="14" opacity="0.19" text-anchor="middle">^</text>
+<text x="81" y="42" fill="#38BDF8" font-size="14" opacity="0.28" text-anchor="middle">/</text>
+<text x="81" y="57" fill="#38BDF8" font-size="14" opacity="0.37" text-anchor="middle">+</text>
+<text x="81" y="72" fill="#38BDF8" font-size="14" opacity="0.46" text-anchor="middle">&gt;</text>
+<text x="81" y="87" fill="#38BDF8" font-size="14" opacity="0.55" text-anchor="middle">!</text>
+<text x="81" y="102" fill="#38BDF8" font-size="14" opacity="0.64" text-anchor="middle">=</text>
+<text x="81" y="117" fill="#38BDF8" font-size="14" opacity="0.73" text-anchor="middle">0</text>
+<text x="81" y="132" fill="#38BDF8" font-size="14" opacity="0.82" text-anchor="middle">{</text>
+<text x="81" y="147" fill="#E0F2FE" font-size="14" opacity="0.91" text-anchor="middle">$</text>
 </g>
 <g><animateTransform attributeName="transform" type="translate" from="0 -105" to="0 290" dur="5.42s" begin="-4.62s" repeatCount="indefinite"/>
-<text x="99" y="12" fill="#34D399" font-size="14" opacity="0.10" text-anchor="middle">;</text>
-<text x="99" y="27" fill="#34D399" font-size="14" opacity="0.19" text-anchor="middle">{</text>
-<text x="99" y="42" fill="#34D399" font-size="14" opacity="0.28" text-anchor="middle">0</text>
-<text x="99" y="57" fill="#34D399" font-size="14" opacity="0.37" text-anchor="middle">~</text>
-<text x="99" y="72" fill="#34D399" font-size="14" opacity="0.46" text-anchor="middle">0</text>
-<text x="99" y="87" fill="#34D399" font-size="14" opacity="0.55" text-anchor="middle">&lt;</text>
-<text x="99" y="102" fill="#34D399" font-size="14" opacity="0.64" text-anchor="middle">&lt;</text>
-<text x="99" y="117" fill="#34D399" font-size="14" opacity="0.73" text-anchor="middle">1</text>
-<text x="99" y="132" fill="#34D399" font-size="14" opacity="0.82" text-anchor="middle">%</text>
-<text x="99" y="147" fill="#ECFDF5" font-size="14" opacity="0.91" text-anchor="middle">;</text>
+<text x="99" y="12" fill="#38BDF8" font-size="14" opacity="0.10" text-anchor="middle">;</text>
+<text x="99" y="27" fill="#38BDF8" font-size="14" opacity="0.19" text-anchor="middle">{</text>
+<text x="99" y="42" fill="#38BDF8" font-size="14" opacity="0.28" text-anchor="middle">0</text>
+<text x="99" y="57" fill="#38BDF8" font-size="14" opacity="0.37" text-anchor="middle">~</text>
+<text x="99" y="72" fill="#38BDF8" font-size="14" opacity="0.46" text-anchor="middle">0</text>
+<text x="99" y="87" fill="#38BDF8" font-size="14" opacity="0.55" text-anchor="middle">&lt;</text>
+<text x="99" y="102" fill="#38BDF8" font-size="14" opacity="0.64" text-anchor="middle">&lt;</text>
+<text x="99" y="117" fill="#38BDF8" font-size="14" opacity="0.73" text-anchor="middle">1</text>
+<text x="99" y="132" fill="#38BDF8" font-size="14" opacity="0.82" text-anchor="middle">%</text>
+<text x="99" y="147" fill="#E0F2FE" font-size="14" opacity="0.91" text-anchor="middle">;</text>
 </g>
 <g><animateTransform attributeName="transform" type="translate" from="0 -180" to="0 290" dur="5.41s" begin="-0.58s" repeatCount="indefinite"/>
-<text x="117" y="12" fill="#34D399" font-size="14" opacity="0.10" text-anchor="middle">|</text>
-<text x="117" y="27" fill="#34D399" font-size="14" opacity="0.19" text-anchor="middle">&lt;</text>
-<text x="117" y="42" fill="#34D399" font-size="14" opacity="0.28" text-anchor="middle">~</text>
-<text x="117" y="57" fill="#34D399" font-size="14" opacity="0.37" text-anchor="middle">/</text>
-<text x="117" y="72" fill="#34D399" font-size="14" opacity="0.46" text-anchor="middle">+</text>
-<text x="117" y="87" fill="#34D399" font-size="14" opacity="0.55" text-anchor="middle">{</text>
-<text x="117" y="102" fill="#34D399" font-size="14" opacity="0.64" text-anchor="middle">=</text>
-<text x="117" y="117" fill="#34D399" font-size="14" opacity="0.73" text-anchor="middle">+</text>
-<text x="117" y="132" fill="#34D399" font-size="14" opacity="0.82" text-anchor="middle">0</text>
-<text x="117" y="147" fill="#ECFDF5" font-size="14" opacity="0.91" text-anchor="middle">:</text>
+<text x="117" y="12" fill="#38BDF8" font-size="14" opacity="0.10" text-anchor="middle">|</text>
+<text x="117" y="27" fill="#38BDF8" font-size="14" opacity="0.19" text-anchor="middle">&lt;</text>
+<text x="117" y="42" fill="#38BDF8" font-size="14" opacity="0.28" text-anchor="middle">~</text>
+<text x="117" y="57" fill="#38BDF8" font-size="14" opacity="0.37" text-anchor="middle">/</text>
+<text x="117" y="72" fill="#38BDF8" font-size="14" opacity="0.46" text-anchor="middle">+</text>
+<text x="117" y="87" fill="#38BDF8" font-size="14" opacity="0.55" text-anchor="middle">{</text>
+<text x="117" y="102" fill="#38BDF8" font-size="14" opacity="0.64" text-anchor="middle">=</text>
+<text x="117" y="117" fill="#38BDF8" font-size="14" opacity="0.73" text-anchor="middle">+</text>
+<text x="117" y="132" fill="#38BDF8" font-size="14" opacity="0.82" text-anchor="middle">0</text>
+<text x="117" y="147" fill="#E0F2FE" font-size="14" opacity="0.91" text-anchor="middle">:</text>
 </g>
 <g><animateTransform attributeName="transform" type="translate" from="0 -105" to="0 290" dur="4.28s" begin="-3.08s" repeatCount="indefinite"/>
-<text x="135" y="12" fill="#34D399" font-size="14" opacity="0.10" text-anchor="middle">0</text>
-<text x="135" y="27" fill="#34D399" font-size="14" opacity="0.19" text-anchor="middle">1</text>
-<text x="135" y="42" fill="#34D399" font-size="14" opacity="0.28" text-anchor="middle">#</text>
-<text x="135" y="57" fill="#34D399" font-size="14" opacity="0.37" text-anchor="middle">%</text>
-<text x="135" y="72" fill="#34D399" font-size="14" opacity="0.46" text-anchor="middle">)</text>
-<text x="135" y="87" fill="#34D399" font-size="14" opacity="0.55" text-anchor="middle">~</text>
-<text x="135" y="102" fill="#34D399" font-size="14" opacity="0.64" text-anchor="middle">?</text>
-<text x="135" y="117" fill="#34D399" font-size="14" opacity="0.73" text-anchor="middle">&lt;</text>
-<text x="135" y="132" fill="#34D399" font-size="14" opacity="0.82" text-anchor="middle">#</text>
-<text x="135" y="147" fill="#ECFDF5" font-size="14" opacity="0.91" text-anchor="middle">!</text>
+<text x="135" y="12" fill="#38BDF8" font-size="14" opacity="0.10" text-anchor="middle">0</text>
+<text x="135" y="27" fill="#38BDF8" font-size="14" opacity="0.19" text-anchor="middle">1</text>
+<text x="135" y="42" fill="#38BDF8" font-size="14" opacity="0.28" text-anchor="middle">#</text>
+<text x="135" y="57" fill="#38BDF8" font-size="14" opacity="0.37" text-anchor="middle">%</text>
+<text x="135" y="72" fill="#38BDF8" font-size="14" opacity="0.46" text-anchor="middle">)</text>
+<text x="135" y="87" fill="#38BDF8" font-size="14" opacity="0.55" text-anchor="middle">~</text>
+<text x="135" y="102" fill="#38BDF8" font-size="14" opacity="0.64" text-anchor="middle">?</text>
+<text x="135" y="117" fill="#38BDF8" font-size="14" opacity="0.73" text-anchor="middle">&lt;</text>
+<text x="135" y="132" fill="#38BDF8" font-size="14" opacity="0.82" text-anchor="middle">#</text>
+<text x="135" y="147" fill="#E0F2FE" font-size="14" opacity="0.91" text-anchor="middle">!</text>
 </g>
 <g><animateTransform attributeName="transform" type="translate" from="0 -120" to="0 290" dur="7.94s" begin="-6.15s" repeatCount="indefinite"/>
-<text x="153" y="12" fill="#34D399" font-size="14" opacity="0.10" text-anchor="middle">:</text>
-<text x="153" y="27" fill="#34D399" font-size="14" opacity="0.19" text-anchor="middle">|</text>
-<text x="153" y="42" fill="#34D399" font-size="14" opacity="0.28" text-anchor="middle">;</text>
-<text x="153" y="57" fill="#34D399" font-size="14" opacity="0.37" text-anchor="middle">}</text>
-<text x="153" y="72" fill="#34D399" font-size="14" opacity="0.46" text-anchor="middle">;</text>
-<text x="153" y="87" fill="#34D399" font-size="14" opacity="0.55" text-anchor="middle">:</text>
-<text x="153" y="102" fill="#34D399" font-size="14" opacity="0.64" text-anchor="middle">&lt;</text>
-<text x="153" y="117" fill="#34D399" font-size="14" opacity="0.73" text-anchor="middle">0</text>
-<text x="153" y="132" fill="#34D399" font-size="14" opacity="0.82" text-anchor="middle">/</text>
-<text x="153" y="147" fill="#ECFDF5" font-size="14" opacity="0.91" text-anchor="middle">$</text>
+<text x="153" y="12" fill="#38BDF8" font-size="14" opacity="0.10" text-anchor="middle">:</text>
+<text x="153" y="27" fill="#38BDF8" font-size="14" opacity="0.19" text-anchor="middle">|</text>
+<text x="153" y="42" fill="#38BDF8" font-size="14" opacity="0.28" text-anchor="middle">;</text>
+<text x="153" y="57" fill="#38BDF8" font-size="14" opacity="0.37" text-anchor="middle">}</text>
+<text x="153" y="72" fill="#38BDF8" font-size="14" opacity="0.46" text-anchor="middle">;</text>
+<text x="153" y="87" fill="#38BDF8" font-size="14" opacity="0.55" text-anchor="middle">:</text>
+<text x="153" y="102" fill="#38BDF8" font-size="14" opacity="0.64" text-anchor="middle">&lt;</text>
+<text x="153" y="117" fill="#38BDF8" font-size="14" opacity="0.73" text-anchor="middle">0</text>
+<text x="153" y="132" fill="#38BDF8" font-size="14" opacity="0.82" text-anchor="middle">/</text>
+<text x="153" y="147" fill="#E0F2FE" font-size="14" opacity="0.91" text-anchor="middle">$</text>
 </g>
 <g><animateTransform attributeName="transform" type="translate" from="0 -135" to="0 290" dur="7.99s" begin="-0.35s" repeatCount="indefinite"/>
-<text x="171" y="12" fill="#FBBF24" font-size="14" opacity="0.10" text-anchor="middle">)</text>
-<text x="171" y="27" fill="#FBBF24" font-size="14" opacity="0.19" text-anchor="middle">;</text>
-<text x="171" y="42" fill="#FBBF24" font-size="14" opacity="0.28" text-anchor="middle">&amp;</text>
-<text x="171" y="57" fill="#FBBF24" font-size="14" opacity="0.37" text-anchor="middle">|</text>
-<text x="171" y="72" fill="#FBBF24" font-size="14" opacity="0.46" text-anchor="middle">$</text>
-<text x="171" y="87" fill="#FBBF24" font-size="14" opacity="0.55" text-anchor="middle">}</text>
-<text x="171" y="102" fill="#FBBF24" font-size="14" opacity="0.64" text-anchor="middle">1</text>
-<text x="171" y="117" fill="#FBBF24" font-size="14" opacity="0.73" text-anchor="middle">(</text>
-<text x="171" y="132" fill="#FBBF24" font-size="14" opacity="0.82" text-anchor="middle">&lt;</text>
-<text x="171" y="147" fill="#ECFDF5" font-size="14" opacity="0.91" text-anchor="middle">#</text>
+<text x="171" y="12" fill="#7DD3FC" font-size="14" opacity="0.10" text-anchor="middle">)</text>
+<text x="171" y="27" fill="#7DD3FC" font-size="14" opacity="0.19" text-anchor="middle">;</text>
+<text x="171" y="42" fill="#7DD3FC" font-size="14" opacity="0.28" text-anchor="middle">&amp;</text>
+<text x="171" y="57" fill="#7DD3FC" font-size="14" opacity="0.37" text-anchor="middle">|</text>
+<text x="171" y="72" fill="#7DD3FC" font-size="14" opacity="0.46" text-anchor="middle">$</text>
+<text x="171" y="87" fill="#7DD3FC" font-size="14" opacity="0.55" text-anchor="middle">}</text>
+<text x="171" y="102" fill="#7DD3FC" font-size="14" opacity="0.64" text-anchor="middle">1</text>
+<text x="171" y="117" fill="#7DD3FC" font-size="14" opacity="0.73" text-anchor="middle">(</text>
+<text x="171" y="132" fill="#7DD3FC" font-size="14" opacity="0.82" text-anchor="middle">&lt;</text>
+<text x="171" y="147" fill="#E0F2FE" font-size="14" opacity="0.91" text-anchor="middle">#</text>
 </g>
 <g><animateTransform attributeName="transform" type="translate" from="0 -135" to="0 290" dur="3.74s" begin="-2.36s" repeatCount="indefinite"/>
-<text x="189" y="12" fill="#34D399" font-size="14" opacity="0.10" text-anchor="middle">=</text>
-<text x="189" y="27" fill="#34D399" font-size="14" opacity="0.19" text-anchor="middle">;</text>
-<text x="189" y="42" fill="#34D399" font-size="14" opacity="0.28" text-anchor="middle">{</text>
-<text x="189" y="57" fill="#34D399" font-size="14" opacity="0.37" text-anchor="middle">{</text>
-<text x="189" y="72" fill="#34D399" font-size="14" opacity="0.46" text-anchor="middle">{</text>
-<text x="189" y="87" fill="#34D399" font-size="14" opacity="0.55" text-anchor="middle">&lt;</text>
-<text x="189" y="102" fill="#34D399" font-size="14" opacity="0.64" text-anchor="middle">$</text>
-<text x="189" y="117" fill="#34D399" font-size="14" opacity="0.73" text-anchor="middle">|</text>
-<text x="189" y="132" fill="#34D399" font-size="14" opacity="0.82" text-anchor="middle">&gt;</text>
-<text x="189" y="147" fill="#ECFDF5" font-size="14" opacity="0.91" text-anchor="middle">0</text>
+<text x="189" y="12" fill="#38BDF8" font-size="14" opacity="0.10" text-anchor="middle">=</text>
+<text x="189" y="27" fill="#38BDF8" font-size="14" opacity="0.19" text-anchor="middle">;</text>
+<text x="189" y="42" fill="#38BDF8" font-size="14" opacity="0.28" text-anchor="middle">{</text>
+<text x="189" y="57" fill="#38BDF8" font-size="14" opacity="0.37" text-anchor="middle">{</text>
+<text x="189" y="72" fill="#38BDF8" font-size="14" opacity="0.46" text-anchor="middle">{</text>
+<text x="189" y="87" fill="#38BDF8" font-size="14" opacity="0.55" text-anchor="middle">&lt;</text>
+<text x="189" y="102" fill="#38BDF8" font-size="14" opacity="0.64" text-anchor="middle">$</text>
+<text x="189" y="117" fill="#38BDF8" font-size="14" opacity="0.73" text-anchor="middle">|</text>
+<text x="189" y="132" fill="#38BDF8" font-size="14" opacity="0.82" text-anchor="middle">&gt;</text>
+<text x="189" y="147" fill="#E0F2FE" font-size="14" opacity="0.91" text-anchor="middle">0</text>
 </g>
 <g><animateTransform attributeName="transform" type="translate" from="0 -165" to="0 290" dur="5.29s" begin="-3.36s" repeatCount="indefinite"/>
-<text x="207" y="12" fill="#34D399" font-size="14" opacity="0.10" text-anchor="middle">(</text>
-<text x="207" y="27" fill="#34D399" font-size="14" opacity="0.19" text-anchor="middle">$</text>
-<text x="207" y="42" fill="#34D399" font-size="14" opacity="0.28" text-anchor="middle">%</text>
-<text x="207" y="57" fill="#34D399" font-size="14" opacity="0.37" text-anchor="middle">$</text>
-<text x="207" y="72" fill="#34D399" font-size="14" opacity="0.46" text-anchor="middle">(</text>
-<text x="207" y="87" fill="#34D399" font-size="14" opacity="0.55" text-anchor="middle">;</text>
-<text x="207" y="102" fill="#34D399" font-size="14" opacity="0.64" text-anchor="middle">)</text>
-<text x="207" y="117" fill="#34D399" font-size="14" opacity="0.73" text-anchor="middle">|</text>
-<text x="207" y="132" fill="#34D399" font-size="14" opacity="0.82" text-anchor="middle">(</text>
-<text x="207" y="147" fill="#ECFDF5" font-size="14" opacity="0.91" text-anchor="middle">=</text>
+<text x="207" y="12" fill="#38BDF8" font-size="14" opacity="0.10" text-anchor="middle">(</text>
+<text x="207" y="27" fill="#38BDF8" font-size="14" opacity="0.19" text-anchor="middle">$</text>
+<text x="207" y="42" fill="#38BDF8" font-size="14" opacity="0.28" text-anchor="middle">%</text>
+<text x="207" y="57" fill="#38BDF8" font-size="14" opacity="0.37" text-anchor="middle">$</text>
+<text x="207" y="72" fill="#38BDF8" font-size="14" opacity="0.46" text-anchor="middle">(</text>
+<text x="207" y="87" fill="#38BDF8" font-size="14" opacity="0.55" text-anchor="middle">;</text>
+<text x="207" y="102" fill="#38BDF8" font-size="14" opacity="0.64" text-anchor="middle">)</text>
+<text x="207" y="117" fill="#38BDF8" font-size="14" opacity="0.73" text-anchor="middle">|</text>
+<text x="207" y="132" fill="#38BDF8" font-size="14" opacity="0.82" text-anchor="middle">(</text>
+<text x="207" y="147" fill="#E0F2FE" font-size="14" opacity="0.91" text-anchor="middle">=</text>
 </g>
 <g><animateTransform attributeName="transform" type="translate" from="0 -120" to="0 290" dur="7.22s" begin="-1.95s" repeatCount="indefinite"/>
-<text x="225" y="12" fill="#34D399" font-size="14" opacity="0.10" text-anchor="middle">&lt;</text>
-<text x="225" y="27" fill="#34D399" font-size="14" opacity="0.19" text-anchor="middle">)</text>
-<text x="225" y="42" fill="#34D399" font-size="14" opacity="0.28" text-anchor="middle">|</text>
-<text x="225" y="57" fill="#34D399" font-size="14" opacity="0.37" text-anchor="middle">?</text>
-<text x="225" y="72" fill="#34D399" font-size="14" opacity="0.46" text-anchor="middle">&lt;</text>
-<text x="225" y="87" fill="#34D399" font-size="14" opacity="0.55" text-anchor="middle">~</text>
-<text x="225" y="102" fill="#34D399" font-size="14" opacity="0.64" text-anchor="middle">;</text>
-<text x="225" y="117" fill="#34D399" font-size="14" opacity="0.73" text-anchor="middle">%</text>
-<text x="225" y="132" fill="#34D399" font-size="14" opacity="0.82" text-anchor="middle">&amp;</text>
-<text x="225" y="147" fill="#ECFDF5" font-size="14" opacity="0.91" text-anchor="middle">{</text>
+<text x="225" y="12" fill="#38BDF8" font-size="14" opacity="0.10" text-anchor="middle">&lt;</text>
+<text x="225" y="27" fill="#38BDF8" font-size="14" opacity="0.19" text-anchor="middle">)</text>
+<text x="225" y="42" fill="#38BDF8" font-size="14" opacity="0.28" text-anchor="middle">|</text>
+<text x="225" y="57" fill="#38BDF8" font-size="14" opacity="0.37" text-anchor="middle">?</text>
+<text x="225" y="72" fill="#38BDF8" font-size="14" opacity="0.46" text-anchor="middle">&lt;</text>
+<text x="225" y="87" fill="#38BDF8" font-size="14" opacity="0.55" text-anchor="middle">~</text>
+<text x="225" y="102" fill="#38BDF8" font-size="14" opacity="0.64" text-anchor="middle">;</text>
+<text x="225" y="117" fill="#38BDF8" font-size="14" opacity="0.73" text-anchor="middle">%</text>
+<text x="225" y="132" fill="#38BDF8" font-size="14" opacity="0.82" text-anchor="middle">&amp;</text>
+<text x="225" y="147" fill="#E0F2FE" font-size="14" opacity="0.91" text-anchor="middle">{</text>
 </g>
 <g><animateTransform attributeName="transform" type="translate" from="0 -150" to="0 290" dur="3.90s" begin="-0.60s" repeatCount="indefinite"/>
-<text x="243" y="12" fill="#34D399" font-size="14" opacity="0.10" text-anchor="middle">!</text>
-<text x="243" y="27" fill="#34D399" font-size="14" opacity="0.19" text-anchor="middle">/</text>
-<text x="243" y="42" fill="#34D399" font-size="14" opacity="0.28" text-anchor="middle">&gt;</text>
-<text x="243" y="57" fill="#34D399" font-size="14" opacity="0.37" text-anchor="middle">^</text>
-<text x="243" y="72" fill="#34D399" font-size="14" opacity="0.46" text-anchor="middle">;</text>
-<text x="243" y="87" fill="#34D399" font-size="14" opacity="0.55" text-anchor="middle">/</text>
-<text x="243" y="102" fill="#34D399" font-size="14" opacity="0.64" text-anchor="middle">:</text>
-<text x="243" y="117" fill="#34D399" font-size="14" opacity="0.73" text-anchor="middle">&amp;</text>
-<text x="243" y="132" fill="#34D399" font-size="14" opacity="0.82" text-anchor="middle">%</text>
-<text x="243" y="147" fill="#ECFDF5" font-size="14" opacity="0.91" text-anchor="middle">=</text>
+<text x="243" y="12" fill="#38BDF8" font-size="14" opacity="0.10" text-anchor="middle">!</text>
+<text x="243" y="27" fill="#38BDF8" font-size="14" opacity="0.19" text-anchor="middle">/</text>
+<text x="243" y="42" fill="#38BDF8" font-size="14" opacity="0.28" text-anchor="middle">&gt;</text>
+<text x="243" y="57" fill="#38BDF8" font-size="14" opacity="0.37" text-anchor="middle">^</text>
+<text x="243" y="72" fill="#38BDF8" font-size="14" opacity="0.46" text-anchor="middle">;</text>
+<text x="243" y="87" fill="#38BDF8" font-size="14" opacity="0.55" text-anchor="middle">/</text>
+<text x="243" y="102" fill="#38BDF8" font-size="14" opacity="0.64" text-anchor="middle">:</text>
+<text x="243" y="117" fill="#38BDF8" font-size="14" opacity="0.73" text-anchor="middle">&amp;</text>
+<text x="243" y="132" fill="#38BDF8" font-size="14" opacity="0.82" text-anchor="middle">%</text>
+<text x="243" y="147" fill="#E0F2FE" font-size="14" opacity="0.91" text-anchor="middle">=</text>
 </g>
 <g><animateTransform attributeName="transform" type="translate" from="0 -165" to="0 290" dur="4.45s" begin="-3.26s" repeatCount="indefinite"/>
-<text x="261" y="12" fill="#34D399" font-size="14" opacity="0.10" text-anchor="middle">{</text>
-<text x="261" y="27" fill="#34D399" font-size="14" opacity="0.19" text-anchor="middle">(</text>
-<text x="261" y="42" fill="#34D399" font-size="14" opacity="0.28" text-anchor="middle">&gt;</text>
-<text x="261" y="57" fill="#34D399" font-size="14" opacity="0.37" text-anchor="middle">%</text>
-<text x="261" y="72" fill="#34D399" font-size="14" opacity="0.46" text-anchor="middle">?</text>
-<text x="261" y="87" fill="#34D399" font-size="14" opacity="0.55" text-anchor="middle">|</text>
-<text x="261" y="102" fill="#34D399" font-size="14" opacity="0.64" text-anchor="middle">&amp;</text>
-<text x="261" y="117" fill="#34D399" font-size="14" opacity="0.73" text-anchor="middle">&amp;</text>
-<text x="261" y="132" fill="#34D399" font-size="14" opacity="0.82" text-anchor="middle">{</text>
-<text x="261" y="147" fill="#ECFDF5" font-size="14" opacity="0.91" text-anchor="middle">/</text>
+<text x="261" y="12" fill="#38BDF8" font-size="14" opacity="0.10" text-anchor="middle">{</text>
+<text x="261" y="27" fill="#38BDF8" font-size="14" opacity="0.19" text-anchor="middle">(</text>
+<text x="261" y="42" fill="#38BDF8" font-size="14" opacity="0.28" text-anchor="middle">&gt;</text>
+<text x="261" y="57" fill="#38BDF8" font-size="14" opacity="0.37" text-anchor="middle">%</text>
+<text x="261" y="72" fill="#38BDF8" font-size="14" opacity="0.46" text-anchor="middle">?</text>
+<text x="261" y="87" fill="#38BDF8" font-size="14" opacity="0.55" text-anchor="middle">|</text>
+<text x="261" y="102" fill="#38BDF8" font-size="14" opacity="0.64" text-anchor="middle">&amp;</text>
+<text x="261" y="117" fill="#38BDF8" font-size="14" opacity="0.73" text-anchor="middle">&amp;</text>
+<text x="261" y="132" fill="#38BDF8" font-size="14" opacity="0.82" text-anchor="middle">{</text>
+<text x="261" y="147" fill="#E0F2FE" font-size="14" opacity="0.91" text-anchor="middle">/</text>
 </g>
 <g><animateTransform attributeName="transform" type="translate" from="0 -120" to="0 290" dur="7.64s" begin="-1.72s" repeatCount="indefinite"/>
-<text x="279" y="12" fill="#FBBF24" font-size="14" opacity="0.10" text-anchor="middle">0</text>
-<text x="279" y="27" fill="#FBBF24" font-size="14" opacity="0.19" text-anchor="middle">{</text>
-<text x="279" y="42" fill="#FBBF24" font-size="14" opacity="0.28" text-anchor="middle">/</text>
-<text x="279" y="57" fill="#FBBF24" font-size="14" opacity="0.37" text-anchor="middle">:</text>
-<text x="279" y="72" fill="#FBBF24" font-size="14" opacity="0.46" text-anchor="middle">#</text>
-<text x="279" y="87" fill="#FBBF24" font-size="14" opacity="0.55" text-anchor="middle">&gt;</text>
-<text x="279" y="102" fill="#FBBF24" font-size="14" opacity="0.64" text-anchor="middle">1</text>
-<text x="279" y="117" fill="#FBBF24" font-size="14" opacity="0.73" text-anchor="middle">1</text>
-<text x="279" y="132" fill="#FBBF24" font-size="14" opacity="0.82" text-anchor="middle">)</text>
-<text x="279" y="147" fill="#ECFDF5" font-size="14" opacity="0.91" text-anchor="middle">=</text>
+<text x="279" y="12" fill="#7DD3FC" font-size="14" opacity="0.10" text-anchor="middle">0</text>
+<text x="279" y="27" fill="#7DD3FC" font-size="14" opacity="0.19" text-anchor="middle">{</text>
+<text x="279" y="42" fill="#7DD3FC" font-size="14" opacity="0.28" text-anchor="middle">/</text>
+<text x="279" y="57" fill="#7DD3FC" font-size="14" opacity="0.37" text-anchor="middle">:</text>
+<text x="279" y="72" fill="#7DD3FC" font-size="14" opacity="0.46" text-anchor="middle">#</text>
+<text x="279" y="87" fill="#7DD3FC" font-size="14" opacity="0.55" text-anchor="middle">&gt;</text>
+<text x="279" y="102" fill="#7DD3FC" font-size="14" opacity="0.64" text-anchor="middle">1</text>
+<text x="279" y="117" fill="#7DD3FC" font-size="14" opacity="0.73" text-anchor="middle">1</text>
+<text x="279" y="132" fill="#7DD3FC" font-size="14" opacity="0.82" text-anchor="middle">)</text>
+<text x="279" y="147" fill="#E0F2FE" font-size="14" opacity="0.91" text-anchor="middle">=</text>
 </g>
 <g><animateTransform attributeName="transform" type="translate" from="0 -135" to="0 290" dur="5.98s" begin="-5.83s" repeatCount="indefinite"/>
-<text x="297" y="12" fill="#34D399" font-size="14" opacity="0.10" text-anchor="middle">{</text>
-<text x="297" y="27" fill="#34D399" font-size="14" opacity="0.19" text-anchor="middle">*</text>
-<text x="297" y="42" fill="#34D399" font-size="14" opacity="0.28" text-anchor="middle">(</text>
-<text x="297" y="57" fill="#34D399" font-size="14" opacity="0.37" text-anchor="middle">#</text>
-<text x="297" y="72" fill="#34D399" font-size="14" opacity="0.46" text-anchor="middle">+</text>
-<text x="297" y="87" fill="#34D399" font-size="14" opacity="0.55" text-anchor="middle">~</text>
-<text x="297" y="102" fill="#34D399" font-size="14" opacity="0.64" text-anchor="middle">^</text>
-<text x="297" y="117" fill="#34D399" font-size="14" opacity="0.73" text-anchor="middle">!</text>
-<text x="297" y="132" fill="#34D399" font-size="14" opacity="0.82" text-anchor="middle">$</text>
-<text x="297" y="147" fill="#ECFDF5" font-size="14" opacity="0.91" text-anchor="middle">(</text>
+<text x="297" y="12" fill="#38BDF8" font-size="14" opacity="0.10" text-anchor="middle">{</text>
+<text x="297" y="27" fill="#38BDF8" font-size="14" opacity="0.19" text-anchor="middle">*</text>
+<text x="297" y="42" fill="#38BDF8" font-size="14" opacity="0.28" text-anchor="middle">(</text>
+<text x="297" y="57" fill="#38BDF8" font-size="14" opacity="0.37" text-anchor="middle">#</text>
+<text x="297" y="72" fill="#38BDF8" font-size="14" opacity="0.46" text-anchor="middle">+</text>
+<text x="297" y="87" fill="#38BDF8" font-size="14" opacity="0.55" text-anchor="middle">~</text>
+<text x="297" y="102" fill="#38BDF8" font-size="14" opacity="0.64" text-anchor="middle">^</text>
+<text x="297" y="117" fill="#38BDF8" font-size="14" opacity="0.73" text-anchor="middle">!</text>
+<text x="297" y="132" fill="#38BDF8" font-size="14" opacity="0.82" text-anchor="middle">$</text>
+<text x="297" y="147" fill="#E0F2FE" font-size="14" opacity="0.91" text-anchor="middle">(</text>
 </g>
 <g><animateTransform attributeName="transform" type="translate" from="0 -165" to="0 290" dur="3.85s" begin="-0.27s" repeatCount="indefinite"/>
-<text x="315" y="12" fill="#34D399" font-size="14" opacity="0.10" text-anchor="middle">*</text>
-<text x="315" y="27" fill="#34D399" font-size="14" opacity="0.19" text-anchor="middle">^</text>
-<text x="315" y="42" fill="#34D399" font-size="14" opacity="0.28" text-anchor="middle">=</text>
-<text x="315" y="57" fill="#34D399" font-size="14" opacity="0.37" text-anchor="middle">1</text>
-<text x="315" y="72" fill="#34D399" font-size="14" opacity="0.46" text-anchor="middle">0</text>
-<text x="315" y="87" fill="#34D399" font-size="14" opacity="0.55" text-anchor="middle">&amp;</text>
-<text x="315" y="102" fill="#34D399" font-size="14" opacity="0.64" text-anchor="middle">|</text>
-<text x="315" y="117" fill="#34D399" font-size="14" opacity="0.73" text-anchor="middle">{</text>
-<text x="315" y="132" fill="#34D399" font-size="14" opacity="0.82" text-anchor="middle">%</text>
-<text x="315" y="147" fill="#ECFDF5" font-size="14" opacity="0.91" text-anchor="middle">{</text>
+<text x="315" y="12" fill="#38BDF8" font-size="14" opacity="0.10" text-anchor="middle">*</text>
+<text x="315" y="27" fill="#38BDF8" font-size="14" opacity="0.19" text-anchor="middle">^</text>
+<text x="315" y="42" fill="#38BDF8" font-size="14" opacity="0.28" text-anchor="middle">=</text>
+<text x="315" y="57" fill="#38BDF8" font-size="14" opacity="0.37" text-anchor="middle">1</text>
+<text x="315" y="72" fill="#38BDF8" font-size="14" opacity="0.46" text-anchor="middle">0</text>
+<text x="315" y="87" fill="#38BDF8" font-size="14" opacity="0.55" text-anchor="middle">&amp;</text>
+<text x="315" y="102" fill="#38BDF8" font-size="14" opacity="0.64" text-anchor="middle">|</text>
+<text x="315" y="117" fill="#38BDF8" font-size="14" opacity="0.73" text-anchor="middle">{</text>
+<text x="315" y="132" fill="#38BDF8" font-size="14" opacity="0.82" text-anchor="middle">%</text>
+<text x="315" y="147" fill="#E0F2FE" font-size="14" opacity="0.91" text-anchor="middle">{</text>
 </g>
 <g><animateTransform attributeName="transform" type="translate" from="0 -180" to="0 290" dur="5.04s" begin="-0.86s" repeatCount="indefinite"/>
-<text x="333" y="12" fill="#34D399" font-size="14" opacity="0.10" text-anchor="middle">{</text>
-<text x="333" y="27" fill="#34D399" font-size="14" opacity="0.19" text-anchor="middle">{</text>
-<text x="333" y="42" fill="#34D399" font-size="14" opacity="0.28" text-anchor="middle">#</text>
-<text x="333" y="57" fill="#34D399" font-size="14" opacity="0.37" text-anchor="middle">?</text>
-<text x="333" y="72" fill="#34D399" font-size="14" opacity="0.46" text-anchor="middle">*</text>
-<text x="333" y="87" fill="#34D399" font-size="14" opacity="0.55" text-anchor="middle">1</text>
-<text x="333" y="102" fill="#34D399" font-size="14" opacity="0.64" text-anchor="middle">^</text>
-<text x="333" y="117" fill="#34D399" font-size="14" opacity="0.73" text-anchor="middle">(</text>
-<text x="333" y="132" fill="#34D399" font-size="14" opacity="0.82" text-anchor="middle">+</text>
-<text x="333" y="147" fill="#ECFDF5" font-size="14" opacity="0.91" text-anchor="middle">*</text>
+<text x="333" y="12" fill="#38BDF8" font-size="14" opacity="0.10" text-anchor="middle">{</text>
+<text x="333" y="27" fill="#38BDF8" font-size="14" opacity="0.19" text-anchor="middle">{</text>
+<text x="333" y="42" fill="#38BDF8" font-size="14" opacity="0.28" text-anchor="middle">#</text>
+<text x="333" y="57" fill="#38BDF8" font-size="14" opacity="0.37" text-anchor="middle">?</text>
+<text x="333" y="72" fill="#38BDF8" font-size="14" opacity="0.46" text-anchor="middle">*</text>
+<text x="333" y="87" fill="#38BDF8" font-size="14" opacity="0.55" text-anchor="middle">1</text>
+<text x="333" y="102" fill="#38BDF8" font-size="14" opacity="0.64" text-anchor="middle">^</text>
+<text x="333" y="117" fill="#38BDF8" font-size="14" opacity="0.73" text-anchor="middle">(</text>
+<text x="333" y="132" fill="#38BDF8" font-size="14" opacity="0.82" text-anchor="middle">+</text>
+<text x="333" y="147" fill="#E0F2FE" font-size="14" opacity="0.91" text-anchor="middle">*</text>
 </g>
 <g><animateTransform attributeName="transform" type="translate" from="0 -105" to="0 290" dur="6.65s" begin="-6.01s" repeatCount="indefinite"/>
-<text x="351" y="12" fill="#34D399" font-size="14" opacity="0.10" text-anchor="middle">:</text>
-<text x="351" y="27" fill="#34D399" font-size="14" opacity="0.19" text-anchor="middle">0</text>
-<text x="351" y="42" fill="#34D399" font-size="14" opacity="0.28" text-anchor="middle">%</text>
-<text x="351" y="57" fill="#34D399" font-size="14" opacity="0.37" text-anchor="middle">$</text>
-<text x="351" y="72" fill="#34D399" font-size="14" opacity="0.46" text-anchor="middle">0</text>
-<text x="351" y="87" fill="#34D399" font-size="14" opacity="0.55" text-anchor="middle">&amp;</text>
-<text x="351" y="102" fill="#34D399" font-size="14" opacity="0.64" text-anchor="middle">~</text>
-<text x="351" y="117" fill="#34D399" font-size="14" opacity="0.73" text-anchor="middle">;</text>
-<text x="351" y="132" fill="#34D399" font-size="14" opacity="0.82" text-anchor="middle">;</text>
-<text x="351" y="147" fill="#ECFDF5" font-size="14" opacity="0.91" text-anchor="middle">$</text>
+<text x="351" y="12" fill="#38BDF8" font-size="14" opacity="0.10" text-anchor="middle">:</text>
+<text x="351" y="27" fill="#38BDF8" font-size="14" opacity="0.19" text-anchor="middle">0</text>
+<text x="351" y="42" fill="#38BDF8" font-size="14" opacity="0.28" text-anchor="middle">%</text>
+<text x="351" y="57" fill="#38BDF8" font-size="14" opacity="0.37" text-anchor="middle">$</text>
+<text x="351" y="72" fill="#38BDF8" font-size="14" opacity="0.46" text-anchor="middle">0</text>
+<text x="351" y="87" fill="#38BDF8" font-size="14" opacity="0.55" text-anchor="middle">&amp;</text>
+<text x="351" y="102" fill="#38BDF8" font-size="14" opacity="0.64" text-anchor="middle">~</text>
+<text x="351" y="117" fill="#38BDF8" font-size="14" opacity="0.73" text-anchor="middle">;</text>
+<text x="351" y="132" fill="#38BDF8" font-size="14" opacity="0.82" text-anchor="middle">;</text>
+<text x="351" y="147" fill="#E0F2FE" font-size="14" opacity="0.91" text-anchor="middle">$</text>
 </g>
 <g><animateTransform attributeName="transform" type="translate" from="0 -105" to="0 290" dur="6.32s" begin="-0.69s" repeatCount="indefinite"/>
-<text x="369" y="12" fill="#34D399" font-size="14" opacity="0.10" text-anchor="middle">|</text>
-<text x="369" y="27" fill="#34D399" font-size="14" opacity="0.19" text-anchor="middle">}</text>
-<text x="369" y="42" fill="#34D399" font-size="14" opacity="0.28" text-anchor="middle">/</text>
-<text x="369" y="57" fill="#34D399" font-size="14" opacity="0.37" text-anchor="middle">:</text>
-<text x="369" y="72" fill="#34D399" font-size="14" opacity="0.46" text-anchor="middle">+</text>
-<text x="369" y="87" fill="#34D399" font-size="14" opacity="0.55" text-anchor="middle">;</text>
-<text x="369" y="102" fill="#34D399" font-size="14" opacity="0.64" text-anchor="middle">^</text>
-<text x="369" y="117" fill="#34D399" font-size="14" opacity="0.73" text-anchor="middle">$</text>
-<text x="369" y="132" fill="#34D399" font-size="14" opacity="0.82" text-anchor="middle">#</text>
-<text x="369" y="147" fill="#ECFDF5" font-size="14" opacity="0.91" text-anchor="middle">#</text>
+<text x="369" y="12" fill="#38BDF8" font-size="14" opacity="0.10" text-anchor="middle">|</text>
+<text x="369" y="27" fill="#38BDF8" font-size="14" opacity="0.19" text-anchor="middle">}</text>
+<text x="369" y="42" fill="#38BDF8" font-size="14" opacity="0.28" text-anchor="middle">/</text>
+<text x="369" y="57" fill="#38BDF8" font-size="14" opacity="0.37" text-anchor="middle">:</text>
+<text x="369" y="72" fill="#38BDF8" font-size="14" opacity="0.46" text-anchor="middle">+</text>
+<text x="369" y="87" fill="#38BDF8" font-size="14" opacity="0.55" text-anchor="middle">;</text>
+<text x="369" y="102" fill="#38BDF8" font-size="14" opacity="0.64" text-anchor="middle">^</text>
+<text x="369" y="117" fill="#38BDF8" font-size="14" opacity="0.73" text-anchor="middle">$</text>
+<text x="369" y="132" fill="#38BDF8" font-size="14" opacity="0.82" text-anchor="middle">#</text>
+<text x="369" y="147" fill="#E0F2FE" font-size="14" opacity="0.91" text-anchor="middle">#</text>
 </g>
 <g><animateTransform attributeName="transform" type="translate" from="0 -150" to="0 290" dur="7.30s" begin="-0.80s" repeatCount="indefinite"/>
-<text x="387" y="12" fill="#FBBF24" font-size="14" opacity="0.10" text-anchor="middle">!</text>
-<text x="387" y="27" fill="#FBBF24" font-size="14" opacity="0.19" text-anchor="middle">0</text>
-<text x="387" y="42" fill="#FBBF24" font-size="14" opacity="0.28" text-anchor="middle">=</text>
-<text x="387" y="57" fill="#FBBF24" font-size="14" opacity="0.37" text-anchor="middle">&amp;</text>
-<text x="387" y="72" fill="#FBBF24" font-size="14" opacity="0.46" text-anchor="middle">{</text>
-<text x="387" y="87" fill="#FBBF24" font-size="14" opacity="0.55" text-anchor="middle">%</text>
-<text x="387" y="102" fill="#FBBF24" font-size="14" opacity="0.64" text-anchor="middle">0</text>
-<text x="387" y="117" fill="#FBBF24" font-size="14" opacity="0.73" text-anchor="middle">&gt;</text>
-<text x="387" y="132" fill="#FBBF24" font-size="14" opacity="0.82" text-anchor="middle">^</text>
-<text x="387" y="147" fill="#ECFDF5" font-size="14" opacity="0.91" text-anchor="middle">}</text>
+<text x="387" y="12" fill="#7DD3FC" font-size="14" opacity="0.10" text-anchor="middle">!</text>
+<text x="387" y="27" fill="#7DD3FC" font-size="14" opacity="0.19" text-anchor="middle">0</text>
+<text x="387" y="42" fill="#7DD3FC" font-size="14" opacity="0.28" text-anchor="middle">=</text>
+<text x="387" y="57" fill="#7DD3FC" font-size="14" opacity="0.37" text-anchor="middle">&amp;</text>
+<text x="387" y="72" fill="#7DD3FC" font-size="14" opacity="0.46" text-anchor="middle">{</text>
+<text x="387" y="87" fill="#7DD3FC" font-size="14" opacity="0.55" text-anchor="middle">%</text>
+<text x="387" y="102" fill="#7DD3FC" font-size="14" opacity="0.64" text-anchor="middle">0</text>
+<text x="387" y="117" fill="#7DD3FC" font-size="14" opacity="0.73" text-anchor="middle">&gt;</text>
+<text x="387" y="132" fill="#7DD3FC" font-size="14" opacity="0.82" text-anchor="middle">^</text>
+<text x="387" y="147" fill="#E0F2FE" font-size="14" opacity="0.91" text-anchor="middle">}</text>
 </g>
 <g><animateTransform attributeName="transform" type="translate" from="0 -150" to="0 290" dur="7.05s" begin="-4.72s" repeatCount="indefinite"/>
-<text x="405" y="12" fill="#34D399" font-size="14" opacity="0.10" text-anchor="middle">%</text>
-<text x="405" y="27" fill="#34D399" font-size="14" opacity="0.19" text-anchor="middle">/</text>
-<text x="405" y="42" fill="#34D399" font-size="14" opacity="0.28" text-anchor="middle">0</text>
-<text x="405" y="57" fill="#34D399" font-size="14" opacity="0.37" text-anchor="middle">*</text>
-<text x="405" y="72" fill="#34D399" font-size="14" opacity="0.46" text-anchor="middle">=</text>
-<text x="405" y="87" fill="#34D399" font-size="14" opacity="0.55" text-anchor="middle">(</text>
-<text x="405" y="102" fill="#34D399" font-size="14" opacity="0.64" text-anchor="middle">~</text>
-<text x="405" y="117" fill="#34D399" font-size="14" opacity="0.73" text-anchor="middle">&amp;</text>
-<text x="405" y="132" fill="#34D399" font-size="14" opacity="0.82" text-anchor="middle">&lt;</text>
-<text x="405" y="147" fill="#ECFDF5" font-size="14" opacity="0.91" text-anchor="middle">!</text>
+<text x="405" y="12" fill="#38BDF8" font-size="14" opacity="0.10" text-anchor="middle">%</text>
+<text x="405" y="27" fill="#38BDF8" font-size="14" opacity="0.19" text-anchor="middle">/</text>
+<text x="405" y="42" fill="#38BDF8" font-size="14" opacity="0.28" text-anchor="middle">0</text>
+<text x="405" y="57" fill="#38BDF8" font-size="14" opacity="0.37" text-anchor="middle">*</text>
+<text x="405" y="72" fill="#38BDF8" font-size="14" opacity="0.46" text-anchor="middle">=</text>
+<text x="405" y="87" fill="#38BDF8" font-size="14" opacity="0.55" text-anchor="middle">(</text>
+<text x="405" y="102" fill="#38BDF8" font-size="14" opacity="0.64" text-anchor="middle">~</text>
+<text x="405" y="117" fill="#38BDF8" font-size="14" opacity="0.73" text-anchor="middle">&amp;</text>
+<text x="405" y="132" fill="#38BDF8" font-size="14" opacity="0.82" text-anchor="middle">&lt;</text>
+<text x="405" y="147" fill="#E0F2FE" font-size="14" opacity="0.91" text-anchor="middle">!</text>
 </g>
 <g><animateTransform attributeName="transform" type="translate" from="0 -120" to="0 290" dur="6.94s" begin="-2.51s" repeatCount="indefinite"/>
-<text x="423" y="12" fill="#34D399" font-size="14" opacity="0.10" text-anchor="middle">#</text>
-<text x="423" y="27" fill="#34D399" font-size="14" opacity="0.19" text-anchor="middle">%</text>
-<text x="423" y="42" fill="#34D399" font-size="14" opacity="0.28" text-anchor="middle">&gt;</text>
-<text x="423" y="57" fill="#34D399" font-size="14" opacity="0.37" text-anchor="middle">+</text>
-<text x="423" y="72" fill="#34D399" font-size="14" opacity="0.46" text-anchor="middle">;</text>
-<text x="423" y="87" fill="#34D399" font-size="14" opacity="0.55" text-anchor="middle">~</text>
-<text x="423" y="102" fill="#34D399" font-size="14" opacity="0.64" text-anchor="middle">/</text>
-<text x="423" y="117" fill="#34D399" font-size="14" opacity="0.73" text-anchor="middle">&lt;</text>
-<text x="423" y="132" fill="#34D399" font-size="14" opacity="0.82" text-anchor="middle">|</text>
-<text x="423" y="147" fill="#ECFDF5" font-size="14" opacity="0.91" text-anchor="middle">:</text>
+<text x="423" y="12" fill="#38BDF8" font-size="14" opacity="0.10" text-anchor="middle">#</text>
+<text x="423" y="27" fill="#38BDF8" font-size="14" opacity="0.19" text-anchor="middle">%</text>
+<text x="423" y="42" fill="#38BDF8" font-size="14" opacity="0.28" text-anchor="middle">&gt;</text>
+<text x="423" y="57" fill="#38BDF8" font-size="14" opacity="0.37" text-anchor="middle">+</text>
+<text x="423" y="72" fill="#38BDF8" font-size="14" opacity="0.46" text-anchor="middle">;</text>
+<text x="423" y="87" fill="#38BDF8" font-size="14" opacity="0.55" text-anchor="middle">~</text>
+<text x="423" y="102" fill="#38BDF8" font-size="14" opacity="0.64" text-anchor="middle">/</text>
+<text x="423" y="117" fill="#38BDF8" font-size="14" opacity="0.73" text-anchor="middle">&lt;</text>
+<text x="423" y="132" fill="#38BDF8" font-size="14" opacity="0.82" text-anchor="middle">|</text>
+<text x="423" y="147" fill="#E0F2FE" font-size="14" opacity="0.91" text-anchor="middle">:</text>
 </g>
 <g><animateTransform attributeName="transform" type="translate" from="0 -120" to="0 290" dur="7.49s" begin="-3.00s" repeatCount="indefinite"/>
-<text x="441" y="12" fill="#34D399" font-size="14" opacity="0.10" text-anchor="middle">$</text>
-<text x="441" y="27" fill="#34D399" font-size="14" opacity="0.19" text-anchor="middle">+</text>
-<text x="441" y="42" fill="#34D399" font-size="14" opacity="0.28" text-anchor="middle">&lt;</text>
-<text x="441" y="57" fill="#34D399" font-size="14" opacity="0.37" text-anchor="middle">(</text>
-<text x="441" y="72" fill="#34D399" font-size="14" opacity="0.46" text-anchor="middle">(</text>
-<text x="441" y="87" fill="#34D399" font-size="14" opacity="0.55" text-anchor="middle">%</text>
-<text x="441" y="102" fill="#34D399" font-size="14" opacity="0.64" text-anchor="middle">*</text>
-<text x="441" y="117" fill="#34D399" font-size="14" opacity="0.73" text-anchor="middle">1</text>
-<text x="441" y="132" fill="#34D399" font-size="14" opacity="0.82" text-anchor="middle">^</text>
-<text x="441" y="147" fill="#ECFDF5" font-size="14" opacity="0.91" text-anchor="middle">{</text>
+<text x="441" y="12" fill="#38BDF8" font-size="14" opacity="0.10" text-anchor="middle">$</text>
+<text x="441" y="27" fill="#38BDF8" font-size="14" opacity="0.19" text-anchor="middle">+</text>
+<text x="441" y="42" fill="#38BDF8" font-size="14" opacity="0.28" text-anchor="middle">&lt;</text>
+<text x="441" y="57" fill="#38BDF8" font-size="14" opacity="0.37" text-anchor="middle">(</text>
+<text x="441" y="72" fill="#38BDF8" font-size="14" opacity="0.46" text-anchor="middle">(</text>
+<text x="441" y="87" fill="#38BDF8" font-size="14" opacity="0.55" text-anchor="middle">%</text>
+<text x="441" y="102" fill="#38BDF8" font-size="14" opacity="0.64" text-anchor="middle">*</text>
+<text x="441" y="117" fill="#38BDF8" font-size="14" opacity="0.73" text-anchor="middle">1</text>
+<text x="441" y="132" fill="#38BDF8" font-size="14" opacity="0.82" text-anchor="middle">^</text>
+<text x="441" y="147" fill="#E0F2FE" font-size="14" opacity="0.91" text-anchor="middle">{</text>
 </g>
 <g><animateTransform attributeName="transform" type="translate" from="0 -135" to="0 290" dur="7.23s" begin="-0.99s" repeatCount="indefinite"/>
-<text x="459" y="12" fill="#34D399" font-size="14" opacity="0.10" text-anchor="middle">%</text>
-<text x="459" y="27" fill="#34D399" font-size="14" opacity="0.19" text-anchor="middle">/</text>
-<text x="459" y="42" fill="#34D399" font-size="14" opacity="0.28" text-anchor="middle">&lt;</text>
-<text x="459" y="57" fill="#34D399" font-size="14" opacity="0.37" text-anchor="middle">:</text>
-<text x="459" y="72" fill="#34D399" font-size="14" opacity="0.46" text-anchor="middle">;</text>
-<text x="459" y="87" fill="#34D399" font-size="14" opacity="0.55" text-anchor="middle">|</text>
-<text x="459" y="102" fill="#34D399" font-size="14" opacity="0.64" text-anchor="middle">!</text>
-<text x="459" y="117" fill="#34D399" font-size="14" opacity="0.73" text-anchor="middle">%</text>
-<text x="459" y="132" fill="#34D399" font-size="14" opacity="0.82" text-anchor="middle">~</text>
-<text x="459" y="147" fill="#ECFDF5" font-size="14" opacity="0.91" text-anchor="middle">+</text>
+<text x="459" y="12" fill="#38BDF8" font-size="14" opacity="0.10" text-anchor="middle">%</text>
+<text x="459" y="27" fill="#38BDF8" font-size="14" opacity="0.19" text-anchor="middle">/</text>
+<text x="459" y="42" fill="#38BDF8" font-size="14" opacity="0.28" text-anchor="middle">&lt;</text>
+<text x="459" y="57" fill="#38BDF8" font-size="14" opacity="0.37" text-anchor="middle">:</text>
+<text x="459" y="72" fill="#38BDF8" font-size="14" opacity="0.46" text-anchor="middle">;</text>
+<text x="459" y="87" fill="#38BDF8" font-size="14" opacity="0.55" text-anchor="middle">|</text>
+<text x="459" y="102" fill="#38BDF8" font-size="14" opacity="0.64" text-anchor="middle">!</text>
+<text x="459" y="117" fill="#38BDF8" font-size="14" opacity="0.73" text-anchor="middle">%</text>
+<text x="459" y="132" fill="#38BDF8" font-size="14" opacity="0.82" text-anchor="middle">~</text>
+<text x="459" y="147" fill="#E0F2FE" font-size="14" opacity="0.91" text-anchor="middle">+</text>
 </g>
 <g><animateTransform attributeName="transform" type="translate" from="0 -180" to="0 290" dur="7.31s" begin="-7.18s" repeatCount="indefinite"/>
-<text x="477" y="12" fill="#34D399" font-size="14" opacity="0.10" text-anchor="middle">#</text>
-<text x="477" y="27" fill="#34D399" font-size="14" opacity="0.19" text-anchor="middle">+</text>
-<text x="477" y="42" fill="#34D399" font-size="14" opacity="0.28" text-anchor="middle">{</text>
-<text x="477" y="57" fill="#34D399" font-size="14" opacity="0.37" text-anchor="middle">1</text>
-<text x="477" y="72" fill="#34D399" font-size="14" opacity="0.46" text-anchor="middle">/</text>
-<text x="477" y="87" fill="#34D399" font-size="14" opacity="0.55" text-anchor="middle">&amp;</text>
-<text x="477" y="102" fill="#34D399" font-size="14" opacity="0.64" text-anchor="middle">1</text>
-<text x="477" y="117" fill="#34D399" font-size="14" opacity="0.73" text-anchor="middle">~</text>
-<text x="477" y="132" fill="#34D399" font-size="14" opacity="0.82" text-anchor="middle">^</text>
-<text x="477" y="147" fill="#ECFDF5" font-size="14" opacity="0.91" text-anchor="middle">/</text>
+<text x="477" y="12" fill="#38BDF8" font-size="14" opacity="0.10" text-anchor="middle">#</text>
+<text x="477" y="27" fill="#38BDF8" font-size="14" opacity="0.19" text-anchor="middle">+</text>
+<text x="477" y="42" fill="#38BDF8" font-size="14" opacity="0.28" text-anchor="middle">{</text>
+<text x="477" y="57" fill="#38BDF8" font-size="14" opacity="0.37" text-anchor="middle">1</text>
+<text x="477" y="72" fill="#38BDF8" font-size="14" opacity="0.46" text-anchor="middle">/</text>
+<text x="477" y="87" fill="#38BDF8" font-size="14" opacity="0.55" text-anchor="middle">&amp;</text>
+<text x="477" y="102" fill="#38BDF8" font-size="14" opacity="0.64" text-anchor="middle">1</text>
+<text x="477" y="117" fill="#38BDF8" font-size="14" opacity="0.73" text-anchor="middle">~</text>
+<text x="477" y="132" fill="#38BDF8" font-size="14" opacity="0.82" text-anchor="middle">^</text>
+<text x="477" y="147" fill="#E0F2FE" font-size="14" opacity="0.91" text-anchor="middle">/</text>
 </g>
 <g><animateTransform attributeName="transform" type="translate" from="0 -165" to="0 290" dur="5.22s" begin="-3.46s" repeatCount="indefinite"/>
-<text x="495" y="12" fill="#FBBF24" font-size="14" opacity="0.10" text-anchor="middle">$</text>
-<text x="495" y="27" fill="#FBBF24" font-size="14" opacity="0.19" text-anchor="middle">0</text>
-<text x="495" y="42" fill="#FBBF24" font-size="14" opacity="0.28" text-anchor="middle">|</text>
-<text x="495" y="57" fill="#FBBF24" font-size="14" opacity="0.37" text-anchor="middle">(</text>
-<text x="495" y="72" fill="#FBBF24" font-size="14" opacity="0.46" text-anchor="middle">;</text>
-<text x="495" y="87" fill="#FBBF24" font-size="14" opacity="0.55" text-anchor="middle">#</text>
-<text x="495" y="102" fill="#FBBF24" font-size="14" opacity="0.64" text-anchor="middle">&lt;</text>
-<text x="495" y="117" fill="#FBBF24" font-size="14" opacity="0.73" text-anchor="middle">0</text>
-<text x="495" y="132" fill="#FBBF24" font-size="14" opacity="0.82" text-anchor="middle">/</text>
-<text x="495" y="147" fill="#ECFDF5" font-size="14" opacity="0.91" text-anchor="middle">&gt;</text>
+<text x="495" y="12" fill="#7DD3FC" font-size="14" opacity="0.10" text-anchor="middle">$</text>
+<text x="495" y="27" fill="#7DD3FC" font-size="14" opacity="0.19" text-anchor="middle">0</text>
+<text x="495" y="42" fill="#7DD3FC" font-size="14" opacity="0.28" text-anchor="middle">|</text>
+<text x="495" y="57" fill="#7DD3FC" font-size="14" opacity="0.37" text-anchor="middle">(</text>
+<text x="495" y="72" fill="#7DD3FC" font-size="14" opacity="0.46" text-anchor="middle">;</text>
+<text x="495" y="87" fill="#7DD3FC" font-size="14" opacity="0.55" text-anchor="middle">#</text>
+<text x="495" y="102" fill="#7DD3FC" font-size="14" opacity="0.64" text-anchor="middle">&lt;</text>
+<text x="495" y="117" fill="#7DD3FC" font-size="14" opacity="0.73" text-anchor="middle">0</text>
+<text x="495" y="132" fill="#7DD3FC" font-size="14" opacity="0.82" text-anchor="middle">/</text>
+<text x="495" y="147" fill="#E0F2FE" font-size="14" opacity="0.91" text-anchor="middle">&gt;</text>
 </g>
 <g><animateTransform attributeName="transform" type="translate" from="0 -120" to="0 290" dur="7.13s" begin="-7.02s" repeatCount="indefinite"/>
-<text x="513" y="12" fill="#34D399" font-size="14" opacity="0.10" text-anchor="middle">}</text>
-<text x="513" y="27" fill="#34D399" font-size="14" opacity="0.19" text-anchor="middle">#</text>
-<text x="513" y="42" fill="#34D399" font-size="14" opacity="0.28" text-anchor="middle">}</text>
-<text x="513" y="57" fill="#34D399" font-size="14" opacity="0.37" text-anchor="middle">|</text>
-<text x="513" y="72" fill="#34D399" font-size="14" opacity="0.46" text-anchor="middle">?</text>
-<text x="513" y="87" fill="#34D399" font-size="14" opacity="0.55" text-anchor="middle">|</text>
-<text x="513" y="102" fill="#34D399" font-size="14" opacity="0.64" text-anchor="middle">|</text>
-<text x="513" y="117" fill="#34D399" font-size="14" opacity="0.73" text-anchor="middle">*</text>
-<text x="513" y="132" fill="#34D399" font-size="14" opacity="0.82" text-anchor="middle">{</text>
-<text x="513" y="147" fill="#ECFDF5" font-size="14" opacity="0.91" text-anchor="middle">~</text>
+<text x="513" y="12" fill="#38BDF8" font-size="14" opacity="0.10" text-anchor="middle">}</text>
+<text x="513" y="27" fill="#38BDF8" font-size="14" opacity="0.19" text-anchor="middle">#</text>
+<text x="513" y="42" fill="#38BDF8" font-size="14" opacity="0.28" text-anchor="middle">}</text>
+<text x="513" y="57" fill="#38BDF8" font-size="14" opacity="0.37" text-anchor="middle">|</text>
+<text x="513" y="72" fill="#38BDF8" font-size="14" opacity="0.46" text-anchor="middle">?</text>
+<text x="513" y="87" fill="#38BDF8" font-size="14" opacity="0.55" text-anchor="middle">|</text>
+<text x="513" y="102" fill="#38BDF8" font-size="14" opacity="0.64" text-anchor="middle">|</text>
+<text x="513" y="117" fill="#38BDF8" font-size="14" opacity="0.73" text-anchor="middle">*</text>
+<text x="513" y="132" fill="#38BDF8" font-size="14" opacity="0.82" text-anchor="middle">{</text>
+<text x="513" y="147" fill="#E0F2FE" font-size="14" opacity="0.91" text-anchor="middle">~</text>
 </g>
 <g><animateTransform attributeName="transform" type="translate" from="0 -120" to="0 290" dur="4.56s" begin="-2.27s" repeatCount="indefinite"/>
-<text x="531" y="12" fill="#34D399" font-size="14" opacity="0.10" text-anchor="middle">)</text>
-<text x="531" y="27" fill="#34D399" font-size="14" opacity="0.19" text-anchor="middle">^</text>
-<text x="531" y="42" fill="#34D399" font-size="14" opacity="0.28" text-anchor="middle">0</text>
-<text x="531" y="57" fill="#34D399" font-size="14" opacity="0.37" text-anchor="middle">%</text>
-<text x="531" y="72" fill="#34D399" font-size="14" opacity="0.46" text-anchor="middle">?</text>
-<text x="531" y="87" fill="#34D399" font-size="14" opacity="0.55" text-anchor="middle">^</text>
-<text x="531" y="102" fill="#34D399" font-size="14" opacity="0.64" text-anchor="middle">1</text>
-<text x="531" y="117" fill="#34D399" font-size="14" opacity="0.73" text-anchor="middle">)</text>
-<text x="531" y="132" fill="#34D399" font-size="14" opacity="0.82" text-anchor="middle">&gt;</text>
-<text x="531" y="147" fill="#ECFDF5" font-size="14" opacity="0.91" text-anchor="middle">/</text>
+<text x="531" y="12" fill="#38BDF8" font-size="14" opacity="0.10" text-anchor="middle">)</text>
+<text x="531" y="27" fill="#38BDF8" font-size="14" opacity="0.19" text-anchor="middle">^</text>
+<text x="531" y="42" fill="#38BDF8" font-size="14" opacity="0.28" text-anchor="middle">0</text>
+<text x="531" y="57" fill="#38BDF8" font-size="14" opacity="0.37" text-anchor="middle">%</text>
+<text x="531" y="72" fill="#38BDF8" font-size="14" opacity="0.46" text-anchor="middle">?</text>
+<text x="531" y="87" fill="#38BDF8" font-size="14" opacity="0.55" text-anchor="middle">^</text>
+<text x="531" y="102" fill="#38BDF8" font-size="14" opacity="0.64" text-anchor="middle">1</text>
+<text x="531" y="117" fill="#38BDF8" font-size="14" opacity="0.73" text-anchor="middle">)</text>
+<text x="531" y="132" fill="#38BDF8" font-size="14" opacity="0.82" text-anchor="middle">&gt;</text>
+<text x="531" y="147" fill="#E0F2FE" font-size="14" opacity="0.91" text-anchor="middle">/</text>
 </g>
 <g><animateTransform attributeName="transform" type="translate" from="0 -135" to="0 290" dur="6.02s" begin="-5.71s" repeatCount="indefinite"/>
-<text x="549" y="12" fill="#34D399" font-size="14" opacity="0.10" text-anchor="middle">!</text>
-<text x="549" y="27" fill="#34D399" font-size="14" opacity="0.19" text-anchor="middle">&amp;</text>
-<text x="549" y="42" fill="#34D399" font-size="14" opacity="0.28" text-anchor="middle">)</text>
-<text x="549" y="57" fill="#34D399" font-size="14" opacity="0.37" text-anchor="middle">;</text>
-<text x="549" y="72" fill="#34D399" font-size="14" opacity="0.46" text-anchor="middle">^</text>
-<text x="549" y="87" fill="#34D399" font-size="14" opacity="0.55" text-anchor="middle">&gt;</text>
-<text x="549" y="102" fill="#34D399" font-size="14" opacity="0.64" text-anchor="middle">{</text>
-<text x="549" y="117" fill="#34D399" font-size="14" opacity="0.73" text-anchor="middle">:</text>
-<text x="549" y="132" fill="#34D399" font-size="14" opacity="0.82" text-anchor="middle">;</text>
-<text x="549" y="147" fill="#ECFDF5" font-size="14" opacity="0.91" text-anchor="middle">(</text>
+<text x="549" y="12" fill="#38BDF8" font-size="14" opacity="0.10" text-anchor="middle">!</text>
+<text x="549" y="27" fill="#38BDF8" font-size="14" opacity="0.19" text-anchor="middle">&amp;</text>
+<text x="549" y="42" fill="#38BDF8" font-size="14" opacity="0.28" text-anchor="middle">)</text>
+<text x="549" y="57" fill="#38BDF8" font-size="14" opacity="0.37" text-anchor="middle">;</text>
+<text x="549" y="72" fill="#38BDF8" font-size="14" opacity="0.46" text-anchor="middle">^</text>
+<text x="549" y="87" fill="#38BDF8" font-size="14" opacity="0.55" text-anchor="middle">&gt;</text>
+<text x="549" y="102" fill="#38BDF8" font-size="14" opacity="0.64" text-anchor="middle">{</text>
+<text x="549" y="117" fill="#38BDF8" font-size="14" opacity="0.73" text-anchor="middle">:</text>
+<text x="549" y="132" fill="#38BDF8" font-size="14" opacity="0.82" text-anchor="middle">;</text>
+<text x="549" y="147" fill="#E0F2FE" font-size="14" opacity="0.91" text-anchor="middle">(</text>
 </g>
 <g><animateTransform attributeName="transform" type="translate" from="0 -150" to="0 290" dur="5.65s" begin="-3.61s" repeatCount="indefinite"/>
-<text x="567" y="12" fill="#34D399" font-size="14" opacity="0.10" text-anchor="middle">0</text>
-<text x="567" y="27" fill="#34D399" font-size="14" opacity="0.19" text-anchor="middle">;</text>
-<text x="567" y="42" fill="#34D399" font-size="14" opacity="0.28" text-anchor="middle">?</text>
-<text x="567" y="57" fill="#34D399" font-size="14" opacity="0.37" text-anchor="middle">$</text>
-<text x="567" y="72" fill="#34D399" font-size="14" opacity="0.46" text-anchor="middle">|</text>
-<text x="567" y="87" fill="#34D399" font-size="14" opacity="0.55" text-anchor="middle">!</text>
-<text x="567" y="102" fill="#34D399" font-size="14" opacity="0.64" text-anchor="middle">+</text>
-<text x="567" y="117" fill="#34D399" font-size="14" opacity="0.73" text-anchor="middle">#</text>
-<text x="567" y="132" fill="#34D399" font-size="14" opacity="0.82" text-anchor="middle">+</text>
-<text x="567" y="147" fill="#ECFDF5" font-size="14" opacity="0.91" text-anchor="middle">|</text>
+<text x="567" y="12" fill="#38BDF8" font-size="14" opacity="0.10" text-anchor="middle">0</text>
+<text x="567" y="27" fill="#38BDF8" font-size="14" opacity="0.19" text-anchor="middle">;</text>
+<text x="567" y="42" fill="#38BDF8" font-size="14" opacity="0.28" text-anchor="middle">?</text>
+<text x="567" y="57" fill="#38BDF8" font-size="14" opacity="0.37" text-anchor="middle">$</text>
+<text x="567" y="72" fill="#38BDF8" font-size="14" opacity="0.46" text-anchor="middle">|</text>
+<text x="567" y="87" fill="#38BDF8" font-size="14" opacity="0.55" text-anchor="middle">!</text>
+<text x="567" y="102" fill="#38BDF8" font-size="14" opacity="0.64" text-anchor="middle">+</text>
+<text x="567" y="117" fill="#38BDF8" font-size="14" opacity="0.73" text-anchor="middle">#</text>
+<text x="567" y="132" fill="#38BDF8" font-size="14" opacity="0.82" text-anchor="middle">+</text>
+<text x="567" y="147" fill="#E0F2FE" font-size="14" opacity="0.91" text-anchor="middle">|</text>
 </g>
 <g><animateTransform attributeName="transform" type="translate" from="0 -120" to="0 290" dur="4.13s" begin="-3.60s" repeatCount="indefinite"/>
-<text x="585" y="12" fill="#34D399" font-size="14" opacity="0.10" text-anchor="middle">|</text>
-<text x="585" y="27" fill="#34D399" font-size="14" opacity="0.19" text-anchor="middle">^</text>
-<text x="585" y="42" fill="#34D399" font-size="14" opacity="0.28" text-anchor="middle">}</text>
-<text x="585" y="57" fill="#34D399" font-size="14" opacity="0.37" text-anchor="middle">&lt;</text>
-<text x="585" y="72" fill="#34D399" font-size="14" opacity="0.46" text-anchor="middle">&gt;</text>
-<text x="585" y="87" fill="#34D399" font-size="14" opacity="0.55" text-anchor="middle">;</text>
-<text x="585" y="102" fill="#34D399" font-size="14" opacity="0.64" text-anchor="middle">{</text>
-<text x="585" y="117" fill="#34D399" font-size="14" opacity="0.73" text-anchor="middle">=</text>
-<text x="585" y="132" fill="#34D399" font-size="14" opacity="0.82" text-anchor="middle">?</text>
-<text x="585" y="147" fill="#ECFDF5" font-size="14" opacity="0.91" text-anchor="middle">+</text>
+<text x="585" y="12" fill="#38BDF8" font-size="14" opacity="0.10" text-anchor="middle">|</text>
+<text x="585" y="27" fill="#38BDF8" font-size="14" opacity="0.19" text-anchor="middle">^</text>
+<text x="585" y="42" fill="#38BDF8" font-size="14" opacity="0.28" text-anchor="middle">}</text>
+<text x="585" y="57" fill="#38BDF8" font-size="14" opacity="0.37" text-anchor="middle">&lt;</text>
+<text x="585" y="72" fill="#38BDF8" font-size="14" opacity="0.46" text-anchor="middle">&gt;</text>
+<text x="585" y="87" fill="#38BDF8" font-size="14" opacity="0.55" text-anchor="middle">;</text>
+<text x="585" y="102" fill="#38BDF8" font-size="14" opacity="0.64" text-anchor="middle">{</text>
+<text x="585" y="117" fill="#38BDF8" font-size="14" opacity="0.73" text-anchor="middle">=</text>
+<text x="585" y="132" fill="#38BDF8" font-size="14" opacity="0.82" text-anchor="middle">?</text>
+<text x="585" y="147" fill="#E0F2FE" font-size="14" opacity="0.91" text-anchor="middle">+</text>
 </g>
 <g><animateTransform attributeName="transform" type="translate" from="0 -135" to="0 290" dur="7.61s" begin="-6.54s" repeatCount="indefinite"/>
-<text x="603" y="12" fill="#FBBF24" font-size="14" opacity="0.10" text-anchor="middle">*</text>
-<text x="603" y="27" fill="#FBBF24" font-size="14" opacity="0.19" text-anchor="middle">!</text>
-<text x="603" y="42" fill="#FBBF24" font-size="14" opacity="0.28" text-anchor="middle">{</text>
-<text x="603" y="57" fill="#FBBF24" font-size="14" opacity="0.37" text-anchor="middle">1</text>
-<text x="603" y="72" fill="#FBBF24" font-size="14" opacity="0.46" text-anchor="middle">#</text>
-<text x="603" y="87" fill="#FBBF24" font-size="14" opacity="0.55" text-anchor="middle">+</text>
-<text x="603" y="102" fill="#FBBF24" font-size="14" opacity="0.64" text-anchor="middle">?</text>
-<text x="603" y="117" fill="#FBBF24" font-size="14" opacity="0.73" text-anchor="middle">:</text>
-<text x="603" y="132" fill="#FBBF24" font-size="14" opacity="0.82" text-anchor="middle">/</text>
-<text x="603" y="147" fill="#ECFDF5" font-size="14" opacity="0.91" text-anchor="middle">%</text>
+<text x="603" y="12" fill="#7DD3FC" font-size="14" opacity="0.10" text-anchor="middle">*</text>
+<text x="603" y="27" fill="#7DD3FC" font-size="14" opacity="0.19" text-anchor="middle">!</text>
+<text x="603" y="42" fill="#7DD3FC" font-size="14" opacity="0.28" text-anchor="middle">{</text>
+<text x="603" y="57" fill="#7DD3FC" font-size="14" opacity="0.37" text-anchor="middle">1</text>
+<text x="603" y="72" fill="#7DD3FC" font-size="14" opacity="0.46" text-anchor="middle">#</text>
+<text x="603" y="87" fill="#7DD3FC" font-size="14" opacity="0.55" text-anchor="middle">+</text>
+<text x="603" y="102" fill="#7DD3FC" font-size="14" opacity="0.64" text-anchor="middle">?</text>
+<text x="603" y="117" fill="#7DD3FC" font-size="14" opacity="0.73" text-anchor="middle">:</text>
+<text x="603" y="132" fill="#7DD3FC" font-size="14" opacity="0.82" text-anchor="middle">/</text>
+<text x="603" y="147" fill="#E0F2FE" font-size="14" opacity="0.91" text-anchor="middle">%</text>
 </g>
 <g><animateTransform attributeName="transform" type="translate" from="0 -105" to="0 290" dur="4.64s" begin="-4.05s" repeatCount="indefinite"/>
-<text x="621" y="12" fill="#34D399" font-size="14" opacity="0.10" text-anchor="middle">:</text>
-<text x="621" y="27" fill="#34D399" font-size="14" opacity="0.19" text-anchor="middle">1</text>
-<text x="621" y="42" fill="#34D399" font-size="14" opacity="0.28" text-anchor="middle">)</text>
-<text x="621" y="57" fill="#34D399" font-size="14" opacity="0.37" text-anchor="middle">?</text>
-<text x="621" y="72" fill="#34D399" font-size="14" opacity="0.46" text-anchor="middle">+</text>
-<text x="621" y="87" fill="#34D399" font-size="14" opacity="0.55" text-anchor="middle">~</text>
-<text x="621" y="102" fill="#34D399" font-size="14" opacity="0.64" text-anchor="middle">(</text>
-<text x="621" y="117" fill="#34D399" font-size="14" opacity="0.73" text-anchor="middle">%</text>
-<text x="621" y="132" fill="#34D399" font-size="14" opacity="0.82" text-anchor="middle">(</text>
-<text x="621" y="147" fill="#ECFDF5" font-size="14" opacity="0.91" text-anchor="middle">!</text>
+<text x="621" y="12" fill="#38BDF8" font-size="14" opacity="0.10" text-anchor="middle">:</text>
+<text x="621" y="27" fill="#38BDF8" font-size="14" opacity="0.19" text-anchor="middle">1</text>
+<text x="621" y="42" fill="#38BDF8" font-size="14" opacity="0.28" text-anchor="middle">)</text>
+<text x="621" y="57" fill="#38BDF8" font-size="14" opacity="0.37" text-anchor="middle">?</text>
+<text x="621" y="72" fill="#38BDF8" font-size="14" opacity="0.46" text-anchor="middle">+</text>
+<text x="621" y="87" fill="#38BDF8" font-size="14" opacity="0.55" text-anchor="middle">~</text>
+<text x="621" y="102" fill="#38BDF8" font-size="14" opacity="0.64" text-anchor="middle">(</text>
+<text x="621" y="117" fill="#38BDF8" font-size="14" opacity="0.73" text-anchor="middle">%</text>
+<text x="621" y="132" fill="#38BDF8" font-size="14" opacity="0.82" text-anchor="middle">(</text>
+<text x="621" y="147" fill="#E0F2FE" font-size="14" opacity="0.91" text-anchor="middle">!</text>
 </g>
 <g><animateTransform attributeName="transform" type="translate" from="0 -180" to="0 290" dur="5.93s" begin="-4.08s" repeatCount="indefinite"/>
-<text x="639" y="12" fill="#34D399" font-size="14" opacity="0.10" text-anchor="middle">#</text>
-<text x="639" y="27" fill="#34D399" font-size="14" opacity="0.19" text-anchor="middle">%</text>
-<text x="639" y="42" fill="#34D399" font-size="14" opacity="0.28" text-anchor="middle">$</text>
-<text x="639" y="57" fill="#34D399" font-size="14" opacity="0.37" text-anchor="middle">^</text>
-<text x="639" y="72" fill="#34D399" font-size="14" opacity="0.46" text-anchor="middle">{</text>
-<text x="639" y="87" fill="#34D399" font-size="14" opacity="0.55" text-anchor="middle">&gt;</text>
-<text x="639" y="102" fill="#34D399" font-size="14" opacity="0.64" text-anchor="middle">#</text>
-<text x="639" y="117" fill="#34D399" font-size="14" opacity="0.73" text-anchor="middle">!</text>
-<text x="639" y="132" fill="#34D399" font-size="14" opacity="0.82" text-anchor="middle">?</text>
-<text x="639" y="147" fill="#ECFDF5" font-size="14" opacity="0.91" text-anchor="middle">=</text>
+<text x="639" y="12" fill="#38BDF8" font-size="14" opacity="0.10" text-anchor="middle">#</text>
+<text x="639" y="27" fill="#38BDF8" font-size="14" opacity="0.19" text-anchor="middle">%</text>
+<text x="639" y="42" fill="#38BDF8" font-size="14" opacity="0.28" text-anchor="middle">$</text>
+<text x="639" y="57" fill="#38BDF8" font-size="14" opacity="0.37" text-anchor="middle">^</text>
+<text x="639" y="72" fill="#38BDF8" font-size="14" opacity="0.46" text-anchor="middle">{</text>
+<text x="639" y="87" fill="#38BDF8" font-size="14" opacity="0.55" text-anchor="middle">&gt;</text>
+<text x="639" y="102" fill="#38BDF8" font-size="14" opacity="0.64" text-anchor="middle">#</text>
+<text x="639" y="117" fill="#38BDF8" font-size="14" opacity="0.73" text-anchor="middle">!</text>
+<text x="639" y="132" fill="#38BDF8" font-size="14" opacity="0.82" text-anchor="middle">?</text>
+<text x="639" y="147" fill="#E0F2FE" font-size="14" opacity="0.91" text-anchor="middle">=</text>
 </g>
 <g><animateTransform attributeName="transform" type="translate" from="0 -180" to="0 290" dur="6.11s" begin="-1.17s" repeatCount="indefinite"/>
-<text x="657" y="12" fill="#34D399" font-size="14" opacity="0.10" text-anchor="middle">!</text>
-<text x="657" y="27" fill="#34D399" font-size="14" opacity="0.19" text-anchor="middle">?</text>
-<text x="657" y="42" fill="#34D399" font-size="14" opacity="0.28" text-anchor="middle">/</text>
-<text x="657" y="57" fill="#34D399" font-size="14" opacity="0.37" text-anchor="middle">=</text>
-<text x="657" y="72" fill="#34D399" font-size="14" opacity="0.46" text-anchor="middle">~</text>
-<text x="657" y="87" fill="#34D399" font-size="14" opacity="0.55" text-anchor="middle">;</text>
-<text x="657" y="102" fill="#34D399" font-size="14" opacity="0.64" text-anchor="middle">&amp;</text>
-<text x="657" y="117" fill="#34D399" font-size="14" opacity="0.73" text-anchor="middle">&lt;</text>
-<text x="657" y="132" fill="#34D399" font-size="14" opacity="0.82" text-anchor="middle">=</text>
-<text x="657" y="147" fill="#ECFDF5" font-size="14" opacity="0.91" text-anchor="middle">(</text>
+<text x="657" y="12" fill="#38BDF8" font-size="14" opacity="0.10" text-anchor="middle">!</text>
+<text x="657" y="27" fill="#38BDF8" font-size="14" opacity="0.19" text-anchor="middle">?</text>
+<text x="657" y="42" fill="#38BDF8" font-size="14" opacity="0.28" text-anchor="middle">/</text>
+<text x="657" y="57" fill="#38BDF8" font-size="14" opacity="0.37" text-anchor="middle">=</text>
+<text x="657" y="72" fill="#38BDF8" font-size="14" opacity="0.46" text-anchor="middle">~</text>
+<text x="657" y="87" fill="#38BDF8" font-size="14" opacity="0.55" text-anchor="middle">;</text>
+<text x="657" y="102" fill="#38BDF8" font-size="14" opacity="0.64" text-anchor="middle">&amp;</text>
+<text x="657" y="117" fill="#38BDF8" font-size="14" opacity="0.73" text-anchor="middle">&lt;</text>
+<text x="657" y="132" fill="#38BDF8" font-size="14" opacity="0.82" text-anchor="middle">=</text>
+<text x="657" y="147" fill="#E0F2FE" font-size="14" opacity="0.91" text-anchor="middle">(</text>
 </g>
 <g><animateTransform attributeName="transform" type="translate" from="0 -165" to="0 290" dur="5.95s" begin="-3.50s" repeatCount="indefinite"/>
-<text x="675" y="12" fill="#34D399" font-size="14" opacity="0.10" text-anchor="middle">&lt;</text>
-<text x="675" y="27" fill="#34D399" font-size="14" opacity="0.19" text-anchor="middle">:</text>
-<text x="675" y="42" fill="#34D399" font-size="14" opacity="0.28" text-anchor="middle">?</text>
-<text x="675" y="57" fill="#34D399" font-size="14" opacity="0.37" text-anchor="middle">}</text>
-<text x="675" y="72" fill="#34D399" font-size="14" opacity="0.46" text-anchor="middle">!</text>
-<text x="675" y="87" fill="#34D399" font-size="14" opacity="0.55" text-anchor="middle">0</text>
-<text x="675" y="102" fill="#34D399" font-size="14" opacity="0.64" text-anchor="middle">&amp;</text>
-<text x="675" y="117" fill="#34D399" font-size="14" opacity="0.73" text-anchor="middle">;</text>
-<text x="675" y="132" fill="#34D399" font-size="14" opacity="0.82" text-anchor="middle">0</text>
-<text x="675" y="147" fill="#ECFDF5" font-size="14" opacity="0.91" text-anchor="middle">?</text>
+<text x="675" y="12" fill="#38BDF8" font-size="14" opacity="0.10" text-anchor="middle">&lt;</text>
+<text x="675" y="27" fill="#38BDF8" font-size="14" opacity="0.19" text-anchor="middle">:</text>
+<text x="675" y="42" fill="#38BDF8" font-size="14" opacity="0.28" text-anchor="middle">?</text>
+<text x="675" y="57" fill="#38BDF8" font-size="14" opacity="0.37" text-anchor="middle">}</text>
+<text x="675" y="72" fill="#38BDF8" font-size="14" opacity="0.46" text-anchor="middle">!</text>
+<text x="675" y="87" fill="#38BDF8" font-size="14" opacity="0.55" text-anchor="middle">0</text>
+<text x="675" y="102" fill="#38BDF8" font-size="14" opacity="0.64" text-anchor="middle">&amp;</text>
+<text x="675" y="117" fill="#38BDF8" font-size="14" opacity="0.73" text-anchor="middle">;</text>
+<text x="675" y="132" fill="#38BDF8" font-size="14" opacity="0.82" text-anchor="middle">0</text>
+<text x="675" y="147" fill="#E0F2FE" font-size="14" opacity="0.91" text-anchor="middle">?</text>
 </g>
 <g><animateTransform attributeName="transform" type="translate" from="0 -105" to="0 290" dur="5.92s" begin="-2.49s" repeatCount="indefinite"/>
-<text x="693" y="12" fill="#34D399" font-size="14" opacity="0.10" text-anchor="middle">$</text>
-<text x="693" y="27" fill="#34D399" font-size="14" opacity="0.19" text-anchor="middle">}</text>
-<text x="693" y="42" fill="#34D399" font-size="14" opacity="0.28" text-anchor="middle">%</text>
-<text x="693" y="57" fill="#34D399" font-size="14" opacity="0.37" text-anchor="middle">{</text>
-<text x="693" y="72" fill="#34D399" font-size="14" opacity="0.46" text-anchor="middle">^</text>
-<text x="693" y="87" fill="#34D399" font-size="14" opacity="0.55" text-anchor="middle">)</text>
-<text x="693" y="102" fill="#34D399" font-size="14" opacity="0.64" text-anchor="middle">{</text>
-<text x="693" y="117" fill="#34D399" font-size="14" opacity="0.73" text-anchor="middle">?</text>
-<text x="693" y="132" fill="#34D399" font-size="14" opacity="0.82" text-anchor="middle">#</text>
-<text x="693" y="147" fill="#ECFDF5" font-size="14" opacity="0.91" text-anchor="middle">:</text>
+<text x="693" y="12" fill="#38BDF8" font-size="14" opacity="0.10" text-anchor="middle">$</text>
+<text x="693" y="27" fill="#38BDF8" font-size="14" opacity="0.19" text-anchor="middle">}</text>
+<text x="693" y="42" fill="#38BDF8" font-size="14" opacity="0.28" text-anchor="middle">%</text>
+<text x="693" y="57" fill="#38BDF8" font-size="14" opacity="0.37" text-anchor="middle">{</text>
+<text x="693" y="72" fill="#38BDF8" font-size="14" opacity="0.46" text-anchor="middle">^</text>
+<text x="693" y="87" fill="#38BDF8" font-size="14" opacity="0.55" text-anchor="middle">)</text>
+<text x="693" y="102" fill="#38BDF8" font-size="14" opacity="0.64" text-anchor="middle">{</text>
+<text x="693" y="117" fill="#38BDF8" font-size="14" opacity="0.73" text-anchor="middle">?</text>
+<text x="693" y="132" fill="#38BDF8" font-size="14" opacity="0.82" text-anchor="middle">#</text>
+<text x="693" y="147" fill="#E0F2FE" font-size="14" opacity="0.91" text-anchor="middle">:</text>
 </g>
 <g><animateTransform attributeName="transform" type="translate" from="0 -150" to="0 290" dur="4.86s" begin="-2.40s" repeatCount="indefinite"/>
-<text x="711" y="12" fill="#FBBF24" font-size="14" opacity="0.10" text-anchor="middle">(</text>
-<text x="711" y="27" fill="#FBBF24" font-size="14" opacity="0.19" text-anchor="middle">+</text>
-<text x="711" y="42" fill="#FBBF24" font-size="14" opacity="0.28" text-anchor="middle">:</text>
-<text x="711" y="57" fill="#FBBF24" font-size="14" opacity="0.37" text-anchor="middle">%</text>
-<text x="711" y="72" fill="#FBBF24" font-size="14" opacity="0.46" text-anchor="middle">!</text>
-<text x="711" y="87" fill="#FBBF24" font-size="14" opacity="0.55" text-anchor="middle">+</text>
-<text x="711" y="102" fill="#FBBF24" font-size="14" opacity="0.64" text-anchor="middle">}</text>
-<text x="711" y="117" fill="#FBBF24" font-size="14" opacity="0.73" text-anchor="middle">&lt;</text>
-<text x="711" y="132" fill="#FBBF24" font-size="14" opacity="0.82" text-anchor="middle">:</text>
-<text x="711" y="147" fill="#ECFDF5" font-size="14" opacity="0.91" text-anchor="middle">&amp;</text>
+<text x="711" y="12" fill="#7DD3FC" font-size="14" opacity="0.10" text-anchor="middle">(</text>
+<text x="711" y="27" fill="#7DD3FC" font-size="14" opacity="0.19" text-anchor="middle">+</text>
+<text x="711" y="42" fill="#7DD3FC" font-size="14" opacity="0.28" text-anchor="middle">:</text>
+<text x="711" y="57" fill="#7DD3FC" font-size="14" opacity="0.37" text-anchor="middle">%</text>
+<text x="711" y="72" fill="#7DD3FC" font-size="14" opacity="0.46" text-anchor="middle">!</text>
+<text x="711" y="87" fill="#7DD3FC" font-size="14" opacity="0.55" text-anchor="middle">+</text>
+<text x="711" y="102" fill="#7DD3FC" font-size="14" opacity="0.64" text-anchor="middle">}</text>
+<text x="711" y="117" fill="#7DD3FC" font-size="14" opacity="0.73" text-anchor="middle">&lt;</text>
+<text x="711" y="132" fill="#7DD3FC" font-size="14" opacity="0.82" text-anchor="middle">:</text>
+<text x="711" y="147" fill="#E0F2FE" font-size="14" opacity="0.91" text-anchor="middle">&amp;</text>
 </g>
 <g><animateTransform attributeName="transform" type="translate" from="0 -105" to="0 290" dur="7.68s" begin="-1.17s" repeatCount="indefinite"/>
-<text x="729" y="12" fill="#34D399" font-size="14" opacity="0.10" text-anchor="middle">0</text>
-<text x="729" y="27" fill="#34D399" font-size="14" opacity="0.19" text-anchor="middle">1</text>
-<text x="729" y="42" fill="#34D399" font-size="14" opacity="0.28" text-anchor="middle">&lt;</text>
-<text x="729" y="57" fill="#34D399" font-size="14" opacity="0.37" text-anchor="middle">(</text>
-<text x="729" y="72" fill="#34D399" font-size="14" opacity="0.46" text-anchor="middle">&gt;</text>
-<text x="729" y="87" fill="#34D399" font-size="14" opacity="0.55" text-anchor="middle">0</text>
-<text x="729" y="102" fill="#34D399" font-size="14" opacity="0.64" text-anchor="middle">~</text>
-<text x="729" y="117" fill="#34D399" font-size="14" opacity="0.73" text-anchor="middle">=</text>
-<text x="729" y="132" fill="#34D399" font-size="14" opacity="0.82" text-anchor="middle">+</text>
-<text x="729" y="147" fill="#ECFDF5" font-size="14" opacity="0.91" text-anchor="middle">*</text>
+<text x="729" y="12" fill="#38BDF8" font-size="14" opacity="0.10" text-anchor="middle">0</text>
+<text x="729" y="27" fill="#38BDF8" font-size="14" opacity="0.19" text-anchor="middle">1</text>
+<text x="729" y="42" fill="#38BDF8" font-size="14" opacity="0.28" text-anchor="middle">&lt;</text>
+<text x="729" y="57" fill="#38BDF8" font-size="14" opacity="0.37" text-anchor="middle">(</text>
+<text x="729" y="72" fill="#38BDF8" font-size="14" opacity="0.46" text-anchor="middle">&gt;</text>
+<text x="729" y="87" fill="#38BDF8" font-size="14" opacity="0.55" text-anchor="middle">0</text>
+<text x="729" y="102" fill="#38BDF8" font-size="14" opacity="0.64" text-anchor="middle">~</text>
+<text x="729" y="117" fill="#38BDF8" font-size="14" opacity="0.73" text-anchor="middle">=</text>
+<text x="729" y="132" fill="#38BDF8" font-size="14" opacity="0.82" text-anchor="middle">+</text>
+<text x="729" y="147" fill="#E0F2FE" font-size="14" opacity="0.91" text-anchor="middle">*</text>
 </g>
 <g><animateTransform attributeName="transform" type="translate" from="0 -120" to="0 290" dur="6.36s" begin="-0.85s" repeatCount="indefinite"/>
-<text x="747" y="12" fill="#34D399" font-size="14" opacity="0.10" text-anchor="middle">$</text>
-<text x="747" y="27" fill="#34D399" font-size="14" opacity="0.19" text-anchor="middle">}</text>
-<text x="747" y="42" fill="#34D399" font-size="14" opacity="0.28" text-anchor="middle">!</text>
-<text x="747" y="57" fill="#34D399" font-size="14" opacity="0.37" text-anchor="middle">&amp;</text>
-<text x="747" y="72" fill="#34D399" font-size="14" opacity="0.46" text-anchor="middle">/</text>
-<text x="747" y="87" fill="#34D399" font-size="14" opacity="0.55" text-anchor="middle">^</text>
-<text x="747" y="102" fill="#34D399" font-size="14" opacity="0.64" text-anchor="middle">&lt;</text>
-<text x="747" y="117" fill="#34D399" font-size="14" opacity="0.73" text-anchor="middle">^</text>
-<text x="747" y="132" fill="#34D399" font-size="14" opacity="0.82" text-anchor="middle">!</text>
-<text x="747" y="147" fill="#ECFDF5" font-size="14" opacity="0.91" text-anchor="middle">:</text>
+<text x="747" y="12" fill="#38BDF8" font-size="14" opacity="0.10" text-anchor="middle">$</text>
+<text x="747" y="27" fill="#38BDF8" font-size="14" opacity="0.19" text-anchor="middle">}</text>
+<text x="747" y="42" fill="#38BDF8" font-size="14" opacity="0.28" text-anchor="middle">!</text>
+<text x="747" y="57" fill="#38BDF8" font-size="14" opacity="0.37" text-anchor="middle">&amp;</text>
+<text x="747" y="72" fill="#38BDF8" font-size="14" opacity="0.46" text-anchor="middle">/</text>
+<text x="747" y="87" fill="#38BDF8" font-size="14" opacity="0.55" text-anchor="middle">^</text>
+<text x="747" y="102" fill="#38BDF8" font-size="14" opacity="0.64" text-anchor="middle">&lt;</text>
+<text x="747" y="117" fill="#38BDF8" font-size="14" opacity="0.73" text-anchor="middle">^</text>
+<text x="747" y="132" fill="#38BDF8" font-size="14" opacity="0.82" text-anchor="middle">!</text>
+<text x="747" y="147" fill="#E0F2FE" font-size="14" opacity="0.91" text-anchor="middle">:</text>
 </g>
 <g><animateTransform attributeName="transform" type="translate" from="0 -105" to="0 290" dur="5.32s" begin="-2.31s" repeatCount="indefinite"/>
-<text x="765" y="12" fill="#34D399" font-size="14" opacity="0.10" text-anchor="middle">!</text>
-<text x="765" y="27" fill="#34D399" font-size="14" opacity="0.19" text-anchor="middle">&amp;</text>
-<text x="765" y="42" fill="#34D399" font-size="14" opacity="0.28" text-anchor="middle">)</text>
-<text x="765" y="57" fill="#34D399" font-size="14" opacity="0.37" text-anchor="middle">?</text>
-<text x="765" y="72" fill="#34D399" font-size="14" opacity="0.46" text-anchor="middle">&lt;</text>
-<text x="765" y="87" fill="#34D399" font-size="14" opacity="0.55" text-anchor="middle">|</text>
-<text x="765" y="102" fill="#34D399" font-size="14" opacity="0.64" text-anchor="middle">?</text>
-<text x="765" y="117" fill="#34D399" font-size="14" opacity="0.73" text-anchor="middle">|</text>
-<text x="765" y="132" fill="#34D399" font-size="14" opacity="0.82" text-anchor="middle">&lt;</text>
-<text x="765" y="147" fill="#ECFDF5" font-size="14" opacity="0.91" text-anchor="middle">!</text>
+<text x="765" y="12" fill="#38BDF8" font-size="14" opacity="0.10" text-anchor="middle">!</text>
+<text x="765" y="27" fill="#38BDF8" font-size="14" opacity="0.19" text-anchor="middle">&amp;</text>
+<text x="765" y="42" fill="#38BDF8" font-size="14" opacity="0.28" text-anchor="middle">)</text>
+<text x="765" y="57" fill="#38BDF8" font-size="14" opacity="0.37" text-anchor="middle">?</text>
+<text x="765" y="72" fill="#38BDF8" font-size="14" opacity="0.46" text-anchor="middle">&lt;</text>
+<text x="765" y="87" fill="#38BDF8" font-size="14" opacity="0.55" text-anchor="middle">|</text>
+<text x="765" y="102" fill="#38BDF8" font-size="14" opacity="0.64" text-anchor="middle">?</text>
+<text x="765" y="117" fill="#38BDF8" font-size="14" opacity="0.73" text-anchor="middle">|</text>
+<text x="765" y="132" fill="#38BDF8" font-size="14" opacity="0.82" text-anchor="middle">&lt;</text>
+<text x="765" y="147" fill="#E0F2FE" font-size="14" opacity="0.91" text-anchor="middle">!</text>
 </g>
 <g><animateTransform attributeName="transform" type="translate" from="0 -120" to="0 290" dur="7.36s" begin="-4.58s" repeatCount="indefinite"/>
-<text x="783" y="12" fill="#34D399" font-size="14" opacity="0.10" text-anchor="middle">(</text>
-<text x="783" y="27" fill="#34D399" font-size="14" opacity="0.19" text-anchor="middle">&gt;</text>
-<text x="783" y="42" fill="#34D399" font-size="14" opacity="0.28" text-anchor="middle">|</text>
-<text x="783" y="57" fill="#34D399" font-size="14" opacity="0.37" text-anchor="middle">*</text>
-<text x="783" y="72" fill="#34D399" font-size="14" opacity="0.46" text-anchor="middle">)</text>
-<text x="783" y="87" fill="#34D399" font-size="14" opacity="0.55" text-anchor="middle">+</text>
-<text x="783" y="102" fill="#34D399" font-size="14" opacity="0.64" text-anchor="middle">&amp;</text>
-<text x="783" y="117" fill="#34D399" font-size="14" opacity="0.73" text-anchor="middle">+</text>
-<text x="783" y="132" fill="#34D399" font-size="14" opacity="0.82" text-anchor="middle">&lt;</text>
-<text x="783" y="147" fill="#ECFDF5" font-size="14" opacity="0.91" text-anchor="middle">&lt;</text>
+<text x="783" y="12" fill="#38BDF8" font-size="14" opacity="0.10" text-anchor="middle">(</text>
+<text x="783" y="27" fill="#38BDF8" font-size="14" opacity="0.19" text-anchor="middle">&gt;</text>
+<text x="783" y="42" fill="#38BDF8" font-size="14" opacity="0.28" text-anchor="middle">|</text>
+<text x="783" y="57" fill="#38BDF8" font-size="14" opacity="0.37" text-anchor="middle">*</text>
+<text x="783" y="72" fill="#38BDF8" font-size="14" opacity="0.46" text-anchor="middle">)</text>
+<text x="783" y="87" fill="#38BDF8" font-size="14" opacity="0.55" text-anchor="middle">+</text>
+<text x="783" y="102" fill="#38BDF8" font-size="14" opacity="0.64" text-anchor="middle">&amp;</text>
+<text x="783" y="117" fill="#38BDF8" font-size="14" opacity="0.73" text-anchor="middle">+</text>
+<text x="783" y="132" fill="#38BDF8" font-size="14" opacity="0.82" text-anchor="middle">&lt;</text>
+<text x="783" y="147" fill="#E0F2FE" font-size="14" opacity="0.91" text-anchor="middle">&lt;</text>
 </g>
 <g><animateTransform attributeName="transform" type="translate" from="0 -120" to="0 290" dur="7.52s" begin="-1.18s" repeatCount="indefinite"/>
-<text x="801" y="12" fill="#34D399" font-size="14" opacity="0.10" text-anchor="middle">&gt;</text>
-<text x="801" y="27" fill="#34D399" font-size="14" opacity="0.19" text-anchor="middle">(</text>
-<text x="801" y="42" fill="#34D399" font-size="14" opacity="0.28" text-anchor="middle">{</text>
-<text x="801" y="57" fill="#34D399" font-size="14" opacity="0.37" text-anchor="middle">/</text>
-<text x="801" y="72" fill="#34D399" font-size="14" opacity="0.46" text-anchor="middle">;</text>
-<text x="801" y="87" fill="#34D399" font-size="14" opacity="0.55" text-anchor="middle">}</text>
-<text x="801" y="102" fill="#34D399" font-size="14" opacity="0.64" text-anchor="middle">:</text>
-<text x="801" y="117" fill="#34D399" font-size="14" opacity="0.73" text-anchor="middle">:</text>
-<text x="801" y="132" fill="#34D399" font-size="14" opacity="0.82" text-anchor="middle">?</text>
-<text x="801" y="147" fill="#ECFDF5" font-size="14" opacity="0.91" text-anchor="middle">^</text>
+<text x="801" y="12" fill="#38BDF8" font-size="14" opacity="0.10" text-anchor="middle">&gt;</text>
+<text x="801" y="27" fill="#38BDF8" font-size="14" opacity="0.19" text-anchor="middle">(</text>
+<text x="801" y="42" fill="#38BDF8" font-size="14" opacity="0.28" text-anchor="middle">{</text>
+<text x="801" y="57" fill="#38BDF8" font-size="14" opacity="0.37" text-anchor="middle">/</text>
+<text x="801" y="72" fill="#38BDF8" font-size="14" opacity="0.46" text-anchor="middle">;</text>
+<text x="801" y="87" fill="#38BDF8" font-size="14" opacity="0.55" text-anchor="middle">}</text>
+<text x="801" y="102" fill="#38BDF8" font-size="14" opacity="0.64" text-anchor="middle">:</text>
+<text x="801" y="117" fill="#38BDF8" font-size="14" opacity="0.73" text-anchor="middle">:</text>
+<text x="801" y="132" fill="#38BDF8" font-size="14" opacity="0.82" text-anchor="middle">?</text>
+<text x="801" y="147" fill="#E0F2FE" font-size="14" opacity="0.91" text-anchor="middle">^</text>
 </g>
 <g><animateTransform attributeName="transform" type="translate" from="0 -120" to="0 290" dur="4.56s" begin="-2.94s" repeatCount="indefinite"/>
-<text x="819" y="12" fill="#FBBF24" font-size="14" opacity="0.10" text-anchor="middle">0</text>
-<text x="819" y="27" fill="#FBBF24" font-size="14" opacity="0.19" text-anchor="middle">}</text>
-<text x="819" y="42" fill="#FBBF24" font-size="14" opacity="0.28" text-anchor="middle">&lt;</text>
-<text x="819" y="57" fill="#FBBF24" font-size="14" opacity="0.37" text-anchor="middle">$</text>
-<text x="819" y="72" fill="#FBBF24" font-size="14" opacity="0.46" text-anchor="middle">~</text>
-<text x="819" y="87" fill="#FBBF24" font-size="14" opacity="0.55" text-anchor="middle">*</text>
-<text x="819" y="102" fill="#FBBF24" font-size="14" opacity="0.64" text-anchor="middle">*</text>
-<text x="819" y="117" fill="#FBBF24" font-size="14" opacity="0.73" text-anchor="middle">}</text>
-<text x="819" y="132" fill="#FBBF24" font-size="14" opacity="0.82" text-anchor="middle">^</text>
-<text x="819" y="147" fill="#ECFDF5" font-size="14" opacity="0.91" text-anchor="middle">!</text>
+<text x="819" y="12" fill="#7DD3FC" font-size="14" opacity="0.10" text-anchor="middle">0</text>
+<text x="819" y="27" fill="#7DD3FC" font-size="14" opacity="0.19" text-anchor="middle">}</text>
+<text x="819" y="42" fill="#7DD3FC" font-size="14" opacity="0.28" text-anchor="middle">&lt;</text>
+<text x="819" y="57" fill="#7DD3FC" font-size="14" opacity="0.37" text-anchor="middle">$</text>
+<text x="819" y="72" fill="#7DD3FC" font-size="14" opacity="0.46" text-anchor="middle">~</text>
+<text x="819" y="87" fill="#7DD3FC" font-size="14" opacity="0.55" text-anchor="middle">*</text>
+<text x="819" y="102" fill="#7DD3FC" font-size="14" opacity="0.64" text-anchor="middle">*</text>
+<text x="819" y="117" fill="#7DD3FC" font-size="14" opacity="0.73" text-anchor="middle">}</text>
+<text x="819" y="132" fill="#7DD3FC" font-size="14" opacity="0.82" text-anchor="middle">^</text>
+<text x="819" y="147" fill="#E0F2FE" font-size="14" opacity="0.91" text-anchor="middle">!</text>
 </g>
 <g><animateTransform attributeName="transform" type="translate" from="0 -180" to="0 290" dur="6.96s" begin="-3.60s" repeatCount="indefinite"/>
-<text x="837" y="12" fill="#34D399" font-size="14" opacity="0.10" text-anchor="middle">~</text>
-<text x="837" y="27" fill="#34D399" font-size="14" opacity="0.19" text-anchor="middle">&lt;</text>
-<text x="837" y="42" fill="#34D399" font-size="14" opacity="0.28" text-anchor="middle">{</text>
-<text x="837" y="57" fill="#34D399" font-size="14" opacity="0.37" text-anchor="middle">%</text>
-<text x="837" y="72" fill="#34D399" font-size="14" opacity="0.46" text-anchor="middle">}</text>
-<text x="837" y="87" fill="#34D399" font-size="14" opacity="0.55" text-anchor="middle">0</text>
-<text x="837" y="102" fill="#34D399" font-size="14" opacity="0.64" text-anchor="middle">1</text>
-<text x="837" y="117" fill="#34D399" font-size="14" opacity="0.73" text-anchor="middle">?</text>
-<text x="837" y="132" fill="#34D399" font-size="14" opacity="0.82" text-anchor="middle">&amp;</text>
-<text x="837" y="147" fill="#ECFDF5" font-size="14" opacity="0.91" text-anchor="middle">!</text>
+<text x="837" y="12" fill="#38BDF8" font-size="14" opacity="0.10" text-anchor="middle">~</text>
+<text x="837" y="27" fill="#38BDF8" font-size="14" opacity="0.19" text-anchor="middle">&lt;</text>
+<text x="837" y="42" fill="#38BDF8" font-size="14" opacity="0.28" text-anchor="middle">{</text>
+<text x="837" y="57" fill="#38BDF8" font-size="14" opacity="0.37" text-anchor="middle">%</text>
+<text x="837" y="72" fill="#38BDF8" font-size="14" opacity="0.46" text-anchor="middle">}</text>
+<text x="837" y="87" fill="#38BDF8" font-size="14" opacity="0.55" text-anchor="middle">0</text>
+<text x="837" y="102" fill="#38BDF8" font-size="14" opacity="0.64" text-anchor="middle">1</text>
+<text x="837" y="117" fill="#38BDF8" font-size="14" opacity="0.73" text-anchor="middle">?</text>
+<text x="837" y="132" fill="#38BDF8" font-size="14" opacity="0.82" text-anchor="middle">&amp;</text>
+<text x="837" y="147" fill="#E0F2FE" font-size="14" opacity="0.91" text-anchor="middle">!</text>
 </g>
 <g><animateTransform attributeName="transform" type="translate" from="0 -165" to="0 290" dur="5.77s" begin="-1.26s" repeatCount="indefinite"/>
-<text x="855" y="12" fill="#34D399" font-size="14" opacity="0.10" text-anchor="middle">}</text>
-<text x="855" y="27" fill="#34D399" font-size="14" opacity="0.19" text-anchor="middle">&lt;</text>
-<text x="855" y="42" fill="#34D399" font-size="14" opacity="0.28" text-anchor="middle">)</text>
-<text x="855" y="57" fill="#34D399" font-size="14" opacity="0.37" text-anchor="middle">)</text>
-<text x="855" y="72" fill="#34D399" font-size="14" opacity="0.46" text-anchor="middle">=</text>
-<text x="855" y="87" fill="#34D399" font-size="14" opacity="0.55" text-anchor="middle">~</text>
-<text x="855" y="102" fill="#34D399" font-size="14" opacity="0.64" text-anchor="middle">}</text>
-<text x="855" y="117" fill="#34D399" font-size="14" opacity="0.73" text-anchor="middle">$</text>
-<text x="855" y="132" fill="#34D399" font-size="14" opacity="0.82" text-anchor="middle">1</text>
-<text x="855" y="147" fill="#ECFDF5" font-size="14" opacity="0.91" text-anchor="middle">(</text>
+<text x="855" y="12" fill="#38BDF8" font-size="14" opacity="0.10" text-anchor="middle">}</text>
+<text x="855" y="27" fill="#38BDF8" font-size="14" opacity="0.19" text-anchor="middle">&lt;</text>
+<text x="855" y="42" fill="#38BDF8" font-size="14" opacity="0.28" text-anchor="middle">)</text>
+<text x="855" y="57" fill="#38BDF8" font-size="14" opacity="0.37" text-anchor="middle">)</text>
+<text x="855" y="72" fill="#38BDF8" font-size="14" opacity="0.46" text-anchor="middle">=</text>
+<text x="855" y="87" fill="#38BDF8" font-size="14" opacity="0.55" text-anchor="middle">~</text>
+<text x="855" y="102" fill="#38BDF8" font-size="14" opacity="0.64" text-anchor="middle">}</text>
+<text x="855" y="117" fill="#38BDF8" font-size="14" opacity="0.73" text-anchor="middle">$</text>
+<text x="855" y="132" fill="#38BDF8" font-size="14" opacity="0.82" text-anchor="middle">1</text>
+<text x="855" y="147" fill="#E0F2FE" font-size="14" opacity="0.91" text-anchor="middle">(</text>
 </g>
 <g><animateTransform attributeName="transform" type="translate" from="0 -180" to="0 290" dur="5.69s" begin="-4.40s" repeatCount="indefinite"/>
-<text x="873" y="12" fill="#34D399" font-size="14" opacity="0.10" text-anchor="middle">+</text>
-<text x="873" y="27" fill="#34D399" font-size="14" opacity="0.19" text-anchor="middle">;</text>
-<text x="873" y="42" fill="#34D399" font-size="14" opacity="0.28" text-anchor="middle">#</text>
-<text x="873" y="57" fill="#34D399" font-size="14" opacity="0.37" text-anchor="middle">:</text>
-<text x="873" y="72" fill="#34D399" font-size="14" opacity="0.46" text-anchor="middle">!</text>
-<text x="873" y="87" fill="#34D399" font-size="14" opacity="0.55" text-anchor="middle">*</text>
-<text x="873" y="102" fill="#34D399" font-size="14" opacity="0.64" text-anchor="middle">:</text>
-<text x="873" y="117" fill="#34D399" font-size="14" opacity="0.73" text-anchor="middle">&lt;</text>
-<text x="873" y="132" fill="#34D399" font-size="14" opacity="0.82" text-anchor="middle">&amp;</text>
-<text x="873" y="147" fill="#ECFDF5" font-size="14" opacity="0.91" text-anchor="middle">*</text>
+<text x="873" y="12" fill="#38BDF8" font-size="14" opacity="0.10" text-anchor="middle">+</text>
+<text x="873" y="27" fill="#38BDF8" font-size="14" opacity="0.19" text-anchor="middle">;</text>
+<text x="873" y="42" fill="#38BDF8" font-size="14" opacity="0.28" text-anchor="middle">#</text>
+<text x="873" y="57" fill="#38BDF8" font-size="14" opacity="0.37" text-anchor="middle">:</text>
+<text x="873" y="72" fill="#38BDF8" font-size="14" opacity="0.46" text-anchor="middle">!</text>
+<text x="873" y="87" fill="#38BDF8" font-size="14" opacity="0.55" text-anchor="middle">*</text>
+<text x="873" y="102" fill="#38BDF8" font-size="14" opacity="0.64" text-anchor="middle">:</text>
+<text x="873" y="117" fill="#38BDF8" font-size="14" opacity="0.73" text-anchor="middle">&lt;</text>
+<text x="873" y="132" fill="#38BDF8" font-size="14" opacity="0.82" text-anchor="middle">&amp;</text>
+<text x="873" y="147" fill="#E0F2FE" font-size="14" opacity="0.91" text-anchor="middle">*</text>
 </g>
 <g><animateTransform attributeName="transform" type="translate" from="0 -105" to="0 290" dur="6.43s" begin="-0.45s" repeatCount="indefinite"/>
-<text x="891" y="12" fill="#34D399" font-size="14" opacity="0.10" text-anchor="middle">&lt;</text>
-<text x="891" y="27" fill="#34D399" font-size="14" opacity="0.19" text-anchor="middle">)</text>
-<text x="891" y="42" fill="#34D399" font-size="14" opacity="0.28" text-anchor="middle">:</text>
-<text x="891" y="57" fill="#34D399" font-size="14" opacity="0.37" text-anchor="middle">#</text>
-<text x="891" y="72" fill="#34D399" font-size="14" opacity="0.46" text-anchor="middle">*</text>
-<text x="891" y="87" fill="#34D399" font-size="14" opacity="0.55" text-anchor="middle">*</text>
-<text x="891" y="102" fill="#34D399" font-size="14" opacity="0.64" text-anchor="middle">;</text>
-<text x="891" y="117" fill="#34D399" font-size="14" opacity="0.73" text-anchor="middle">&lt;</text>
-<text x="891" y="132" fill="#34D399" font-size="14" opacity="0.82" text-anchor="middle">&amp;</text>
-<text x="891" y="147" fill="#ECFDF5" font-size="14" opacity="0.91" text-anchor="middle">)</text>
+<text x="891" y="12" fill="#38BDF8" font-size="14" opacity="0.10" text-anchor="middle">&lt;</text>
+<text x="891" y="27" fill="#38BDF8" font-size="14" opacity="0.19" text-anchor="middle">)</text>
+<text x="891" y="42" fill="#38BDF8" font-size="14" opacity="0.28" text-anchor="middle">:</text>
+<text x="891" y="57" fill="#38BDF8" font-size="14" opacity="0.37" text-anchor="middle">#</text>
+<text x="891" y="72" fill="#38BDF8" font-size="14" opacity="0.46" text-anchor="middle">*</text>
+<text x="891" y="87" fill="#38BDF8" font-size="14" opacity="0.55" text-anchor="middle">*</text>
+<text x="891" y="102" fill="#38BDF8" font-size="14" opacity="0.64" text-anchor="middle">;</text>
+<text x="891" y="117" fill="#38BDF8" font-size="14" opacity="0.73" text-anchor="middle">&lt;</text>
+<text x="891" y="132" fill="#38BDF8" font-size="14" opacity="0.82" text-anchor="middle">&amp;</text>
+<text x="891" y="147" fill="#E0F2FE" font-size="14" opacity="0.91" text-anchor="middle">)</text>
 </g>
 <rect width="900" height="280" fill="url(#vg)"/>
-<rect x="0" y="-3" width="900" height="3" fill="#34D399" opacity="0.2"><animate attributeName="y" from="-3" to="280" dur="3.5s" repeatCount="indefinite"/></rect>
-<path d="M10 40 V10 H40 M860 10 H890 V40 M890 240 V270 H860 M40 270 H10 V240" fill="none" stroke="#FBBF24" stroke-width="2" opacity="0.8"/>
+<rect x="0" y="-3" width="900" height="3" fill="#38BDF8" opacity="0.2"><animate attributeName="y" from="-3" to="280" dur="3.5s" repeatCount="indefinite"/></rect>
+<path d="M10 40 V10 H40 M860 10 H890 V40 M890 240 V270 H860 M40 270 H10 V240" fill="none" stroke="#7DD3FC" stroke-width="2" opacity="0.8"/>
 <text x="450" y="118" font-size="68" font-weight="bold" letter-spacing="14" text-anchor="middle" fill="url(#nm)" filter="url(#glow)">LUVIN</text>
-<text x="450" y="152" font-size="14" letter-spacing="2" text-anchor="middle" fill="#C8E6D8">Creative Full-Stack Developer | WebGL | GenAI + DevOps</text>
+<text x="450" y="152" font-size="14" letter-spacing="2" text-anchor="middle" fill="#CFE6F5">Creative Full-Stack Developer | WebGL | GenAI + DevOps</text>
 <clipPath id="c1"><rect x="150.0" y="185.0" width="0" height="30.0"><animate attributeName="width" dur="16.0s" repeatCount="indefinite" calcMode="discrete" keyTimes="0.00000;0.01250;0.01531;0.01813;0.02094;0.02375;0.02656;0.02938;0.03219;0.03500;0.03781;0.04062;0.04344;0.04625;0.04906;0.05188;0.05469;0.05750;0.06031;0.06313;0.06594;0.06875;0.07156;0.07437;0.07719;0.08000;0.08281;0.08562;0.08844;0.09125;0.09406;0.09687;0.09969;0.10250;0.10531;0.10812;0.11094;0.11375;0.11656;0.11937;0.12219;0.12500;0.12781;0.13062;0.13344;0.13625;0.13906;0.14188;0.14469;0.14750;0.15031;0.23125" values="0;12;24;36;48;60;72;84;96;108;120;132;144;156;168;180;192;204;216;228;240;252;264;276;288;300;312;324;336;348;360;372;384;396;408;420;432;444;456;468;480;492;504;516;528;540;552;564;576;588;600;0"/></rect></clipPath>
-<text x="150.0" y="205" font-size="20" font-weight="normal" xml:space="preserve" clip-path="url(#c1)"><tspan fill="#D1FAE5">&gt; Turning design into motion, one shader at a time</tspan></text>
-<g><animate attributeName="opacity" values="1;0;1" keyTimes="0;0.5;1" calcMode="discrete" dur="0.9s" repeatCount="indefinite"/><rect y="188.6" width="10.2" height="20.0" fill="#FBBF24"><animate attributeName="x" dur="16.0s" repeatCount="indefinite" calcMode="discrete" keyTimes="0.00000;0.00625;0.01250;0.01531;0.01813;0.02094;0.02375;0.02656;0.02938;0.03219;0.03500;0.03781;0.04062;0.04344;0.04625;0.04906;0.05188;0.05469;0.05750;0.06031;0.06313;0.06594;0.06875;0.07156;0.07437;0.07719;0.08000;0.08281;0.08562;0.08844;0.09125;0.09406;0.09687;0.09969;0.10250;0.10531;0.10812;0.11094;0.11375;0.11656;0.11937;0.12219;0.12500;0.12781;0.13062;0.13344;0.13625;0.13906;0.14188;0.14469;0.14750;0.15031;0.23125" values="150.00;150.00;162.00;174.00;186.00;198.00;210.00;222.00;234.00;246.00;258.00;270.00;282.00;294.00;306.00;318.00;330.00;342.00;354.00;366.00;378.00;390.00;402.00;414.00;426.00;438.00;450.00;462.00;474.00;486.00;498.00;510.00;522.00;534.00;546.00;558.00;570.00;582.00;594.00;606.00;618.00;630.00;642.00;654.00;666.00;678.00;690.00;702.00;714.00;726.00;738.00;750.00;150.00"/><animate attributeName="opacity" dur="16.0s" repeatCount="indefinite" calcMode="discrete" keyTimes="0.00000;0.00625;0.23125" values="0;1;0"/></rect></g>
+<text x="150.0" y="205" font-size="20" font-weight="normal" xml:space="preserve" clip-path="url(#c1)"><tspan fill="#BAE6FD">&gt; Turning design into motion, one shader at a time</tspan></text>
+<g><animate attributeName="opacity" values="1;0;1" keyTimes="0;0.5;1" calcMode="discrete" dur="0.9s" repeatCount="indefinite"/><rect y="188.6" width="10.2" height="20.0" fill="#7DD3FC"><animate attributeName="x" dur="16.0s" repeatCount="indefinite" calcMode="discrete" keyTimes="0.00000;0.00625;0.01250;0.01531;0.01813;0.02094;0.02375;0.02656;0.02938;0.03219;0.03500;0.03781;0.04062;0.04344;0.04625;0.04906;0.05188;0.05469;0.05750;0.06031;0.06313;0.06594;0.06875;0.07156;0.07437;0.07719;0.08000;0.08281;0.08562;0.08844;0.09125;0.09406;0.09687;0.09969;0.10250;0.10531;0.10812;0.11094;0.11375;0.11656;0.11937;0.12219;0.12500;0.12781;0.13062;0.13344;0.13625;0.13906;0.14188;0.14469;0.14750;0.15031;0.23125" values="150.00;150.00;162.00;174.00;186.00;198.00;210.00;222.00;234.00;246.00;258.00;270.00;282.00;294.00;306.00;318.00;330.00;342.00;354.00;366.00;378.00;390.00;402.00;414.00;426.00;438.00;450.00;462.00;474.00;486.00;498.00;510.00;522.00;534.00;546.00;558.00;570.00;582.00;594.00;606.00;618.00;630.00;642.00;654.00;666.00;678.00;690.00;702.00;714.00;726.00;738.00;750.00;150.00"/><animate attributeName="opacity" dur="16.0s" repeatCount="indefinite" calcMode="discrete" keyTimes="0.00000;0.00625;0.23125" values="0;1;0"/></rect></g>
 <clipPath id="c2"><rect x="144.0" y="185.0" width="0" height="30.0"><animate attributeName="width" dur="16.0s" repeatCount="indefinite" calcMode="discrete" keyTimes="0.00000;0.26250;0.26531;0.26813;0.27094;0.27375;0.27656;0.27938;0.28219;0.28500;0.28781;0.29063;0.29344;0.29625;0.29906;0.30188;0.30469;0.30750;0.31031;0.31312;0.31594;0.31875;0.32156;0.32438;0.32719;0.33000;0.33281;0.33563;0.33844;0.34125;0.34406;0.34687;0.34969;0.35250;0.35531;0.35813;0.36094;0.36375;0.36656;0.36938;0.37219;0.37500;0.37781;0.38062;0.38344;0.38625;0.38906;0.39187;0.39469;0.39750;0.40031;0.40313;0.48125" values="0;12;24;36;48;60;72;84;96;108;120;132;144;156;168;180;192;204;216;228;240;252;264;276;288;300;312;324;336;348;360;372;384;396;408;420;432;444;456;468;480;492;504;516;528;540;552;564;576;588;600;612;0"/></rect></clipPath>
-<text x="144.0" y="205" font-size="20" font-weight="normal" xml:space="preserve" clip-path="url(#c2)"><tspan fill="#D1FAE5">&gt; React Three Fiber | GSAP | LangChain | Kubernetes</tspan></text>
-<g><animate attributeName="opacity" values="1;0;1" keyTimes="0;0.5;1" calcMode="discrete" dur="0.9s" repeatCount="indefinite"/><rect y="188.6" width="10.2" height="20.0" fill="#FBBF24"><animate attributeName="x" dur="16.0s" repeatCount="indefinite" calcMode="discrete" keyTimes="0.00000;0.25625;0.26250;0.26531;0.26813;0.27094;0.27375;0.27656;0.27938;0.28219;0.28500;0.28781;0.29063;0.29344;0.29625;0.29906;0.30188;0.30469;0.30750;0.31031;0.31312;0.31594;0.31875;0.32156;0.32438;0.32719;0.33000;0.33281;0.33563;0.33844;0.34125;0.34406;0.34687;0.34969;0.35250;0.35531;0.35813;0.36094;0.36375;0.36656;0.36938;0.37219;0.37500;0.37781;0.38062;0.38344;0.38625;0.38906;0.39187;0.39469;0.39750;0.40031;0.40313;0.48125" values="144.00;144.00;156.00;168.00;180.00;192.00;204.00;216.00;228.00;240.00;252.00;264.00;276.00;288.00;300.00;312.00;324.00;336.00;348.00;360.00;372.00;384.00;396.00;408.00;420.00;432.00;444.00;456.00;468.00;480.00;492.00;504.00;516.00;528.00;540.00;552.00;564.00;576.00;588.00;600.00;612.00;624.00;636.00;648.00;660.00;672.00;684.00;696.00;708.00;720.00;732.00;744.00;756.00;144.00"/><animate attributeName="opacity" dur="16.0s" repeatCount="indefinite" calcMode="discrete" keyTimes="0.00000;0.25625;0.48125" values="0;1;0"/></rect></g>
+<text x="144.0" y="205" font-size="20" font-weight="normal" xml:space="preserve" clip-path="url(#c2)"><tspan fill="#BAE6FD">&gt; React Three Fiber | GSAP | LangChain | Kubernetes</tspan></text>
+<g><animate attributeName="opacity" values="1;0;1" keyTimes="0;0.5;1" calcMode="discrete" dur="0.9s" repeatCount="indefinite"/><rect y="188.6" width="10.2" height="20.0" fill="#7DD3FC"><animate attributeName="x" dur="16.0s" repeatCount="indefinite" calcMode="discrete" keyTimes="0.00000;0.25625;0.26250;0.26531;0.26813;0.27094;0.27375;0.27656;0.27938;0.28219;0.28500;0.28781;0.29063;0.29344;0.29625;0.29906;0.30188;0.30469;0.30750;0.31031;0.31312;0.31594;0.31875;0.32156;0.32438;0.32719;0.33000;0.33281;0.33563;0.33844;0.34125;0.34406;0.34687;0.34969;0.35250;0.35531;0.35813;0.36094;0.36375;0.36656;0.36938;0.37219;0.37500;0.37781;0.38062;0.38344;0.38625;0.38906;0.39187;0.39469;0.39750;0.40031;0.40313;0.48125" values="144.00;144.00;156.00;168.00;180.00;192.00;204.00;216.00;228.00;240.00;252.00;264.00;276.00;288.00;300.00;312.00;324.00;336.00;348.00;360.00;372.00;384.00;396.00;408.00;420.00;432.00;444.00;456.00;468.00;480.00;492.00;504.00;516.00;528.00;540.00;552.00;564.00;576.00;588.00;600.00;612.00;624.00;636.00;648.00;660.00;672.00;684.00;696.00;708.00;720.00;732.00;744.00;756.00;144.00"/><animate attributeName="opacity" dur="16.0s" repeatCount="indefinite" calcMode="discrete" keyTimes="0.00000;0.25625;0.48125" values="0;1;0"/></rect></g>
 <clipPath id="c3"><rect x="186.0" y="185.0" width="0" height="30.0"><animate attributeName="width" dur="16.0s" repeatCount="indefinite" calcMode="discrete" keyTimes="0.00000;0.51250;0.51531;0.51812;0.52094;0.52375;0.52656;0.52937;0.53219;0.53500;0.53781;0.54062;0.54344;0.54625;0.54906;0.55188;0.55469;0.55750;0.56031;0.56312;0.56594;0.56875;0.57156;0.57437;0.57719;0.58000;0.58281;0.58562;0.58844;0.59125;0.59406;0.59687;0.59969;0.60250;0.60531;0.60812;0.61094;0.61375;0.61656;0.61938;0.62219;0.62500;0.62781;0.63062;0.63344;0.73125" values="0;12;24;36;48;60;72;84;96;108;120;132;144;156;168;180;192;204;216;228;240;252;264;276;288;300;312;324;336;348;360;372;384;396;408;420;432;444;456;468;480;492;504;516;528;0"/></rect></clipPath>
-<text x="186.0" y="205" font-size="20" font-weight="normal" xml:space="preserve" clip-path="url(#c3)"><tspan fill="#D1FAE5">&gt; QuickLive: 1st place, Sheryians Cohort 2.0</tspan></text>
-<g><animate attributeName="opacity" values="1;0;1" keyTimes="0;0.5;1" calcMode="discrete" dur="0.9s" repeatCount="indefinite"/><rect y="188.6" width="10.2" height="20.0" fill="#FBBF24"><animate attributeName="x" dur="16.0s" repeatCount="indefinite" calcMode="discrete" keyTimes="0.00000;0.50625;0.51250;0.51531;0.51812;0.52094;0.52375;0.52656;0.52937;0.53219;0.53500;0.53781;0.54062;0.54344;0.54625;0.54906;0.55188;0.55469;0.55750;0.56031;0.56312;0.56594;0.56875;0.57156;0.57437;0.57719;0.58000;0.58281;0.58562;0.58844;0.59125;0.59406;0.59687;0.59969;0.60250;0.60531;0.60812;0.61094;0.61375;0.61656;0.61938;0.62219;0.62500;0.62781;0.63062;0.63344;0.73125" values="186.00;186.00;198.00;210.00;222.00;234.00;246.00;258.00;270.00;282.00;294.00;306.00;318.00;330.00;342.00;354.00;366.00;378.00;390.00;402.00;414.00;426.00;438.00;450.00;462.00;474.00;486.00;498.00;510.00;522.00;534.00;546.00;558.00;570.00;582.00;594.00;606.00;618.00;630.00;642.00;654.00;666.00;678.00;690.00;702.00;714.00;186.00"/><animate attributeName="opacity" dur="16.0s" repeatCount="indefinite" calcMode="discrete" keyTimes="0.00000;0.50625;0.73125" values="0;1;0"/></rect></g>
+<text x="186.0" y="205" font-size="20" font-weight="normal" xml:space="preserve" clip-path="url(#c3)"><tspan fill="#BAE6FD">&gt; QuickLive: 1st place, Sheryians Cohort 2.0</tspan></text>
+<g><animate attributeName="opacity" values="1;0;1" keyTimes="0;0.5;1" calcMode="discrete" dur="0.9s" repeatCount="indefinite"/><rect y="188.6" width="10.2" height="20.0" fill="#7DD3FC"><animate attributeName="x" dur="16.0s" repeatCount="indefinite" calcMode="discrete" keyTimes="0.00000;0.50625;0.51250;0.51531;0.51812;0.52094;0.52375;0.52656;0.52937;0.53219;0.53500;0.53781;0.54062;0.54344;0.54625;0.54906;0.55188;0.55469;0.55750;0.56031;0.56312;0.56594;0.56875;0.57156;0.57437;0.57719;0.58000;0.58281;0.58562;0.58844;0.59125;0.59406;0.59687;0.59969;0.60250;0.60531;0.60812;0.61094;0.61375;0.61656;0.61938;0.62219;0.62500;0.62781;0.63062;0.63344;0.73125" values="186.00;186.00;198.00;210.00;222.00;234.00;246.00;258.00;270.00;282.00;294.00;306.00;318.00;330.00;342.00;354.00;366.00;378.00;390.00;402.00;414.00;426.00;438.00;450.00;462.00;474.00;486.00;498.00;510.00;522.00;534.00;546.00;558.00;570.00;582.00;594.00;606.00;618.00;630.00;642.00;654.00;666.00;678.00;690.00;702.00;714.00;186.00"/><animate attributeName="opacity" dur="16.0s" repeatCount="indefinite" calcMode="discrete" keyTimes="0.00000;0.50625;0.73125" values="0;1;0"/></rect></g>
 <clipPath id="c4"><rect x="186.0" y="185.0" width="0" height="30.0"><animate attributeName="width" dur="16.0s" repeatCount="indefinite" calcMode="discrete" keyTimes="0.00000;0.76250;0.76531;0.76812;0.77094;0.77375;0.77656;0.77937;0.78219;0.78500;0.78781;0.79062;0.79344;0.79625;0.79906;0.80188;0.80469;0.80750;0.81031;0.81312;0.81594;0.81875;0.82156;0.82437;0.82719;0.83000;0.83281;0.83562;0.83844;0.84125;0.84406;0.84687;0.84969;0.85250;0.85531;0.85812;0.86094;0.86375;0.86656;0.86938;0.87219;0.87500;0.87781;0.88062;0.88344;0.98125" values="0;12;24;36;48;60;72;84;96;108;120;132;144;156;168;180;192;204;216;228;240;252;264;276;288;300;312;324;336;348;360;372;384;396;408;420;432;444;456;468;480;492;504;516;528;0"/></rect></clipPath>
-<text x="186.0" y="205" font-size="20" font-weight="normal" xml:space="preserve" clip-path="url(#c4)"><tspan fill="#D1FAE5">&gt; Chasing Awwwards-level craft, line by line</tspan></text>
-<g><animate attributeName="opacity" values="1;0;1" keyTimes="0;0.5;1" calcMode="discrete" dur="0.9s" repeatCount="indefinite"/><rect y="188.6" width="10.2" height="20.0" fill="#FBBF24"><animate attributeName="x" dur="16.0s" repeatCount="indefinite" calcMode="discrete" keyTimes="0.00000;0.75625;0.76250;0.76531;0.76812;0.77094;0.77375;0.77656;0.77937;0.78219;0.78500;0.78781;0.79062;0.79344;0.79625;0.79906;0.80188;0.80469;0.80750;0.81031;0.81312;0.81594;0.81875;0.82156;0.82437;0.82719;0.83000;0.83281;0.83562;0.83844;0.84125;0.84406;0.84687;0.84969;0.85250;0.85531;0.85812;0.86094;0.86375;0.86656;0.86938;0.87219;0.87500;0.87781;0.88062;0.88344;0.98125" values="186.00;186.00;198.00;210.00;222.00;234.00;246.00;258.00;270.00;282.00;294.00;306.00;318.00;330.00;342.00;354.00;366.00;378.00;390.00;402.00;414.00;426.00;438.00;450.00;462.00;474.00;486.00;498.00;510.00;522.00;534.00;546.00;558.00;570.00;582.00;594.00;606.00;618.00;630.00;642.00;654.00;666.00;678.00;690.00;702.00;714.00;186.00"/><animate attributeName="opacity" dur="16.0s" repeatCount="indefinite" calcMode="discrete" keyTimes="0.00000;0.75625;0.98125" values="0;1;0"/></rect></g>
-<text x="450" y="252" font-size="13" letter-spacing="3" text-anchor="middle" fill="#FBBF24">[ NOW RENDERING ]<animate attributeName="opacity" values="1;0.25;1" dur="1.6s" repeatCount="indefinite"/></text>
+<text x="186.0" y="205" font-size="20" font-weight="normal" xml:space="preserve" clip-path="url(#c4)"><tspan fill="#BAE6FD">&gt; Chasing Awwwards-level craft, line by line</tspan></text>
+<g><animate attributeName="opacity" values="1;0;1" keyTimes="0;0.5;1" calcMode="discrete" dur="0.9s" repeatCount="indefinite"/><rect y="188.6" width="10.2" height="20.0" fill="#7DD3FC"><animate attributeName="x" dur="16.0s" repeatCount="indefinite" calcMode="discrete" keyTimes="0.00000;0.75625;0.76250;0.76531;0.76812;0.77094;0.77375;0.77656;0.77937;0.78219;0.78500;0.78781;0.79062;0.79344;0.79625;0.79906;0.80188;0.80469;0.80750;0.81031;0.81312;0.81594;0.81875;0.82156;0.82437;0.82719;0.83000;0.83281;0.83562;0.83844;0.84125;0.84406;0.84687;0.84969;0.85250;0.85531;0.85812;0.86094;0.86375;0.86656;0.86938;0.87219;0.87500;0.87781;0.88062;0.88344;0.98125" values="186.00;186.00;198.00;210.00;222.00;234.00;246.00;258.00;270.00;282.00;294.00;306.00;318.00;330.00;342.00;354.00;366.00;378.00;390.00;402.00;414.00;426.00;438.00;450.00;462.00;474.00;486.00;498.00;510.00;522.00;534.00;546.00;558.00;570.00;582.00;594.00;606.00;618.00;630.00;642.00;654.00;666.00;678.00;690.00;702.00;714.00;186.00"/><animate attributeName="opacity" dur="16.0s" repeatCount="indefinite" calcMode="discrete" keyTimes="0.00000;0.75625;0.98125" values="0;1;0"/></rect></g>
+<text x="450" y="252" font-size="13" letter-spacing="3" text-anchor="middle" fill="#7DD3FC">[ NOW RENDERING ]<animate attributeName="opacity" values="1;0.25;1" dur="1.6s" repeatCount="indefinite"/></text>
 </svg>

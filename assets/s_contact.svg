@@ -1,12 +1,12 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="800" height="64" viewBox="0 0 800 64" font-family="Courier New, Courier, DejaVu Sans Mono, monospace">
-<defs><linearGradient id="beam" x1="0" x2="1" y1="0" y2="0"><stop offset="0" stop-color="#34D399" stop-opacity="0"/><stop offset="0.5" stop-color="#FBBF24"/><stop offset="1" stop-color="#34D399" stop-opacity="0"/></linearGradient></defs>
-<rect x="1" y="1" width="798" height="62" rx="10" fill="#04100c" stroke="#059669" stroke-opacity="0.45"/>
-<rect x="1" y="12" width="4" height="40" rx="2" fill="#34D399"/>
-<text x="24" y="39" font-size="20" fill="#6B9A87">luvin@gpu:~$</text>
+<defs><linearGradient id="beam" x1="0" x2="1" y1="0" y2="0"><stop offset="0" stop-color="#38BDF8" stop-opacity="0"/><stop offset="0.5" stop-color="#7DD3FC"/><stop offset="1" stop-color="#38BDF8" stop-opacity="0"/></linearGradient></defs>
+<rect x="1" y="1" width="798" height="62" rx="10" fill="#040b14" stroke="#0369A1" stroke-opacity="0.45"/>
+<rect x="1" y="12" width="4" height="40" rx="2" fill="#38BDF8"/>
+<text x="24" y="39" font-size="20" fill="#6B8FA8">luvin@gpu:~$</text>
 <clipPath id="c15"><rect x="180" y="19.0" width="0" height="30.0"><animate attributeName="width" dur="9s" repeatCount="indefinite" calcMode="discrete" keyTimes="0.00000;0.04111;0.04889;0.05667;0.06444;0.07222;0.08000;0.08778;0.09556;0.10333;0.11111;0.11889;0.12667;0.13444;0.14222;0.15000;0.15778;0.16556;0.17333;0.83333" values="0;12;24;36;48;60;72;84;96;108;120;132;144;156;168;180;192;204;216;0"/></rect></clipPath>
-<text x="180" y="39" font-size="20" font-weight="bold" xml:space="preserve" clip-path="url(#c15)"><tspan fill="#ECFDF5">ping luvin --reach</tspan></text>
-<g><animate attributeName="opacity" values="1;0;1" keyTimes="0;0.5;1" calcMode="discrete" dur="0.9s" repeatCount="indefinite"/><rect y="22.6" width="10.2" height="20.0" fill="#FBBF24"><animate attributeName="x" dur="9s" repeatCount="indefinite" calcMode="discrete" keyTimes="0.00000;0.03333;0.04111;0.04889;0.05667;0.06444;0.07222;0.08000;0.08778;0.09556;0.10333;0.11111;0.11889;0.12667;0.13444;0.14222;0.15000;0.15778;0.16556;0.17333;0.83333" values="180.00;180.00;192.00;204.00;216.00;228.00;240.00;252.00;264.00;276.00;288.00;300.00;312.00;324.00;336.00;348.00;360.00;372.00;384.00;396.00;180.00"/><animate attributeName="opacity" dur="9s" repeatCount="indefinite" calcMode="discrete" keyTimes="0.00000;0.03333;0.83333" values="0;1;0"/></rect></g>
-<text x="776" y="36" font-size="12" text-anchor="end" fill="#FBBF24">[ 60 FPS ]<animate attributeName="opacity" values="1;0.3;1" dur="1.8s" repeatCount="indefinite"/></text>
-<rect y="56" width="800" height="1" fill="#34D399" opacity="0.25"/>
+<text x="180" y="39" font-size="20" font-weight="bold" xml:space="preserve" clip-path="url(#c15)"><tspan fill="#E0F2FE">ping luvin --reach</tspan></text>
+<g><animate attributeName="opacity" values="1;0;1" keyTimes="0;0.5;1" calcMode="discrete" dur="0.9s" repeatCount="indefinite"/><rect y="22.6" width="10.2" height="20.0" fill="#7DD3FC"><animate attributeName="x" dur="9s" repeatCount="indefinite" calcMode="discrete" keyTimes="0.00000;0.03333;0.04111;0.04889;0.05667;0.06444;0.07222;0.08000;0.08778;0.09556;0.10333;0.11111;0.11889;0.12667;0.13444;0.14222;0.15000;0.15778;0.16556;0.17333;0.83333" values="180.00;180.00;192.00;204.00;216.00;228.00;240.00;252.00;264.00;276.00;288.00;300.00;312.00;324.00;336.00;348.00;360.00;372.00;384.00;396.00;180.00"/><animate attributeName="opacity" dur="9s" repeatCount="indefinite" calcMode="discrete" keyTimes="0.00000;0.03333;0.83333" values="0;1;0"/></rect></g>
+<text x="776" y="36" font-size="12" text-anchor="end" fill="#7DD3FC">[ 60 FPS ]<animate attributeName="opacity" values="1;0.3;1" dur="1.8s" repeatCount="indefinite"/></text>
+<rect y="56" width="800" height="1" fill="#38BDF8" opacity="0.25"/>
 <rect y="55" width="160" height="3" fill="url(#beam)"><animate attributeName="x" from="-160" to="800" dur="2.8s" repeatCount="indefinite"/></rect>
 </svg>

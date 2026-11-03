@@ -1,12 +1,12 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="800" height="170" viewBox="0 0 800 170" font-family="Courier New, Courier, DejaVu Sans Mono, monospace">
-<rect x="1" y="1" width="798" height="168" rx="12" fill="#04100c" stroke="#34D399" stroke-opacity="0.4"/>
-<rect x="1" y="14" width="4" height="32" rx="2" fill="#34D399"/>
+<rect x="1" y="1" width="798" height="168" rx="12" fill="#040b14" stroke="#38BDF8" stroke-opacity="0.4"/>
+<rect x="1" y="14" width="4" height="32" rx="2" fill="#38BDF8"/>
 <text x="24" y="36" font-size="17" font-weight="bold" fill="#FFFFFF">&gt; ./streak --current</text>
-<text x="776" y="36" font-size="12" text-anchor="end" fill="#6B9A87">since 2025-10-12</text>
-<g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.00s" dur="0.5s" fill="freeze"/><text x="136.0" y="104" font-size="40" font-weight="bold" text-anchor="middle" fill="#34D399">1,043</text><text x="136.0" y="128" font-size="12" text-anchor="middle" fill="#C8E6D8">TOTAL CONTRIBUTIONS</text><text x="136.0" y="148" font-size="11" text-anchor="middle" fill="#6B9A87">2025-10-12 - present</text></g>
-<g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.20s" dur="0.5s" fill="freeze"/><text x="400.0" y="104" font-size="46" font-weight="bold" text-anchor="middle" fill="#FBBF24">1</text><text x="400.0" y="128" font-size="12" text-anchor="middle" fill="#C8E6D8">CURRENT STREAK</text><text x="400.0" y="148" font-size="11" text-anchor="middle" fill="#6B9A87">Oct 17 - Oct 17</text></g>
-<g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.40s" dur="0.5s" fill="freeze"/><text x="664.0" y="104" font-size="40" font-weight="bold" text-anchor="middle" fill="#34D399">17</text><text x="664.0" y="128" font-size="12" text-anchor="middle" fill="#C8E6D8">LONGEST STREAK</text><text x="664.0" y="148" font-size="11" text-anchor="middle" fill="#6B9A87">Dec 19 - Jan 4</text></g>
-<line x1="272.0" y1="64" x2="272.0" y2="152" stroke="#34D399" stroke-opacity="0.25"/>
-<line x1="528.0" y1="64" x2="528.0" y2="152" stroke="#34D399" stroke-opacity="0.25"/>
-<circle cx="400.0" cy="97" r="40" fill="none" stroke="#FBBF24" stroke-opacity="0.35" stroke-width="3"><animate attributeName="stroke-opacity" values="0.15;0.6;0.15" dur="2.4s" repeatCount="indefinite"/></circle>
+<text x="776" y="36" font-size="12" text-anchor="end" fill="#6B8FA8">since 2024-05-30</text>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.00s" dur="0.5s" fill="freeze"/><text x="136.0" y="104" font-size="40" font-weight="bold" text-anchor="middle" fill="#38BDF8">1,991</text><text x="136.0" y="128" font-size="12" text-anchor="middle" fill="#CFE6F5">TOTAL CONTRIBUTIONS</text><text x="136.0" y="148" font-size="11" text-anchor="middle" fill="#6B8FA8">2024-05-30 - present</text></g>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.20s" dur="0.5s" fill="freeze"/><text x="400.0" y="104" font-size="40" font-weight="bold" text-anchor="middle" fill="#7DD3FC">367</text><text x="400.0" y="128" font-size="12" text-anchor="middle" fill="#CFE6F5">CURRENT STREAK</text><text x="400.0" y="148" font-size="11" text-anchor="middle" fill="#6B8FA8">Nov 2 - Nov 3</text></g>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.40s" dur="0.5s" fill="freeze"/><text x="664.0" y="104" font-size="40" font-weight="bold" text-anchor="middle" fill="#38BDF8">367</text><text x="664.0" y="128" font-size="12" text-anchor="middle" fill="#CFE6F5">LONGEST STREAK</text><text x="664.0" y="148" font-size="11" text-anchor="middle" fill="#6B8FA8">Nov 2 - Nov 3</text></g>
+<line x1="272.0" y1="64" x2="272.0" y2="152" stroke="#38BDF8" stroke-opacity="0.25"/>
+<line x1="528.0" y1="64" x2="528.0" y2="152" stroke="#38BDF8" stroke-opacity="0.25"/>
+<circle cx="400.0" cy="97" r="50" fill="none" stroke="#7DD3FC" stroke-opacity="0.35" stroke-width="3"><animate attributeName="stroke-opacity" values="0.15;0.6;0.15" dur="2.4s" repeatCount="indefinite"/></circle>
 </svg>

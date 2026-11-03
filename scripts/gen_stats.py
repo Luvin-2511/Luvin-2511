@@ -11,9 +11,9 @@ import random
 import sys
 import urllib.request
 
-G = "#34D399"
-DIM = "#6B9A87"
-WHITE = "#C8E6D8"
+G = "#38BDF8"
+DIM = "#6B8FA8"
+WHITE = "#CFE6F5"
 FF = "Courier New, Courier, DejaVu Sans Mono, monospace"
 
 QUERY = """
@@ -171,7 +171,7 @@ def contrib_svg(user):
              '<stop offset="0" stop-color="%s" stop-opacity="0.38"/><stop offset="1" stop-color="%s" stop-opacity="0"/></linearGradient>'
              '<filter id="gl" x="-5%%" y="-30%%" width="110%%" height="160%%"><feGaussianBlur stdDeviation="3" result="b"/>'
              '<feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>' % (G, G))
-    s.append('<rect x="1" y="1" width="%d" height="%d" rx="12" fill="#04100c" stroke="%s" stroke-opacity="0.4"/>' % (W - 2, H - 2, G))
+    s.append('<rect x="1" y="1" width="%d" height="%d" rx="12" fill="#040b14" stroke="%s" stroke-opacity="0.4"/>' % (W - 2, H - 2, G))
     s.append('<rect x="1" y="14" width="4" height="40" rx="2" fill="%s"/>' % G)
     s.append('<text x="24" y="34" font-size="17" font-weight="bold" fill="#FFFFFF">&gt; git log --contributions --since=1y</text>')
     s.append('<text x="24" y="56" font-size="12" fill="%s">weekly commits, issues, PRs and reviews</text>' % DIM)
@@ -207,7 +207,7 @@ def contrib_svg(user):
 
 # ---------------------------------------------------------------- trophies
 RANKS = ["-", "C", "B", "A", "S"]
-TIER = ["#1f4a3a", DIM, G, "#FBBF24", "#FB7185"]
+TIER = ["#1e3a52", DIM, G, "#7DD3FC", "#E0F2FE"]
 
 
 def short(v):
@@ -230,7 +230,7 @@ def trophies_svg(user):
     unlocked = sum(1 for _, v, th in items if v >= th[0])
     s = []
     s.append('<svg xmlns="http://www.w3.org/2000/svg" width="%d" height="%d" viewBox="0 0 %d %d" font-family="%s">' % (W, H, W, H, FF))
-    s.append('<rect x="1" y="1" width="%d" height="%d" rx="12" fill="#04100c" stroke="%s" stroke-opacity="0.4"/>' % (W - 2, H - 2, G))
+    s.append('<rect x="1" y="1" width="%d" height="%d" rx="12" fill="#040b14" stroke="%s" stroke-opacity="0.4"/>' % (W - 2, H - 2, G))
     s.append('<rect x="1" y="14" width="4" height="32" rx="2" fill="%s"/>' % G)
     s.append('<text x="24" y="36" font-size="17" font-weight="bold" fill="#FFFFFF">&gt; ./trophies.sh --show-all</text>')
     s.append('<text x="776" y="36" font-size="13" text-anchor="end" fill="%s">UNLOCKED %d/%d'
@@ -243,13 +243,13 @@ def trophies_svg(user):
         delay = 0.2 + i * 0.18
         s.append('<g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="%.2fs" dur="0.5s" fill="freeze"/>'
                  '<animateTransform attributeName="transform" type="translate" from="0 14" to="0 0" begin="%.2fs" dur="0.5s" fill="freeze"/>' % (delay, delay))
-        s.append('<rect x="%d" y="%d" width="%d" height="152" rx="10" fill="#081a14" stroke="%s" stroke-width="1.5" stroke-opacity="%s">%s</rect>'
+        s.append('<rect x="%d" y="%d" width="%d" height="152" rx="10" fill="#08141f" stroke="%s" stroke-width="1.5" stroke-opacity="%s">%s</rect>'
                  % (x, top, cw, col, "0.9" if rank else "0.5",
                     '<animate attributeName="stroke-opacity" values="0.5;1;0.5" dur="2.4s" repeatCount="indefinite"/>' if rank >= 3 else ""))
         hx, hy, r = cxm, top + 40, 24
         hexpts = " ".join("%.1f,%.1f" % (hx + r * __import__("math").cos(__import__("math").radians(60 * k - 30)),
                                            hy + r * __import__("math").sin(__import__("math").radians(60 * k - 30))) for k in range(6))
-        s.append('<polygon points="%s" fill="#0f2a20" stroke="%s" stroke-width="2"/>' % (hexpts, col))
+        s.append('<polygon points="%s" fill="#0c2236" stroke="%s" stroke-width="2"/>' % (hexpts, col))
         s.append('<text x="%.1f" y="%.1f" font-size="22" font-weight="bold" text-anchor="middle" fill="%s">%s</text>' % (hx, hy + 8, col, RANKS[rank]))
         s.append('<text x="%.1f" y="%d" font-size="28" font-weight="bold" text-anchor="middle" fill="#FFFFFF">%s</text>' % (cxm, top + 106, esc(short(val))))
         s.append('<text x="%.1f" y="%d" font-size="11" text-anchor="middle" fill="%s">%s</text>' % (cxm, top + 130, DIM, esc(label)))
@@ -260,7 +260,7 @@ def trophies_svg(user):
 # ---------------------------------------------------------------- shared card chrome
 def card_open(W, H, title, sub=None):
     s = ['<svg xmlns="http://www.w3.org/2000/svg" width="%d" height="%d" viewBox="0 0 %d %d" font-family="%s">' % (W, H, W, H, FF)]
-    s.append('<rect x="1" y="1" width="%d" height="%d" rx="12" fill="#04100c" stroke="%s" stroke-opacity="0.4"/>' % (W - 2, H - 2, G))
+    s.append('<rect x="1" y="1" width="%d" height="%d" rx="12" fill="#040b14" stroke="%s" stroke-opacity="0.4"/>' % (W - 2, H - 2, G))
     s.append('<rect x="1" y="14" width="4" height="32" rx="2" fill="%s"/>' % G)
     s.append('<text x="24" y="36" font-size="17" font-weight="bold" fill="#FFFFFF">%s</text>' % esc(title))
     if sub:
@@ -313,6 +313,8 @@ def langs_svg(user):
     bx, bw = 24, W - 48
     s.append('<clipPath id="bar"><rect x="%d" y="56" width="%d" height="10" rx="5"/></clipPath><g clip-path="url(#bar)">' % (bx, bw))
     x = float(bx)
+    SHADES = ["#38BDF8", "#0EA5E9", "#7DD3FC", "#0284C7", "#BAE6FD", "#0369A1"]
+    top = [(n, (v[0], SHADES[i])) for i, (n, v) in enumerate(top)]
     for name, (size, col) in top:
         w = bw * size / whole
         s.append('<rect x="%.1f" y="56" width="%.1f" height="10" fill="%s"/>' % (x, w, col))
@@ -380,12 +382,13 @@ def streak_svg(user, history=None):
                 history[d["date"]] = d["contributionCount"]
     cur, best, cs, ce, bs, be = streaks(history)
     total = sum(history.values())
-    first = min(history) if history else None
+    active = [d for d, c in history.items() if c > 0]
+    first = min(active) if active else None
     W, H = 800, 170
     s = card_open(W, H, "> ./streak --current", "since " + (first or "-"))
     cols = [
         (W * 0.17, "TOTAL CONTRIBUTIONS", format(total, ","), (first or "-") + " - present", 40, G),
-        (W * 0.5, "CURRENT STREAK", str(cur), (fmt_d(cs) + " - " + fmt_d(ce)) if cur else "no active streak", 46, "#FBBF24"),
+        (W * 0.5, "CURRENT STREAK", str(cur), (fmt_d(cs) + " - " + fmt_d(ce)) if cur else "no active streak", 40, "#7DD3FC"),
         (W * 0.83, "LONGEST STREAK", str(best), (fmt_d(bs) + " - " + fmt_d(be)) if best else "-", 40, G),
     ]
     for i, (cx, label, val, rng, fs, col) in enumerate(cols):
@@ -396,7 +399,7 @@ def streak_svg(user, history=None):
                  % (0.2 * i, cx, fs, col, esc(val), cx, WHITE, label, cx, DIM, esc(rng)))
     for x in (W * 0.34, W * 0.66):
         s.append('<line x1="%.1f" y1="64" x2="%.1f" y2="152" stroke="%s" stroke-opacity="0.25"/>' % (x, x, G))
-    s.append('<circle cx="%.1f" cy="97" r="40" fill="none" stroke="#FBBF24" stroke-opacity="0.35" stroke-width="3">'
+    s.append('<circle cx="%.1f" cy="97" r="50" fill="none" stroke="#7DD3FC" stroke-opacity="0.35" stroke-width="3">'
              '<animate attributeName="stroke-opacity" values="0.15;0.6;0.15" dur="2.4s" repeatCount="indefinite"/></circle>' % (W * 0.5))
     s.append('</svg>')
     return "\n".join(s)
@@ -405,9 +408,159 @@ def streak_svg(user, history=None):
 # ---------------------------------------------------------------- snake placeholder (real one comes from Platane/snk)
 def snake_placeholder():
     s = ['<svg xmlns="http://www.w3.org/2000/svg" width="800" height="140" viewBox="0 0 800 140" font-family="%s">' % FF,
-         '<rect x="1" y="1" width="798" height="138" rx="12" fill="#04100c" stroke="%s" stroke-opacity="0.4"/>' % G,
+         '<rect x="1" y="1" width="798" height="138" rx="12" fill="#040b14" stroke="%s" stroke-opacity="0.4"/>' % G,
          '<text x="400" y="76" font-size="14" text-anchor="middle" fill="%s">snake is warming up... run the workflow once</text>' % DIM,
          '</svg>']
+    return "\n".join(s)
+
+
+# ---------------------------------------------------------------- token-free fallback (public profile page)
+def _get(url, accept=None):
+    req = urllib.request.Request(url, headers={"User-Agent": "profile-svg-generator", **({"Accept": accept} if accept else {})})
+    with urllib.request.urlopen(req, timeout=30) as r:
+        return r.read().decode("utf-8", "replace")
+
+
+def scrape_year(login, year):
+    import re
+    page = _get("https://github.com/users/%s/contributions?from=%d-01-01&to=%d-12-31" % (login, year, year))
+    cells = {}
+    for tag in re.findall(r"<td[^>]*data-date=[^>]*>", page):
+        d = re.search(r'data-date="([\d-]+)"', tag)
+        i = re.search(r'id="([^"]+)"', tag)
+        if d and i:
+            cells[i.group(1)] = d.group(1)
+    out = {}
+    for m in re.finditer(r'<tool-tip[^>]*for="([^"]+)"[^>]*>\s*([^<]*?)\s*</tool-tip>', page):
+        cid, text = m.group(1), m.group(2)
+        if cid in cells:
+            n = re.match(r"([\d,]+) contribution", text)
+            out[cells[cid]] = int(n.group(1).replace(",", "")) if n else 0
+    return out
+
+
+def scrape_history(login):
+    import datetime
+    days, seen = {}, False
+    for y in range(datetime.date.today().year, datetime.date.today().year - 15, -1):
+        got = scrape_year(login, y)
+        if any(got.values()):
+            seen = True
+        elif seen:
+            break
+        days.update(got)
+    return days
+
+
+def calendar_from_history(days, weeks=53):
+    import datetime
+    today = datetime.date.today()
+    start = today - datetime.timedelta(days=today.weekday() + 1 if today.weekday() != 6 else 0)  # last Sunday
+    start -= datetime.timedelta(weeks=weeks - 1)
+    out, d = [], start
+    for _ in range(weeks):
+        col = []
+        for _ in range(7):
+            if d <= today:
+                col.append({"date": d.isoformat(), "contributionCount": days.get(d.isoformat(), 0)})
+            d += datetime.timedelta(days=1)
+        out.append({"contributionDays": col})
+    total = sum(x["contributionCount"] for w in out for x in w["contributionDays"])
+    return {"totalContributions": total, "weeks": out}
+
+
+def public_user(login, history):
+    """Build a user dict without a token. Anything the public REST API can't give us stays empty."""
+    cal = calendar_from_history(history)
+    user = {"followers": {"totalCount": 0}, "createdAt": None,
+            "repositories": {"totalCount": 0, "nodes": []},
+            "pullRequests": {"totalCount": 0}, "issues": {"totalCount": 0},
+            "contributionsCollection": {"contributionYears": [], "totalCommitContributions": 0, "contributionCalendar": cal},
+            "_partial": True}
+    try:
+        u = json.loads(_get("https://api.github.com/users/" + login))
+        repos = json.loads(_get("https://api.github.com/users/%s/repos?per_page=100&type=owner" % login))
+        nodes = []
+        for r in repos:
+            if r.get("fork"):
+                continue
+            langs = json.loads(_get(r["languages_url"]))
+            nodes.append({"stargazerCount": r.get("stargazers_count", 0),
+                          "languages": {"edges": [{"size": v, "node": {"name": k, "color": G}} for k, v in langs.items()]}})
+        user["followers"] = {"totalCount": u.get("followers", 0)}
+        user["repositories"] = {"totalCount": len(nodes), "nodes": nodes}
+        user["_partial"] = False
+    except Exception as e:
+        print("public REST data unavailable (%s); stats/langs/trophies will show a sync placeholder" % e)
+    return user
+
+
+def sync_placeholder(title, W=392, H=220):
+    s = card_open(W, H, title)
+    s.append('<text x="%d" y="120" font-size="13" text-anchor="middle" fill="%s">syncing live data...</text>' % (W // 2, DIM))
+    s.append('<text x="%d" y="142" font-size="11" text-anchor="middle" fill="%s">refreshes on the next workflow run</text></svg>' % (W // 2, DIM))
+    return "\n".join(s)
+
+
+# ---------------------------------------------------------------- snake (self-drawn, no third-party action)
+def snake_svg(user):
+    weeks = user["contributionsCollection"]["contributionCalendar"]["weeks"]
+    cols = []
+    for w in weeks:
+        ds = w["contributionDays"]
+        cols.append([d["contributionCount"] for d in ds] + [None] * (7 - len(ds)))
+    pitch, size, x0, y0 = 14, 11, 29, 38
+    ncol = len(cols)
+    W, H = 800, y0 + 7 * pitch + 26
+    mx = max([c for col in cols for c in col if c] or [1])
+    shades = ["#0c2236", "#0c4a6e", "#0369A1", "#0EA5E9", "#7DD3FC"]
+
+    def level(c):
+        if not c:
+            return 0
+        return min(4, 1 + int(3.999 * c / float(mx)))
+
+    order = []  # boustrophedon path: down one column, up the next
+    for ci, col in enumerate(cols):
+        rows = [r for r in range(7) if col[r] is not None]
+        for r in (rows if ci % 2 == 0 else rows[::-1]):
+            order.append((ci, r))
+    n = len(order)
+    step = 0.09
+    dur = max(n * step, 1)
+    cx = lambda c: x0 + c * pitch + size / 2.0
+    cy = lambda r: y0 + r * pitch + size / 2.0
+    s = ['<svg xmlns="http://www.w3.org/2000/svg" width="%d" height="%d" viewBox="0 0 %d %d" font-family="%s">' % (W, H, W, H, FF)]
+    s.append('<rect x="1" y="1" width="%d" height="%d" rx="12" fill="#040b14" stroke="%s" stroke-opacity="0.4"/>' % (W - 2, H - 2, G))
+    s.append('<rect x="1" y="14" width="4" height="32" rx="2" fill="%s"/>' % G)
+    s.append('<text x="24" y="30" font-size="14" font-weight="bold" fill="#FFFFFF">&gt; ./snake --eat contributions</text>')
+    idx = {pos: i for i, pos in enumerate(order)}
+    for ci, col in enumerate(cols):
+        for r, c in enumerate(col):
+            if c is None:
+                continue
+            lv = level(c)
+            x, y = x0 + ci * pitch, y0 + r * pitch
+            if lv == 0:
+                s.append('<rect x="%d" y="%d" width="%d" height="%d" rx="2" fill="%s"/>' % (x, y, size, size, shades[0]))
+            else:
+                t = idx[(ci, r)] / float(n)
+                s.append('<rect x="%d" y="%d" width="%d" height="%d" rx="2" fill="%s">'
+                         '<animate attributeName="fill" dur="%.2fs" repeatCount="indefinite" calcMode="discrete" '
+                         'keyTimes="0;%.4f;1" values="%s;%s;%s"/></rect>' % (x, y, size, size, shades[lv], dur, t, shades[lv], shades[0], shades[lv]))
+    # path of the head, relative to the first cell
+    fc, fr = order[0]
+    pts = ["M0,0"] + ["L%d,%d" % (cx(c) - cx(fc), cy(r) - cy(fr)) for c, r in order[1:]]
+    path = " ".join(pts)
+    segs = 6
+    for k in range(segs - 1, -1, -1):
+        col = "#E0F2FE" if k == 0 else ("#38BDF8" if k < 3 else "#0EA5E9")
+        sz = size if k == 0 else size - 2
+        off = (size - sz) / 2.0
+        s.append('<rect x="%.1f" y="%.1f" width="%d" height="%d" rx="3" fill="%s" opacity="%.2f">'
+                 '<animateMotion dur="%.2fs" repeatCount="indefinite" begin="%.2fs" path="%s"/></rect>'
+                 % (cx(fc) - size / 2.0 + off, cy(fr) - size / 2.0 + off, sz, sz, col, 1.0 - k * 0.1, dur, k * step * 1.0, path))
+    s.append('</svg>')
     return "\n".join(s)
 
 
@@ -416,31 +569,36 @@ def main():
     out = args[0] if args else "dist"
     os.makedirs(out, exist_ok=True)
     history = None
+    token, login = os.environ.get("GITHUB_TOKEN"), os.environ.get("LOGIN")
     if "--demo" in sys.argv:
         user = demo_user()
     else:
-        token = os.environ.get("GITHUB_TOKEN")
-        login = os.environ.get("LOGIN")
-        if not token or not login:
-            raise SystemExit("Set GITHUB_TOKEN and LOGIN (or pass --demo)")
-        user = fetch(login, token)
-        try:
-            history = fetch_history(login, token, user["contributionsCollection"]["contributionYears"])
-        except Exception as e:  # fall back to the 1-year calendar
-            print("history fetch failed, using last year only:", e)
+        if not login:
+            raise SystemExit("Set LOGIN (and GITHUB_TOKEN for full stats), or pass --demo")
+        user = None
+        if token:
+            try:
+                user = fetch(login, token)
+                history = fetch_history(login, token, user["contributionsCollection"]["contributionYears"])
+            except BaseException as e:
+                print("GraphQL failed (%s); falling back to public data" % e)
+                user = None
+        if user is None:
+            history = scrape_history(login)
+            user = public_user(login, history)
+    partial = user.get("_partial")
     files = {
         "contrib-graph.svg": contrib_svg(user),
-        "trophies.svg": trophies_svg(user),
-        "stats.svg": stats_svg(user, history),
-        "langs.svg": langs_svg(user),
         "streak.svg": streak_svg(user, history),
+        "snake-dark.svg": snake_svg(user),
+        "stats.svg": sync_placeholder("> git stats --live") if partial else stats_svg(user, history),
+        "langs.svg": sync_placeholder("> ls ./languages") if partial else langs_svg(user),
+        "trophies.svg": sync_placeholder("> ./trophies.sh --show-all", 800, 232) if partial else trophies_svg(user),
     }
-    if "--demo" in sys.argv:
-        files["snake-dark.svg"] = snake_placeholder()
     for name, content in files.items():
         with open(os.path.join(out, name), "w", encoding="utf-8") as f:
             f.write(content)
-    print("written to", out)
+    print("written to", out, "(partial)" if partial else "")
 
 
 if __name__ == "__main__":
