@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="290" viewBox="0 0 800 290" font-family="Courier New, Courier, DejaVu Sans Mono, monospace">
+<defs><linearGradient id="ar" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#34D399" stop-opacity="0.38"/><stop offset="1" stop-color="#34D399" stop-opacity="0"/></linearGradient><filter id="gl" x="-5%" y="-30%" width="110%" height="160%"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+<rect x="1" y="1" width="798" height="288" rx="12" fill="#04100c" stroke="#34D399" stroke-opacity="0.4"/>
+<rect x="1" y="14" width="4" height="40" rx="2" fill="#34D399"/>
+<text x="24" y="34" font-size="17" font-weight="bold" fill="#FFFFFF">&gt; git log --contributions --since=1y</text>
+<text x="24" y="56" font-size="12" fill="#6B9A87">weekly commits, issues, PRs and reviews</text>
+<text x="776" y="34" font-size="22" font-weight="bold" text-anchor="end" fill="#34D399">640</text>
+<text x="776" y="54" font-size="12" text-anchor="end" fill="#6B9A87">TOTAL CONTRIBUTIONS</text>
+<line x1="56" y1="232.0" x2="770" y2="232.0" stroke="#34D399" stroke-opacity="0.15" stroke-dasharray="3 5"/>
+<text x="48" y="235.0" font-size="10" text-anchor="end" fill="#6B9A87">0</text>
+<line x1="56" y1="162.0" x2="770" y2="162.0" stroke="#34D399" stroke-opacity="0.15" stroke-dasharray="3 5"/>
+<text x="48" y="165.0" font-size="10" text-anchor="end" fill="#6B9A87">16</text>
+<line x1="56" y1="92.0" x2="770" y2="92.0" stroke="#34D399" stroke-opacity="0.15" stroke-dasharray="3 5"/>
+<text x="48" y="95.0" font-size="10" text-anchor="end" fill="#6B9A87">33</text>
+<text x="56.0" y="254" font-size="11" fill="#6B9A87">Oct</text>
+<text x="97.2" y="254" font-size="11" fill="#6B9A87">Nov</text>
+<text x="165.8" y="254" font-size="11" fill="#6B9A87">Dec</text>
+<text x="220.8" y="254" font-size="11" fill="#6B9A87">Jan</text>
+<text x="275.7" y="254" font-size="11" fill="#6B9A87">Feb</text>
+<text x="330.6" y="254" font-size="11" fill="#6B9A87">Mar</text>
+<text x="399.3" y="254" font-size="11" fill="#6B9A87">Apr</text>
+<text x="454.2" y="254" font-size="11" fill="#6B9A87">May</text>
+<text x="522.8" y="254" font-size="11" fill="#6B9A87">Jun</text>
+<text x="577.8" y="254" font-size="11" fill="#6B9A87">Jul</text>
+<text x="632.7" y="254" font-size="11" fill="#6B9A87">Aug</text>
+<text x="701.3" y="254" font-size="11" fill="#6B9A87">Sep</text>
+<text x="756.3" y="254" font-size="11" fill="#6B9A87">Oct</text>
+<path d="M56.0,181.1 L69.7,142.9 L83.5,172.6 L97.2,113.2 L110.9,134.4 L124.7,130.2 L138.4,121.7 L152.1,117.5 L165.8,142.9 L179.6,198.1 L193.3,109.0 L207.0,138.7 L220.8,155.6 L234.5,117.5 L248.2,151.4 L262.0,155.6 L275.7,121.7 L289.4,176.8 L303.2,130.2 L316.9,168.4 L330.6,215.0 L344.3,181.1 L358.1,164.1 L371.8,134.4 L385.5,109.0 L399.3,138.7 L413.0,159.9 L426.7,155.6 L440.5,172.6 L454.2,151.4 L467.9,159.9 L481.7,168.4 L495.4,185.3 L509.1,138.7 L522.8,117.5 L536.6,159.9 L550.3,147.2 L564.0,164.1 L577.8,96.2 L591.5,172.6 L605.2,172.6 L619.0,113.2 L632.7,100.5 L646.4,155.6 L660.2,113.2 L673.9,181.1 L687.6,164.1 L701.3,159.9 L715.1,92.0 L728.8,142.9 L742.5,142.9 L756.3,189.6 L770.0,172.6 L770.0,232 L56.0,232 Z" fill="url(#ar)" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="1.2s" dur="1s" fill="freeze"/></path>
+<path d="M56.0,181.1 L69.7,142.9 L83.5,172.6 L97.2,113.2 L110.9,134.4 L124.7,130.2 L138.4,121.7 L152.1,117.5 L165.8,142.9 L179.6,198.1 L193.3,109.0 L207.0,138.7 L220.8,155.6 L234.5,117.5 L248.2,151.4 L262.0,155.6 L275.7,121.7 L289.4,176.8 L303.2,130.2 L316.9,168.4 L330.6,215.0 L344.3,181.1 L358.1,164.1 L371.8,134.4 L385.5,109.0 L399.3,138.7 L413.0,159.9 L426.7,155.6 L440.5,172.6 L454.2,151.4 L467.9,159.9 L481.7,168.4 L495.4,185.3 L509.1,138.7 L522.8,117.5 L536.6,159.9 L550.3,147.2 L564.0,164.1 L577.8,96.2 L591.5,172.6 L605.2,172.6 L619.0,113.2 L632.7,100.5 L646.4,155.6 L660.2,113.2 L673.9,181.1 L687.6,164.1 L701.3,159.9 L715.1,92.0 L728.8,142.9 L742.5,142.9 L756.3,189.6 L770.0,172.6" fill="none" stroke="#34D399" stroke-width="6" stroke-opacity="0.18" stroke-linejoin="round" pathLength="1" stroke-dasharray="1" stroke-dashoffset="1"><animate attributeName="stroke-dashoffset" from="1" to="0" dur="2.2s" fill="freeze"/></path>
+<path d="M56.0,181.1 L69.7,142.9 L83.5,172.6 L97.2,113.2 L110.9,134.4 L124.7,130.2 L138.4,121.7 L152.1,117.5 L165.8,142.9 L179.6,198.1 L193.3,109.0 L207.0,138.7 L220.8,155.6 L234.5,117.5 L248.2,151.4 L262.0,155.6 L275.7,121.7 L289.4,176.8 L303.2,130.2 L316.9,168.4 L330.6,215.0 L344.3,181.1 L358.1,164.1 L371.8,134.4 L385.5,109.0 L399.3,138.7 L413.0,159.9 L426.7,155.6 L440.5,172.6 L454.2,151.4 L467.9,159.9 L481.7,168.4 L495.4,185.3 L509.1,138.7 L522.8,117.5 L536.6,159.9 L550.3,147.2 L564.0,164.1 L577.8,96.2 L591.5,172.6 L605.2,172.6 L619.0,113.2 L632.7,100.5 L646.4,155.6 L660.2,113.2 L673.9,181.1 L687.6,164.1 L701.3,159.9 L715.1,92.0 L728.8,142.9 L742.5,142.9 L756.3,189.6 L770.0,172.6" fill="none" stroke="#34D399" stroke-width="2" stroke-linejoin="round" pathLength="1" stroke-dasharray="1" stroke-dashoffset="1" filter="url(#gl)"><animate attributeName="stroke-dashoffset" from="1" to="0" dur="2.2s" fill="freeze"/></path>
+<rect y="86" width="2" height="146" fill="#34D399" opacity="0.25"><animate attributeName="x" from="56" to="770" dur="5s" repeatCount="indefinite"/></rect>
+<circle cx="715.1" cy="92.0" r="4" fill="#34D399"><animate attributeName="r" values="3;7;3" dur="1.6s" repeatCount="indefinite"/><animate attributeName="opacity" values="1;0.35;1" dur="1.6s" repeatCount="indefinite"/></circle>
+<text x="710.0" y="80.0" font-size="11" text-anchor="middle" fill="#FFFFFF">peak week: 33</text>
+</svg>

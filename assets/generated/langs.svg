@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="392" height="220" viewBox="0 0 392 220" font-family="Courier New, Courier, DejaVu Sans Mono, monospace">
+<rect x="1" y="1" width="390" height="218" rx="12" fill="#04100c" stroke="#34D399" stroke-opacity="0.4"/>
+<rect x="1" y="14" width="4" height="32" rx="2" fill="#34D399"/>
+<text x="24" y="36" font-size="17" font-weight="bold" fill="#FFFFFF">&gt; ls ./languages</text>
+<clipPath id="bar"><rect x="24" y="56" width="344" height="10" rx="5"/></clipPath><g clip-path="url(#bar)">
+<rect x="24.0" y="56" width="135.5" height="10" fill="#f1e05a"/>
+<rect x="159.5" y="56" width="80.8" height="10" fill="#3178c6"/>
+<rect x="240.3" y="56" width="62.5" height="10" fill="#3572A5"/>
+<rect x="302.8" y="56" width="31.3" height="10" fill="#f34b7d"/>
+<rect x="334.1" y="56" width="23.5" height="10" fill="#563d7c"/>
+<rect x="357.6" y="56" width="10.4" height="10" fill="#e34c26"/>
+</g>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.00s" dur="0.4s" fill="freeze"/><circle cx="29" cy="92" r="5" fill="#f1e05a"/><text x="42" y="96" font-size="13" fill="#C8E6D8">JavaScript</text><text x="42" y="111" font-size="11" fill="#6B9A87">39.4%</text></g>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.15s" dur="0.4s" fill="freeze"/><circle cx="205" cy="92" r="5" fill="#3178c6"/><text x="218" y="96" font-size="13" fill="#C8E6D8">TypeScript</text><text x="218" y="111" font-size="11" fill="#6B9A87">23.5%</text></g>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.30s" dur="0.4s" fill="freeze"/><circle cx="29" cy="126" r="5" fill="#3572A5"/><text x="42" y="130" font-size="13" fill="#C8E6D8">Python</text><text x="42" y="145" font-size="11" fill="#6B9A87">18.2%</text></g>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.45s" dur="0.4s" fill="freeze"/><circle cx="205" cy="126" r="5" fill="#f34b7d"/><text x="218" y="130" font-size="13" fill="#C8E6D8">C++</text><text x="218" y="145" font-size="11" fill="#6B9A87">9.1%</text></g>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.60s" dur="0.4s" fill="freeze"/><circle cx="29" cy="160" r="5" fill="#563d7c"/><text x="42" y="164" font-size="13" fill="#C8E6D8">CSS</text><text x="42" y="179" font-size="11" fill="#6B9A87">6.8%</text></g>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.75s" dur="0.4s" fill="freeze"/><circle cx="205" cy="160" r="5" fill="#e34c26"/><text x="218" y="164" font-size="13" fill="#C8E6D8">HTML</text><text x="218" y="179" font-size="11" fill="#6B9A87">3.0%</text></g>
+</svg>

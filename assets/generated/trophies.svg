@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="232" viewBox="0 0 800 232" font-family="Courier New, Courier, DejaVu Sans Mono, monospace">
+<rect x="1" y="1" width="798" height="230" rx="12" fill="#04100c" stroke="#34D399" stroke-opacity="0.4"/>
+<rect x="1" y="14" width="4" height="32" rx="2" fill="#34D399"/>
+<text x="24" y="36" font-size="17" font-weight="bold" fill="#FFFFFF">&gt; ./trophies.sh --show-all</text>
+<text x="776" y="36" font-size="13" text-anchor="end" fill="#34D399">UNLOCKED 6/6<animate attributeName="opacity" values="1;0.4;1" dur="1.8s" repeatCount="indefinite"/></text>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.20s" dur="0.5s" fill="freeze"/><animateTransform attributeName="transform" type="translate" from="0 14" to="0 0" begin="0.20s" dur="0.5s" fill="freeze"/>
+<rect x="16" y="62" width="118" height="152" rx="10" fill="#081a14" stroke="#6B9A87" stroke-width="1.5" stroke-opacity="0.9"></rect>
+<polygon points="95.8,90.0 95.8,114.0 75.0,126.0 54.2,114.0 54.2,90.0 75.0,78.0" fill="#0f2a20" stroke="#6B9A87" stroke-width="2"/>
+<text x="75.0" y="110.0" font-size="22" font-weight="bold" text-anchor="middle" fill="#6B9A87">C</text>
+<text x="75.0" y="168" font-size="28" font-weight="bold" text-anchor="middle" fill="#FFFFFF">4</text>
+<text x="75.0" y="192" font-size="11" text-anchor="middle" fill="#6B9A87">STARS</text>
+</g>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.38s" dur="0.5s" fill="freeze"/><animateTransform attributeName="transform" type="translate" from="0 14" to="0 0" begin="0.38s" dur="0.5s" fill="freeze"/>
+<rect x="146" y="62" width="118" height="152" rx="10" fill="#081a14" stroke="#FBBF24" stroke-width="1.5" stroke-opacity="0.9"><animate attributeName="stroke-opacity" values="0.5;1;0.5" dur="2.4s" repeatCount="indefinite"/></rect>
+<polygon points="225.8,90.0 225.8,114.0 205.0,126.0 184.2,114.0 184.2,90.0 205.0,78.0" fill="#0f2a20" stroke="#FBBF24" stroke-width="2"/>
+<text x="205.0" y="110.0" font-size="22" font-weight="bold" text-anchor="middle" fill="#FBBF24">A</text>
+<text x="205.0" y="168" font-size="28" font-weight="bold" text-anchor="middle" fill="#FFFFFF">420</text>
+<text x="205.0" y="192" font-size="11" text-anchor="middle" fill="#6B9A87">COMMITS 1Y</text>
+</g>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.56s" dur="0.5s" fill="freeze"/><animateTransform attributeName="transform" type="translate" from="0 14" to="0 0" begin="0.56s" dur="0.5s" fill="freeze"/>
+<rect x="276" y="62" width="118" height="152" rx="10" fill="#081a14" stroke="#34D399" stroke-width="1.5" stroke-opacity="0.9"></rect>
+<polygon points="355.8,90.0 355.8,114.0 335.0,126.0 314.2,114.0 314.2,90.0 335.0,78.0" fill="#0f2a20" stroke="#34D399" stroke-width="2"/>
+<text x="335.0" y="110.0" font-size="22" font-weight="bold" text-anchor="middle" fill="#34D399">B</text>
+<text x="335.0" y="168" font-size="28" font-weight="bold" text-anchor="middle" fill="#FFFFFF">7</text>
+<text x="335.0" y="192" font-size="11" text-anchor="middle" fill="#6B9A87">PULL REQUESTS</text>
+</g>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.74s" dur="0.5s" fill="freeze"/><animateTransform attributeName="transform" type="translate" from="0 14" to="0 0" begin="0.74s" dur="0.5s" fill="freeze"/>
+<rect x="406" y="62" width="118" height="152" rx="10" fill="#081a14" stroke="#6B9A87" stroke-width="1.5" stroke-opacity="0.9"></rect>
+<polygon points="485.8,90.0 485.8,114.0 465.0,126.0 444.2,114.0 444.2,90.0 465.0,78.0" fill="#0f2a20" stroke="#6B9A87" stroke-width="2"/>
+<text x="465.0" y="110.0" font-size="22" font-weight="bold" text-anchor="middle" fill="#6B9A87">C</text>
+<text x="465.0" y="168" font-size="28" font-weight="bold" text-anchor="middle" fill="#FFFFFF">2</text>
+<text x="465.0" y="192" font-size="11" text-anchor="middle" fill="#6B9A87">ISSUES</text>
+</g>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.92s" dur="0.5s" fill="freeze"/><animateTransform attributeName="transform" type="translate" from="0 14" to="0 0" begin="0.92s" dur="0.5s" fill="freeze"/>
+<rect x="536" y="62" width="118" height="152" rx="10" fill="#081a14" stroke="#34D399" stroke-width="1.5" stroke-opacity="0.9"></rect>
+<polygon points="615.8,90.0 615.8,114.0 595.0,126.0 574.2,114.0 574.2,90.0 595.0,78.0" fill="#0f2a20" stroke="#34D399" stroke-width="2"/>
+<text x="595.0" y="110.0" font-size="22" font-weight="bold" text-anchor="middle" fill="#34D399">B</text>
+<text x="595.0" y="168" font-size="28" font-weight="bold" text-anchor="middle" fill="#FFFFFF">9</text>
+<text x="595.0" y="192" font-size="11" text-anchor="middle" fill="#6B9A87">REPOS</text>
+</g>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="1.10s" dur="0.5s" fill="freeze"/><animateTransform attributeName="transform" type="translate" from="0 14" to="0 0" begin="1.10s" dur="0.5s" fill="freeze"/>
+<rect x="666" y="62" width="118" height="152" rx="10" fill="#081a14" stroke="#34D399" stroke-width="1.5" stroke-opacity="0.9"></rect>
+<polygon points="745.8,90.0 745.8,114.0 725.0,126.0 704.2,114.0 704.2,90.0 725.0,78.0" fill="#0f2a20" stroke="#34D399" stroke-width="2"/>
+<text x="725.0" y="110.0" font-size="22" font-weight="bold" text-anchor="middle" fill="#34D399">B</text>
+<text x="725.0" y="168" font-size="28" font-weight="bold" text-anchor="middle" fill="#FFFFFF">12</text>
+<text x="725.0" y="192" font-size="11" text-anchor="middle" fill="#6B9A87">FOLLOWERS</text>
+</g>
+</svg>
